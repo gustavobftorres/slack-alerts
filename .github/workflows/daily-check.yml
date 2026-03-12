@@ -1,0 +1,42 @@
+name: Balancer V3 Daily Pool Check
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # every day at 00:00 UTC
+  workflow_dispatch:        # allow manual runs for testing
+
+jobs:
+  check-pools:
+    name: Check pools and send Slack alerts
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write       # needed to commit the updated snapshot back
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily pool check
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: python src/main.py
+
+      - name: Commit updated snapshot
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/snapshot.json
+          git diff --cached --quiet || git commit -m "chore: update daily pool snapshot [skip ci]"
+          git push
