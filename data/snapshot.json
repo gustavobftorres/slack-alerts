@@ -4,15 +4,15 @@
     "name": "Balancer Aave GHO/USDT/USDC",
     "address": "0x85b2b559bc2d21104c4defdd6efca8a20343361d",
     "chain": "MAINNET",
-    "total_liquidity_usd": 25422881.1,
+    "total_liquidity_usd": 25933027.19,
     "is_paused": false
   },
-  "0xae255db04ba78519f33871c557d8fd6bafdb83bd": {
-    "id": "0xae255db04ba78519f33871c557d8fd6bafdb83bd",
-    "name": "Stream Surge xUSD-vgUSDC",
-    "address": "0xae255db04ba78519f33871c557d8fd6bafdb83bd",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 12641763.93,
+  "0x83470106402ed0bc83f91bb13266d35bdb23f1b9": {
+    "id": "0x83470106402ed0bc83f91bb13266d35bdb23f1b9",
+    "name": "jujukiki",
+    "address": "0x83470106402ed0bc83f91bb13266d35bdb23f1b9",
+    "chain": "BASE",
+    "total_liquidity_usd": 23838249.21,
     "is_paused": false
   },
   "0x7ab124ec4029316c2a42f713828ddf2a192b36db": {
@@ -20,7 +20,15 @@
     "name": "Balancer Aave USDC-Aave GHO",
     "address": "0x7ab124ec4029316c2a42f713828ddf2a192b36db",
     "chain": "BASE",
-    "total_liquidity_usd": 12042492.95,
+    "total_liquidity_usd": 13294536.77,
+    "is_paused": false
+  },
+  "0xae255db04ba78519f33871c557d8fd6bafdb83bd": {
+    "id": "0xae255db04ba78519f33871c557d8fd6bafdb83bd",
+    "name": "Stream Surge xUSD-vgUSDC",
+    "address": "0xae255db04ba78519f33871c557d8fd6bafdb83bd",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 12847507.78,
     "is_paused": false
   },
   "0x1ea5870f7c037930ce1d5d8d9317c670e89e13e3": {
@@ -28,15 +36,7 @@
     "name": "Balancer rETH - Aave WETH",
     "address": "0x1ea5870f7c037930ce1d5d8d9317c670e89e13e3",
     "chain": "MAINNET",
-    "total_liquidity_usd": 9574507.47,
-    "is_paused": false
-  },
-  "0x19b001e6bc2d89154c18e2216eec5c8c6047b6d8": {
-    "id": "0x19b001e6bc2d89154c18e2216eec5c8c6047b6d8",
-    "name": "Balancer Aave GHO/USDT/USDC",
-    "address": "0x19b001e6bc2d89154c18e2216eec5c8c6047b6d8",
-    "chain": "ARBITRUM",
-    "total_liquidity_usd": 7437664.09,
+    "total_liquidity_usd": 9347482.02,
     "is_paused": false
   },
   "0x6b31a94029fd7840d780191b6d63fa0d269bd883": {
@@ -44,7 +44,15 @@
     "name": "Balancer Surge Fluid wstETH-wETH",
     "address": "0x6b31a94029fd7840d780191b6d63fa0d269bd883",
     "chain": "MAINNET",
-    "total_liquidity_usd": 7038485.09,
+    "total_liquidity_usd": 6916122.96,
+    "is_paused": false
+  },
+  "0x19b001e6bc2d89154c18e2216eec5c8c6047b6d8": {
+    "id": "0x19b001e6bc2d89154c18e2216eec5c8c6047b6d8",
+    "name": "Balancer Aave GHO/USDT/USDC",
+    "address": "0x19b001e6bc2d89154c18e2216eec5c8c6047b6d8",
+    "chain": "ARBITRUM",
+    "total_liquidity_usd": 6803228.7,
     "is_paused": false
   },
   "0x9ed5175aecb6653c1bdaa19793c16fd74fbeeb37": {
@@ -52,7 +60,7 @@
     "name": "Balancer Surge tETH-Lido wstETH",
     "address": "0x9ed5175aecb6653c1bdaa19793c16fd74fbeeb37",
     "chain": "MAINNET",
-    "total_liquidity_usd": 4937569.53,
+    "total_liquidity_usd": 4765512.02,
     "is_paused": false
   },
   "0x6e6bb18449fcf15b79efa2cfa70acf7593088029": {
@@ -60,7 +68,7 @@
     "name": "waWstETH waWETH",
     "address": "0x6e6bb18449fcf15b79efa2cfa70acf7593088029",
     "chain": "GNOSIS",
-    "total_liquidity_usd": 2616994.91,
+    "total_liquidity_usd": 2568897.74,
     "is_paused": false
   },
   "0x57c23c58b1d8c3292c15becf07c62c5c52457a42": {
@@ -68,7 +76,7 @@
     "name": "Balancer osETH-waWETH",
     "address": "0x57c23c58b1d8c3292c15becf07c62c5c52457a42",
     "chain": "MAINNET",
-    "total_liquidity_usd": 2170950.55,
+    "total_liquidity_usd": 2133806.14,
     "is_paused": false
   },
   "0x111ce2a60c30f6058a57d0dbae1a39a42d998826": {
@@ -76,15 +84,7 @@
     "name": "MainStreet msUSD-USDC",
     "address": "0x111ce2a60c30f6058a57d0dbae1a39a42d998826",
     "chain": "MAINNET",
-    "total_liquidity_usd": 1394320.52,
-    "is_paused": false
-  },
-  "0xa978cc348a0b5de8bd564a1d8fe437787fd12664": {
-    "id": "0xa978cc348a0b5de8bd564a1d8fe437787fd12664",
-    "name": "EURe-Aave USDC",
-    "address": "0xa978cc348a0b5de8bd564a1d8fe437787fd12664",
-    "chain": "ARBITRUM",
-    "total_liquidity_usd": 1166623.82,
+    "total_liquidity_usd": 1415009.1,
     "is_paused": false
   },
   "0x9054ae85300c7d3a325714fc2f1454d0b7c73a12": {
@@ -92,7 +92,15 @@
     "name": "MainStreet msY-msUSD",
     "address": "0x9054ae85300c7d3a325714fc2f1454d0b7c73a12",
     "chain": "MAINNET",
-    "total_liquidity_usd": 1138557.52,
+    "total_liquidity_usd": 1168718.93,
+    "is_paused": false
+  },
+  "0xa978cc348a0b5de8bd564a1d8fe437787fd12664": {
+    "id": "0xa978cc348a0b5de8bd564a1d8fe437787fd12664",
+    "name": "EURe-Aave USDC",
+    "address": "0xa978cc348a0b5de8bd564a1d8fe437787fd12664",
+    "chain": "ARBITRUM",
+    "total_liquidity_usd": 1135178.75,
     "is_paused": false
   },
   "0x114907c2a07978c38ebb9f9f6a5261a846b79521": {
@@ -100,7 +108,7 @@
     "name": "aUSDC USP",
     "address": "0x114907c2a07978c38ebb9f9f6a5261a846b79521",
     "chain": "MAINNET",
-    "total_liquidity_usd": 1061836.1,
+    "total_liquidity_usd": 1061864.24,
     "is_paused": false
   },
   "0xb7b8b3afc010169779c5c2385ec0eb0477fe3347": {
@@ -108,15 +116,7 @@
     "name": "Balancer rETH-Aave wETH",
     "address": "0xb7b8b3afc010169779c5c2385ec0eb0477fe3347",
     "chain": "BASE",
-    "total_liquidity_usd": 710092.91,
-    "is_paused": false
-  },
-  "0x5418a64e0cdb20548acb394f5d00a089baf02161": {
-    "id": "0x5418a64e0cdb20548acb394f5d00a089baf02161",
-    "name": "Balancer rETH-Aave wETH",
-    "address": "0x5418a64e0cdb20548acb394f5d00a089baf02161",
-    "chain": "ARBITRUM",
-    "total_liquidity_usd": 689262.51,
+    "total_liquidity_usd": 698032.91,
     "is_paused": false
   },
   "0x1fed8401c145f64da567881d272d0df233118dca": {
@@ -124,7 +124,7 @@
     "name": "USDp-gamiUSDC",
     "address": "0x1fed8401c145f64da567881d272d0df233118dca",
     "chain": "AVALANCHE",
-    "total_liquidity_usd": 667626.52,
+    "total_liquidity_usd": 669109.14,
     "is_paused": false
   },
   "0x7a1f882cc27d9113ac19e49b542e06aae3bbb2ef": {
@@ -132,7 +132,15 @@
     "name": "Infinifi msUSD-iUSD",
     "address": "0x7a1f882cc27d9113ac19e49b542e06aae3bbb2ef",
     "chain": "MAINNET",
-    "total_liquidity_usd": 647357.34,
+    "total_liquidity_usd": 647493.08,
+    "is_paused": false
+  },
+  "0x5418a64e0cdb20548acb394f5d00a089baf02161": {
+    "id": "0x5418a64e0cdb20548acb394f5d00a089baf02161",
+    "name": "Balancer rETH-Aave wETH",
+    "address": "0x5418a64e0cdb20548acb394f5d00a089baf02161",
+    "chain": "ARBITRUM",
+    "total_liquidity_usd": 589089.1,
     "is_paused": false
   },
   "0xc2c6a23461fffc71068a7cb207336d68c91fb8bd": {
@@ -140,7 +148,7 @@
     "name": "Balancer Aave USDCe-Aave GHO",
     "address": "0xc2c6a23461fffc71068a7cb207336d68c91fb8bd",
     "chain": "GNOSIS",
-    "total_liquidity_usd": 572798.49,
+    "total_liquidity_usd": 572668.53,
     "is_paused": false
   },
   "0x1535d7ca00323aa32bd62aeddf7ca651e4b95966": {
@@ -148,7 +156,7 @@
     "name": "Alchemix 80ALCX-20WETH",
     "address": "0x1535d7ca00323aa32bd62aeddf7ca651e4b95966",
     "chain": "MAINNET",
-    "total_liquidity_usd": 504570.35,
+    "total_liquidity_usd": 466013.53,
     "is_paused": false
   },
   "0xdaba3d8ccf79ef289a7e2dbce51871b39ea445a2": {
@@ -156,7 +164,7 @@
     "name": "Balancer 80TREE-20AavePrimeWETH",
     "address": "0xdaba3d8ccf79ef289a7e2dbce51871b39ea445a2",
     "chain": "MAINNET",
-    "total_liquidity_usd": 378635.18,
+    "total_liquidity_usd": 365195.16,
     "is_paused": false
   },
   "0x870c0af8a1af0b58b4b0bd31ce4fe72864ae45be": {
@@ -164,7 +172,7 @@
     "name": "Balancer rETH-Aave wETH",
     "address": "0x870c0af8a1af0b58b4b0bd31ce4fe72864ae45be",
     "chain": "OPTIMISM",
-    "total_liquidity_usd": 357572.27,
+    "total_liquidity_usd": 350502.31,
     "is_paused": false
   },
   "0x3bcf4e84c32d90bb309eab58d97b70372c84bc2c": {
@@ -172,7 +180,7 @@
     "name": "USDp-USDC",
     "address": "0x3bcf4e84c32d90bb309eab58d97b70372c84bc2c",
     "chain": "BASE",
-    "total_liquidity_usd": 246199.16,
+    "total_liquidity_usd": 246053.5,
     "is_paused": false
   },
   "0xc072880e1bc0bcddc99db882c7f3e7a839281cf4": {
@@ -180,7 +188,7 @@
     "name": "Balancer Aave wstETH-wETH",
     "address": "0xc072880e1bc0bcddc99db882c7f3e7a839281cf4",
     "chain": "ARBITRUM",
-    "total_liquidity_usd": 192803.93,
+    "total_liquidity_usd": 189442.09,
     "is_paused": false
   },
   "0x6b61d8680c4f9e560c8306807908553f95c749c5": {
@@ -188,7 +196,7 @@
     "name": "Safe Haven-BTC:PAXG:USDC",
     "address": "0x6b61d8680c4f9e560c8306807908553f95c749c5",
     "chain": "MAINNET",
-    "total_liquidity_usd": 165199.38,
+    "total_liquidity_usd": 164567.19,
     "is_paused": false
   },
   "0x51cdf9cc199f8121b58d9337983a79a1b87330fd": {
@@ -196,7 +204,7 @@
     "name": "USD29Y Liquidity Hub",
     "address": "0x51cdf9cc199f8121b58d9337983a79a1b87330fd",
     "chain": "MAINNET",
-    "total_liquidity_usd": 161248.53,
+    "total_liquidity_usd": 161249.55,
     "is_paused": false
   },
   "0x6649a010cbcf5742e7a13a657df358556b3e55cf": {
@@ -204,7 +212,7 @@
     "name": "Balancer rsETH hgETH",
     "address": "0x6649a010cbcf5742e7a13a657df358556b3e55cf",
     "chain": "MAINNET",
-    "total_liquidity_usd": 155799.97,
+    "total_liquidity_usd": 153170.03,
     "is_paused": false
   },
   "0xe5556b41256d7efb2f0a17011ef8ab507a352141": {
@@ -212,7 +220,7 @@
     "name": "yoBTC Balancer Stable Pool",
     "address": "0xe5556b41256d7efb2f0a17011ef8ab507a352141",
     "chain": "BASE",
-    "total_liquidity_usd": 144869.05,
+    "total_liquidity_usd": 143575.27,
     "is_paused": false
   },
   "0xe2332649955c7c98389480ab46dd4cb6755ac703": {
@@ -220,7 +228,7 @@
     "name": "75SDEX25AaveLidoETH",
     "address": "0xe2332649955c7c98389480ab46dd4cb6755ac703",
     "chain": "MAINNET",
-    "total_liquidity_usd": 141038.07,
+    "total_liquidity_usd": 138521.6,
     "is_paused": false
   },
   "0x1846c6cbe0d433e152fa358e5ff27968e18bce7c": {
@@ -228,7 +236,7 @@
     "name": "Balancer 80PRL 20WETH",
     "address": "0x1846c6cbe0d433e152fa358e5ff27968e18bce7c",
     "chain": "MAINNET",
-    "total_liquidity_usd": 132988.14,
+    "total_liquidity_usd": 130364.57,
     "is_paused": false
   },
   "0xbda917a67c7d9ae67da92c4ea87e10e5d6c11b54": {
@@ -236,7 +244,7 @@
     "name": "50WETH 50EIGEN",
     "address": "0xbda917a67c7d9ae67da92c4ea87e10e5d6c11b54",
     "chain": "MAINNET",
-    "total_liquidity_usd": 113227.9,
+    "total_liquidity_usd": 113701.88,
     "is_paused": false
   },
   "0x071828acc755314e687448703775f22194f56867": {
@@ -244,7 +252,7 @@
     "name": "Balancer Surge siUSD-sUSDe",
     "address": "0x071828acc755314e687448703775f22194f56867",
     "chain": "MAINNET",
-    "total_liquidity_usd": 110877.87,
+    "total_liquidity_usd": 110933.35,
     "is_paused": false
   },
   "0x849bae578b9367c5b0f285e6ec52ba0db9b4ed9d": {
@@ -252,7 +260,7 @@
     "name": "HUMPY'S GOLD",
     "address": "0x849bae578b9367c5b0f285e6ec52ba0db9b4ed9d",
     "chain": "MAINNET",
-    "total_liquidity_usd": 99909.76,
+    "total_liquidity_usd": 99116.04,
     "is_paused": false
   },
   "0x39677db4db990af7bc3fcfb66704de7473aa19bd": {
@@ -260,7 +268,7 @@
     "name": "USDp-frxUSD",
     "address": "0x39677db4db990af7bc3fcfb66704de7473aa19bd",
     "chain": "BASE",
-    "total_liquidity_usd": 78681.34,
+    "total_liquidity_usd": 98765.38,
     "is_paused": false
   },
   "0x483bc7fe92fc392305dd97d4d3363e0e0a7f144d": {
@@ -268,7 +276,7 @@
     "name": "Nerite Surge eeUSDC-yUSND",
     "address": "0x483bc7fe92fc392305dd97d4d3363e0e0a7f144d",
     "chain": "ARBITRUM",
-    "total_liquidity_usd": 77263.24,
+    "total_liquidity_usd": 77218.74,
     "is_paused": false
   },
   "0xb17f203507d2014e49961fb0d9dd241a220f118b": {
@@ -276,7 +284,7 @@
     "name": "PROS-3COMBO",
     "address": "0xb17f203507d2014e49961fb0d9dd241a220f118b",
     "chain": "MAINNET",
-    "total_liquidity_usd": 72600.01,
+    "total_liquidity_usd": 72159.92,
     "is_paused": false
   },
   "0xb5bfb5adb736ea852bd58fec71db3b356c2a3938": {
@@ -284,7 +292,7 @@
     "name": "Balancer Aave wstETH-ezETH",
     "address": "0xb5bfb5adb736ea852bd58fec71db3b356c2a3938",
     "chain": "BASE",
-    "total_liquidity_usd": 70268.68,
+    "total_liquidity_usd": 69274.68,
     "is_paused": false
   },
   "0xc4ce391d82d164c166df9c8336ddf84206b2f812": {
@@ -292,7 +300,7 @@
     "name": "Balancer Aave Lido wETH-wstETH",
     "address": "0xc4ce391d82d164c166df9c8336ddf84206b2f812",
     "chain": "MAINNET",
-    "total_liquidity_usd": 68322.29,
+    "total_liquidity_usd": 67109.34,
     "is_paused": false
   },
   "0x9c5f17d96ca66748b459788148b7357220f2d100": {
@@ -300,7 +308,7 @@
     "name": "Balancer Aave wstETH/ezETH",
     "address": "0x9c5f17d96ca66748b459788148b7357220f2d100",
     "chain": "ARBITRUM",
-    "total_liquidity_usd": 66873.51,
+    "total_liquidity_usd": 65711.69,
     "is_paused": false
   },
   "0x2be9d6899432e988a8b71eb80ee29a49521e2cba": {
@@ -308,7 +316,7 @@
     "name": "tETH waBaswstETH",
     "address": "0x2be9d6899432e988a8b71eb80ee29a49521e2cba",
     "chain": "BASE",
-    "total_liquidity_usd": 65457.69,
+    "total_liquidity_usd": 64347.48,
     "is_paused": false
   },
   "0x412d928c31b82b78ccb8b04aa8bfcdadb9236fc6": {
@@ -316,7 +324,7 @@
     "name": "tETH waArbwstETH",
     "address": "0x412d928c31b82b78ccb8b04aa8bfcdadb9236fc6",
     "chain": "ARBITRUM",
-    "total_liquidity_usd": 64995.84,
+    "total_liquidity_usd": 63955.95,
     "is_paused": false
   },
   "0x9ab907fb3e098103ca048ad26e501bf7b3dfa3eb": {
@@ -324,7 +332,7 @@
     "name": "Balancer Surge Aave EURC-GHO",
     "address": "0x9ab907fb3e098103ca048ad26e501bf7b3dfa3eb",
     "chain": "BASE",
-    "total_liquidity_usd": 55828.96,
+    "total_liquidity_usd": 55462.67,
     "is_paused": false
   },
   "0x3e6c8f40d38d0b41c94862e6d4083c65ce0ce566": {
@@ -332,7 +340,7 @@
     "name": "BOLD-WUSDN",
     "address": "0x3e6c8f40d38d0b41c94862e6d4083c65ce0ce566",
     "chain": "MAINNET",
-    "total_liquidity_usd": 54225.0,
+    "total_liquidity_usd": 54524.96,
     "is_paused": false
   },
   "0x272d6be442e30d7c87390edeb9b96f1e84cecd8d": {
@@ -340,7 +348,7 @@
     "name": "50waWstETH 50waGNO",
     "address": "0x272d6be442e30d7c87390edeb9b96f1e84cecd8d",
     "chain": "GNOSIS",
-    "total_liquidity_usd": 53764.12,
+    "total_liquidity_usd": 53175.23,
     "is_paused": false
   },
   "0x22715161201922af61f4ca22e979ef0c6c20be13": {
@@ -348,39 +356,39 @@
     "name": "Balancer Surge eK3 savUSD-USDT",
     "address": "0x22715161201922af61f4ca22e979ef0c6c20be13",
     "chain": "AVALANCHE",
-    "total_liquidity_usd": 50928.37,
+    "total_liquidity_usd": 51002.48,
     "is_paused": false
   },
-  "0x2ac4e2e1c0062124af08f1ddaab39f0b77f030fc": {
-    "id": "0x2ac4e2e1c0062124af08f1ddaab39f0b77f030fc",
-    "name": "WETH EIGEN 0.1%/MjAwfDg4fDQ1NXwwfDE=",
-    "address": "0x2ac4e2e1c0062124af08f1ddaab39f0b77f030fc",
+  "0xa2478dca138388b89db6b3531f37c1a951927ce1": {
+    "id": "0xa2478dca138388b89db6b3531f37c1a951927ce1",
+    "name": "WETH EIGEN 0.1%/MjAwfDE3NnwyMzJ8MXwx",
+    "address": "0xa2478dca138388b89db6b3531f37c1a951927ce1",
     "chain": "MAINNET",
-    "total_liquidity_usd": 50063.03,
+    "total_liquidity_usd": 50000.62,
     "is_paused": false
   },
-  "0xbbced29af4375eea56d4d71969f0c789d529ef5d": {
-    "id": "0xbbced29af4375eea56d4d71969f0c789d529ef5d",
-    "name": "WETH EIGEN 0.1%/MjAwfDE3NnwyMzR8MXwx",
-    "address": "0xbbced29af4375eea56d4d71969f0c789d529ef5d",
+  "0x34d3f82a9246684d6619943cedd6e6d12026b845": {
+    "id": "0x34d3f82a9246684d6619943cedd6e6d12026b845",
+    "name": "WETH EIGEN 0.1%/MjAwfDg4fDQ1OHwxfDE=",
+    "address": "0x34d3f82a9246684d6619943cedd6e6d12026b845",
     "chain": "MAINNET",
-    "total_liquidity_usd": 49673.3,
+    "total_liquidity_usd": 49982.38,
     "is_paused": false
   },
-  "0xf9f32448eb04fa6f2566c8f4ddb0e7a972d843b3": {
-    "id": "0xf9f32448eb04fa6f2566c8f4ddb0e7a972d843b3",
-    "name": "WETH EIGEN 0.1%/MjAwfDE3NnwyMjZ8MHwx",
-    "address": "0xf9f32448eb04fa6f2566c8f4ddb0e7a972d843b3",
+  "0x408da6b964fcb88c05f417f9edd99e186f811217": {
+    "id": "0x408da6b964fcb88c05f417f9edd99e186f811217",
+    "name": "WETH EIGEN 0.1%/MjAwfDE3NnwyMjR8MHwz",
+    "address": "0x408da6b964fcb88c05f417f9edd99e186f811217",
     "chain": "MAINNET",
-    "total_liquidity_usd": 49532.62,
+    "total_liquidity_usd": 49907.86,
     "is_paused": false
   },
-  "0x88e0f2101c614a2725d14ef4a5522c7254a6d848": {
-    "id": "0x88e0f2101c614a2725d14ef4a5522c7254a6d848",
-    "name": "WETH EIGEN 0.1%/MjAwfDg4fDQ2M3wxfDE=",
-    "address": "0x88e0f2101c614a2725d14ef4a5522c7254a6d848",
+  "0x15e730a27c382a4f3755b60704eab5e966a32874": {
+    "id": "0x15e730a27c382a4f3755b60704eab5e966a32874",
+    "name": "WETH EIGEN 0.1%/MjAwfDg4fDQ1MHwwfDE=",
+    "address": "0x15e730a27c382a4f3755b60704eab5e966a32874",
     "chain": "MAINNET",
-    "total_liquidity_usd": 49477.39,
+    "total_liquidity_usd": 49738.69,
     "is_paused": false
   },
   "0x41551a9f5c76e2411c877e9952547178720a4a84": {
@@ -388,7 +396,7 @@
     "name": "PAXG/PROSPECTIVE",
     "address": "0x41551a9f5c76e2411c877e9952547178720a4a84",
     "chain": "MAINNET",
-    "total_liquidity_usd": 48967.88,
+    "total_liquidity_usd": 48394.24,
     "is_paused": false
   },
   "0x53d31feb99eccd1375a9ec433d1d7873dfb68263": {
@@ -396,15 +404,7 @@
     "name": "reCLAMM WETH-PRL",
     "address": "0x53d31feb99eccd1375a9ec433d1d7873dfb68263",
     "chain": "BASE",
-    "total_liquidity_usd": 47842.32,
-    "is_paused": true
-  },
-  "0x19aeb8168d921bb069c6771bbaff7c09116720d0": {
-    "id": "0x19aeb8168d921bb069c6771bbaff7c09116720d0",
-    "name": "reCLAMM cbBTC-WETH",
-    "address": "0x19aeb8168d921bb069c6771bbaff7c09116720d0",
-    "chain": "BASE",
-    "total_liquidity_usd": 46781.52,
+    "total_liquidity_usd": 46943.6,
     "is_paused": true
   },
   "0xcc8dad6e87deb75fa82e7c4dd08b58d368214812": {
@@ -412,23 +412,23 @@
     "name": "20waBasUSDC 80DAG",
     "address": "0xcc8dad6e87deb75fa82e7c4dd08b58d368214812",
     "chain": "BASE",
-    "total_liquidity_usd": 44683.05,
+    "total_liquidity_usd": 46187.18,
     "is_paused": false
   },
-  "0x58374fff35d1f3023bbfc646fb9ecd2b180ca0b0": {
-    "id": "0x58374fff35d1f3023bbfc646fb9ecd2b180ca0b0",
-    "name": "Balancer Aave wAVAX/BTC.b",
-    "address": "0x58374fff35d1f3023bbfc646fb9ecd2b180ca0b0",
-    "chain": "AVALANCHE",
-    "total_liquidity_usd": 41609.79,
-    "is_paused": false
+  "0x19aeb8168d921bb069c6771bbaff7c09116720d0": {
+    "id": "0x19aeb8168d921bb069c6771bbaff7c09116720d0",
+    "name": "reCLAMM cbBTC-WETH",
+    "address": "0x19aeb8168d921bb069c6771bbaff7c09116720d0",
+    "chain": "BASE",
+    "total_liquidity_usd": 46130.09,
+    "is_paused": true
   },
   "0xfcec3c8d86329defb548202fe1b86ff2188603a8": {
     "id": "0xfcec3c8d86329defb548202fe1b86ff2188603a8",
     "name": "Balancer Aave GHO/USDT/USDC",
     "address": "0xfcec3c8d86329defb548202fe1b86ff2188603a8",
     "chain": "AVALANCHE",
-    "total_liquidity_usd": 41583.38,
+    "total_liquidity_usd": 41587.52,
     "is_paused": false
   },
   "0x368bd7879d5f494d71959ae1c50b54809e6bba5a": {
@@ -436,23 +436,15 @@
     "name": "4USDC",
     "address": "0x368bd7879d5f494d71959ae1c50b54809e6bba5a",
     "chain": "MAINNET",
-    "total_liquidity_usd": 40967.84,
+    "total_liquidity_usd": 40966.88,
     "is_paused": false
   },
-  "0x711af51a937e01fab348fb73a92458cc5f3fa591": {
-    "id": "0x711af51a937e01fab348fb73a92458cc5f3fa591",
-    "name": "80QNT 20waEthLidowstETH",
-    "address": "0x711af51a937e01fab348fb73a92458cc5f3fa591",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 38659.49,
-    "is_paused": false
-  },
-  "0xb34f21e74562e66cddd96da8e8c229bd64ac4e43": {
-    "id": "0xb34f21e74562e66cddd96da8e8c229bd64ac4e43",
-    "name": "50WETH-50HCT",
-    "address": "0xb34f21e74562e66cddd96da8e8c229bd64ac4e43",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 37538.99,
+  "0x58374fff35d1f3023bbfc646fb9ecd2b180ca0b0": {
+    "id": "0x58374fff35d1f3023bbfc646fb9ecd2b180ca0b0",
+    "name": "Balancer Aave wAVAX/BTC.b",
+    "address": "0x58374fff35d1f3023bbfc646fb9ecd2b180ca0b0",
+    "chain": "AVALANCHE",
+    "total_liquidity_usd": 40942.49,
     "is_paused": false
   },
   "0x3f7d3d5fb07022ffeb6290cedd6d82051e1ea604": {
@@ -460,7 +452,23 @@
     "name": "50% GNO / 50% GIV",
     "address": "0x3f7d3d5fb07022ffeb6290cedd6d82051e1ea604",
     "chain": "GNOSIS",
-    "total_liquidity_usd": 37257.24,
+    "total_liquidity_usd": 40116.94,
+    "is_paused": false
+  },
+  "0x711af51a937e01fab348fb73a92458cc5f3fa591": {
+    "id": "0x711af51a937e01fab348fb73a92458cc5f3fa591",
+    "name": "80QNT 20waEthLidowstETH",
+    "address": "0x711af51a937e01fab348fb73a92458cc5f3fa591",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 39565.85,
+    "is_paused": false
+  },
+  "0xb34f21e74562e66cddd96da8e8c229bd64ac4e43": {
+    "id": "0xb34f21e74562e66cddd96da8e8c229bd64ac4e43",
+    "name": "50WETH-50HCT",
+    "address": "0xb34f21e74562e66cddd96da8e8c229bd64ac4e43",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 37240.22,
     "is_paused": false
   },
   "0xbb6f701f42a6104deffc041c5c0057b8a9c46bbc": {
@@ -468,15 +476,7 @@
     "name": "RockSolid rock.rETH-rETH",
     "address": "0xbb6f701f42a6104deffc041c5c0057b8a9c46bbc",
     "chain": "MAINNET",
-    "total_liquidity_usd": 35447.71,
-    "is_paused": false
-  },
-  "0xcc97feff194dfa75b3436bca3b975f6b5c97e69c": {
-    "id": "0xcc97feff194dfa75b3436bca3b975f6b5c97e69c",
-    "name": "PROS/PNKSTR/WBTC",
-    "address": "0xcc97feff194dfa75b3436bca3b975f6b5c97e69c",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 34544.61,
+    "total_liquidity_usd": 35054.11,
     "is_paused": false
   },
   "0xd1d7fa8871d84d0e77020fc28b7cd5718c446522": {
@@ -484,7 +484,15 @@
     "name": "Balancer aGNO/sDAI",
     "address": "0xd1d7fa8871d84d0e77020fc28b7cd5718c446522",
     "chain": "GNOSIS",
-    "total_liquidity_usd": 33990.09,
+    "total_liquidity_usd": 33968.49,
+    "is_paused": false
+  },
+  "0xcc97feff194dfa75b3436bca3b975f6b5c97e69c": {
+    "id": "0xcc97feff194dfa75b3436bca3b975f6b5c97e69c",
+    "name": "PROS/PNKSTR/WBTC",
+    "address": "0xcc97feff194dfa75b3436bca3b975f6b5c97e69c",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 33649.1,
     "is_paused": false
   },
   "0x9d1fcf346ea1b073de4d5834e25572cc6ad71f4d": {
@@ -492,7 +500,7 @@
     "name": "reCLAMM AAVE WETH",
     "address": "0x9d1fcf346ea1b073de4d5834e25572cc6ad71f4d",
     "chain": "MAINNET",
-    "total_liquidity_usd": 32063.06,
+    "total_liquidity_usd": 31271.96,
     "is_paused": true
   },
   "0xf87acdaff1b21db4b4906aa74816b0aaa8fdfdc0": {
@@ -500,7 +508,7 @@
     "name": "Nerite Surge yUSND-eeUSDC-BOLD",
     "address": "0xf87acdaff1b21db4b4906aa74816b0aaa8fdfdc0",
     "chain": "ARBITRUM",
-    "total_liquidity_usd": 30716.48,
+    "total_liquidity_usd": 30591.3,
     "is_paused": false
   },
   "0xfee0490b9f70163648bc8dbaaf3dfffc8420c73b": {
@@ -508,7 +516,7 @@
     "name": "3USDT",
     "address": "0xfee0490b9f70163648bc8dbaaf3dfffc8420c73b",
     "chain": "MAINNET",
-    "total_liquidity_usd": 30270.91,
+    "total_liquidity_usd": 30402.39,
     "is_paused": false
   },
   "0x10f9e54aeea2fefa124238087dcfd919ba32f14d": {
@@ -516,7 +524,7 @@
     "name": "Balancer Surge eBTC-Aave WBTC",
     "address": "0x10f9e54aeea2fefa124238087dcfd919ba32f14d",
     "chain": "ARBITRUM",
-    "total_liquidity_usd": 30090.97,
+    "total_liquidity_usd": 29674.0,
     "is_paused": false
   },
   "0xb1f62fc950e30a64a5032bbd8619a70b2c2b27c6": {
@@ -524,7 +532,7 @@
     "name": "PROS-7COMBO",
     "address": "0xb1f62fc950e30a64a5032bbd8619a70b2c2b27c6",
     "chain": "MAINNET",
-    "total_liquidity_usd": 25644.64,
+    "total_liquidity_usd": 26866.45,
     "is_paused": false
   },
   "0x31ae873544658654ce767bde179fd1bbcb84850b": {
@@ -532,7 +540,7 @@
     "name": "Balancer Aave USDT/USDC/AUSD",
     "address": "0x31ae873544658654ce767bde179fd1bbcb84850b",
     "chain": "AVALANCHE",
-    "total_liquidity_usd": 25058.56,
+    "total_liquidity_usd": 25068.14,
     "is_paused": false
   },
   "0x19e3e19945e7fd2a7856824c595981c7fe450bb5": {
@@ -540,7 +548,7 @@
     "name": "Balancer 80PRL 20WETH",
     "address": "0x19e3e19945e7fd2a7856824c595981c7fe450bb5",
     "chain": "BASE",
-    "total_liquidity_usd": 22050.43,
+    "total_liquidity_usd": 21617.62,
     "is_paused": false
   },
   "0xe0d0b607539fdb647c4e87eff89588c6bb669c03": {
@@ -548,7 +556,7 @@
     "name": "Waves & Reverbs in Aave Minor",
     "address": "0xe0d0b607539fdb647c4e87eff89588c6bb669c03",
     "chain": "OPTIMISM",
-    "total_liquidity_usd": 20759.41,
+    "total_liquidity_usd": 20394.62,
     "is_paused": false
   },
   "0xa42c17f94558430cd8f8ef3d924e761084fca6f0": {
@@ -556,7 +564,7 @@
     "name": "USDC USDT",
     "address": "0xa42c17f94558430cd8f8ef3d924e761084fca6f0",
     "chain": "BASE",
-    "total_liquidity_usd": 20307.12,
+    "total_liquidity_usd": 20306.32,
     "is_paused": false
   },
   "0x571bea0e99e139cd0b6b7d9352ca872dfe0d72dd": {
@@ -564,7 +572,7 @@
     "name": "80QNT 20WBTC",
     "address": "0x571bea0e99e139cd0b6b7d9352ca872dfe0d72dd",
     "chain": "MAINNET",
-    "total_liquidity_usd": 19744.79,
+    "total_liquidity_usd": 20244.36,
     "is_paused": false
   },
   "0x5b26d938f0be6357c39e936cc9c2277b9334ea58": {
@@ -572,7 +580,15 @@
     "name": "Gyro phUSD/sUSDS 5",
     "address": "0x5b26d938f0be6357c39e936cc9c2277b9334ea58",
     "chain": "MAINNET",
-    "total_liquidity_usd": 19623.18,
+    "total_liquidity_usd": 19625.51,
+    "is_paused": false
+  },
+  "0x49e75c0df48ad09a0e20e8bbded07ee60dd8bc03": {
+    "id": "0x49e75c0df48ad09a0e20e8bbded07ee60dd8bc03",
+    "name": "The Triplet Encore",
+    "address": "0x49e75c0df48ad09a0e20e8bbded07ee60dd8bc03",
+    "chain": "OPTIMISM",
+    "total_liquidity_usd": 18126.84,
     "is_paused": false
   },
   "0x5ea58d57952b028c40bd200e5aff20fc4b590f51": {
@@ -580,23 +596,15 @@
     "name": "reCLAMM AAVE WETH",
     "address": "0x5ea58d57952b028c40bd200e5aff20fc4b590f51",
     "chain": "ARBITRUM",
-    "total_liquidity_usd": 18448.01,
+    "total_liquidity_usd": 18002.45,
     "is_paused": true
-  },
-  "0x49e75c0df48ad09a0e20e8bbded07ee60dd8bc03": {
-    "id": "0x49e75c0df48ad09a0e20e8bbded07ee60dd8bc03",
-    "name": "The Triplet Encore",
-    "address": "0x49e75c0df48ad09a0e20e8bbded07ee60dd8bc03",
-    "chain": "OPTIMISM",
-    "total_liquidity_usd": 18445.23,
-    "is_paused": false
   },
   "0x99a9a471dbe0dcc6855b4cd4bbabeccb1280f5e8": {
     "id": "0x99a9a471dbe0dcc6855b4cd4bbabeccb1280f5e8",
     "name": "Surge aWAVAX-aSAVAX-ggAVAX",
     "address": "0x99a9a471dbe0dcc6855b4cd4bbabeccb1280f5e8",
     "chain": "AVALANCHE",
-    "total_liquidity_usd": 17001.47,
+    "total_liquidity_usd": 16694.25,
     "is_paused": false
   },
   "0xe3a85e913f967406823cde9c390ae7bad9496367": {
@@ -604,7 +612,7 @@
     "name": "Balancer ExtraFi exUSDC-exUSR",
     "address": "0xe3a85e913f967406823cde9c390ae7bad9496367",
     "chain": "BASE",
-    "total_liquidity_usd": 16161.35,
+    "total_liquidity_usd": 16161.47,
     "is_paused": false
   },
   "0xc6ac6abae59d58213800ace88d44526725d75f3a": {
@@ -612,7 +620,7 @@
     "name": "Balancer Gyro Aave wETH eBTC",
     "address": "0xc6ac6abae59d58213800ace88d44526725d75f3a",
     "chain": "ARBITRUM",
-    "total_liquidity_usd": 15872.59,
+    "total_liquidity_usd": 15541.59,
     "is_paused": false
   },
   "0x629813ad3a088b2f99e42814992a4eba9ee2f616": {
@@ -620,7 +628,7 @@
     "name": "waBasUSDC USD+ DAI",
     "address": "0x629813ad3a088b2f99e42814992a4eba9ee2f616",
     "chain": "BASE",
-    "total_liquidity_usd": 14999.99,
+    "total_liquidity_usd": 15000.44,
     "is_paused": false
   },
   "0x96967707b1932011c0449882c90caf7b5b1a2298": {
@@ -628,7 +636,7 @@
     "name": "TxONE",
     "address": "0x96967707b1932011c0449882c90caf7b5b1a2298",
     "chain": "BASE",
-    "total_liquidity_usd": 14556.25,
+    "total_liquidity_usd": 14373.77,
     "is_paused": false
   },
   "0x832f8e068e92d56b94205ea605e5cdaa7cded1f0": {
@@ -636,7 +644,7 @@
     "name": "tAVAX waAvaSAVAX",
     "address": "0x832f8e068e92d56b94205ea605e5cdaa7cded1f0",
     "chain": "AVALANCHE",
-    "total_liquidity_usd": 14213.89,
+    "total_liquidity_usd": 13798.06,
     "is_paused": false
   },
   "0x7abe8caa137cdb2490a9fa9f8be70cfbb0ff8652": {
@@ -644,23 +652,7 @@
     "name": "Balancer yUSD-AaveUSDC",
     "address": "0x7abe8caa137cdb2490a9fa9f8be70cfbb0ff8652",
     "chain": "ARBITRUM",
-    "total_liquidity_usd": 12701.23,
-    "is_paused": false
-  },
-  "0x4fbb7870dbe7a7ef4866a33c0eed73d395730dc0": {
-    "id": "0x4fbb7870dbe7a7ef4866a33c0eed73d395730dc0",
-    "name": "Balancer Akron waUSDC-waWETH",
-    "address": "0x4fbb7870dbe7a7ef4866a33c0eed73d395730dc0",
-    "chain": "BASE",
-    "total_liquidity_usd": 12232.64,
-    "is_paused": false
-  },
-  "0xb4161aea25bd6c5c8590ad50deb4ca752532f05d": {
-    "id": "0xb4161aea25bd6c5c8590ad50deb4ca752532f05d",
-    "name": "BASE MACRO - WETH:USDC:AERO:cbBTC",
-    "address": "0xb4161aea25bd6c5c8590ad50deb4ca752532f05d",
-    "chain": "BASE",
-    "total_liquidity_usd": 12229.2,
+    "total_liquidity_usd": 12702.23,
     "is_paused": false
   },
   "0x6c5972311191097d002e804a9bf97c96c54059ed": {
@@ -668,7 +660,23 @@
     "name": "Balancer Surge USDf-aGHO",
     "address": "0x6c5972311191097d002e804a9bf97c96c54059ed",
     "chain": "MAINNET",
-    "total_liquidity_usd": 12141.98,
+    "total_liquidity_usd": 12140.92,
+    "is_paused": false
+  },
+  "0x4fbb7870dbe7a7ef4866a33c0eed73d395730dc0": {
+    "id": "0x4fbb7870dbe7a7ef4866a33c0eed73d395730dc0",
+    "name": "Balancer Akron waUSDC-waWETH",
+    "address": "0x4fbb7870dbe7a7ef4866a33c0eed73d395730dc0",
+    "chain": "BASE",
+    "total_liquidity_usd": 12124.73,
+    "is_paused": false
+  },
+  "0xb4161aea25bd6c5c8590ad50deb4ca752532f05d": {
+    "id": "0xb4161aea25bd6c5c8590ad50deb4ca752532f05d",
+    "name": "BASE MACRO - WETH:USDC:AERO:cbBTC",
+    "address": "0xb4161aea25bd6c5c8590ad50deb4ca752532f05d",
+    "chain": "BASE",
+    "total_liquidity_usd": 12019.67,
     "is_paused": false
   },
   "0x5b14ce8de84448e9a6f6af652af318472aa4fcaf": {
@@ -676,15 +684,7 @@
     "name": "Balancer Aave GHO-USR",
     "address": "0x5b14ce8de84448e9a6f6af652af318472aa4fcaf",
     "chain": "BASE",
-    "total_liquidity_usd": 11547.01,
-    "is_paused": false
-  },
-  "0xfbcb0e67d522faac3dbad0d0706bbe241ebcf73d": {
-    "id": "0xfbcb0e67d522faac3dbad0d0706bbe241ebcf73d",
-    "name": "yoETH Balancer Boosted Pool",
-    "address": "0xfbcb0e67d522faac3dbad0d0706bbe241ebcf73d",
-    "chain": "BASE",
-    "total_liquidity_usd": 10113.51,
+    "total_liquidity_usd": 11545.62,
     "is_paused": false
   },
   "0x7744a5605abeb5c2f333457535433bc5899e4537": {
@@ -692,7 +692,15 @@
     "name": "CRVUSD/PROSPECTIVE",
     "address": "0x7744a5605abeb5c2f333457535433bc5899e4537",
     "chain": "MAINNET",
-    "total_liquidity_usd": 9999.16,
+    "total_liquidity_usd": 10050.73,
+    "is_paused": false
+  },
+  "0xfbcb0e67d522faac3dbad0d0706bbe241ebcf73d": {
+    "id": "0xfbcb0e67d522faac3dbad0d0706bbe241ebcf73d",
+    "name": "yoETH Balancer Boosted Pool",
+    "address": "0xfbcb0e67d522faac3dbad0d0706bbe241ebcf73d",
+    "chain": "BASE",
+    "total_liquidity_usd": 9989.16,
     "is_paused": false
   },
   "0x12c2de9522f377b86828f6af01f58c046f814d3c": {
@@ -700,7 +708,7 @@
     "name": "ReClamm EURC-USDC-v2",
     "address": "0x12c2de9522f377b86828f6af01f58c046f814d3c",
     "chain": "BASE",
-    "total_liquidity_usd": 9757.27,
+    "total_liquidity_usd": 9701.38,
     "is_paused": true
   },
   "0x8750ccffcddbff81b63790dbcb1ffd8c7dc4c16d": {
@@ -708,7 +716,7 @@
     "name": "ReClamm WAVAX-USDC",
     "address": "0x8750ccffcddbff81b63790dbcb1ffd8c7dc4c16d",
     "chain": "AVALANCHE",
-    "total_liquidity_usd": 9461.21,
+    "total_liquidity_usd": 9348.5,
     "is_paused": true
   },
   "0x8d857817f0390ffa9bd6115029e9c77f1368d2dc": {
@@ -716,7 +724,7 @@
     "name": "Pixiu Qi Stones",
     "address": "0x8d857817f0390ffa9bd6115029e9c77f1368d2dc",
     "chain": "BASE",
-    "total_liquidity_usd": 8999.24,
+    "total_liquidity_usd": 8999.39,
     "is_paused": false
   },
   "0x7b4c560f33a71a9f7a500af3c4c65b46fbbafdb7": {
@@ -724,7 +732,7 @@
     "name": "derolas-v2",
     "address": "0x7b4c560f33a71a9f7a500af3c4c65b46fbbafdb7",
     "chain": "BASE",
-    "total_liquidity_usd": 8706.18,
+    "total_liquidity_usd": 8588.71,
     "is_paused": false
   },
   "0xf2920b0eaecf026d18462d8d56dc8a2a5539043f": {
@@ -732,7 +740,7 @@
     "name": "yoUSD Balancer Boosted Pool",
     "address": "0xf2920b0eaecf026d18462d8d56dc8a2a5539043f",
     "chain": "BASE",
-    "total_liquidity_usd": 8360.54,
+    "total_liquidity_usd": 8136.08,
     "is_paused": false
   },
   "0x0126d6f203ce876de483ebe87e0ac2d203164b5f": {
@@ -740,7 +748,7 @@
     "name": "sDAI s gCRC",
     "address": "0x0126d6f203ce876de483ebe87e0ac2d203164b5f",
     "chain": "GNOSIS",
-    "total_liquidity_usd": 8080.4,
+    "total_liquidity_usd": 8081.28,
     "is_paused": false
   },
   "0x608de85fff36132e1f6212b4550801f246609bbf": {
@@ -748,15 +756,7 @@
     "name": "Derolas XER 3Pool",
     "address": "0x608de85fff36132e1f6212b4550801f246609bbf",
     "chain": "BASE",
-    "total_liquidity_usd": 7111.74,
-    "is_paused": false
-  },
-  "0xf91c11ba4220b7a72e1dc5e92f2b48d3fdf62726": {
-    "id": "0xf91c11ba4220b7a72e1dc5e92f2b48d3fdf62726",
-    "name": "50USDC 50@G",
-    "address": "0xf91c11ba4220b7a72e1dc5e92f2b48d3fdf62726",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 6053.05,
+    "total_liquidity_usd": 7084.11,
     "is_paused": false
   },
   "0x698a72bc8bc2eeb0f0f9a77cef0a2859399dc469": {
@@ -764,31 +764,15 @@
     "name": "Gyroscope ECLP BOLD/USDC Rehype",
     "address": "0x698a72bc8bc2eeb0f0f9a77cef0a2859399dc469",
     "chain": "MAINNET",
-    "total_liquidity_usd": 6041.61,
+    "total_liquidity_usd": 6040.33,
     "is_paused": false
   },
-  "0x2ccac9903dae7e9e73a5756fa388cee9426ea15e": {
-    "id": "0x2ccac9903dae7e9e73a5756fa388cee9426ea15e",
-    "name": "AAVE Boosted wstETH/AAVE/RDCTD",
-    "address": "0x2ccac9903dae7e9e73a5756fa388cee9426ea15e",
-    "chain": "BASE",
-    "total_liquidity_usd": 5494.66,
-    "is_paused": false
-  },
-  "0xb5d99a46684668b4efcc216b9bf25f13a9d707cf": {
-    "id": "0xb5d99a46684668b4efcc216b9bf25f13a9d707cf",
-    "name": "80LNDX 20WETH",
-    "address": "0xb5d99a46684668b4efcc216b9bf25f13a9d707cf",
-    "chain": "ARBITRUM",
-    "total_liquidity_usd": 5297.03,
-    "is_paused": false
-  },
-  "0x7c4cfb9d1734cb13fd425917bff7be6e30484c96": {
-    "id": "0x7c4cfb9d1734cb13fd425917bff7be6e30484c96",
-    "name": "s-gCRC / sDAI",
-    "address": "0x7c4cfb9d1734cb13fd425917bff7be6e30484c96",
-    "chain": "GNOSIS",
-    "total_liquidity_usd": 5268.8,
+  "0xf91c11ba4220b7a72e1dc5e92f2b48d3fdf62726": {
+    "id": "0xf91c11ba4220b7a72e1dc5e92f2b48d3fdf62726",
+    "name": "50USDC 50@G",
+    "address": "0xf91c11ba4220b7a72e1dc5e92f2b48d3fdf62726",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 5505.33,
     "is_paused": false
   },
   "0x4d3ac671b1b067e2ef9fd30437d8b0fe2517b8a2": {
@@ -796,7 +780,31 @@
     "name": "80TALK 20WETH",
     "address": "0x4d3ac671b1b067e2ef9fd30437d8b0fe2517b8a2",
     "chain": "MAINNET",
-    "total_liquidity_usd": 4996.98,
+    "total_liquidity_usd": 5493.51,
+    "is_paused": false
+  },
+  "0x2ccac9903dae7e9e73a5756fa388cee9426ea15e": {
+    "id": "0x2ccac9903dae7e9e73a5756fa388cee9426ea15e",
+    "name": "AAVE Boosted wstETH/AAVE/RDCTD",
+    "address": "0x2ccac9903dae7e9e73a5756fa388cee9426ea15e",
+    "chain": "BASE",
+    "total_liquidity_usd": 5435.72,
+    "is_paused": false
+  },
+  "0x7c4cfb9d1734cb13fd425917bff7be6e30484c96": {
+    "id": "0x7c4cfb9d1734cb13fd425917bff7be6e30484c96",
+    "name": "s-gCRC / sDAI",
+    "address": "0x7c4cfb9d1734cb13fd425917bff7be6e30484c96",
+    "chain": "GNOSIS",
+    "total_liquidity_usd": 5272.85,
+    "is_paused": false
+  },
+  "0xb5d99a46684668b4efcc216b9bf25f13a9d707cf": {
+    "id": "0xb5d99a46684668b4efcc216b9bf25f13a9d707cf",
+    "name": "80LNDX 20WETH",
+    "address": "0xb5d99a46684668b4efcc216b9bf25f13a9d707cf",
+    "chain": "ARBITRUM",
+    "total_liquidity_usd": 5263.59,
     "is_paused": false
   },
   "0x495452fc7bf44f49e40095e9f19b3fec5f7fb717": {
@@ -804,7 +812,7 @@
     "name": "usdt-wavax-usdc",
     "address": "0x495452fc7bf44f49e40095e9f19b3fec5f7fb717",
     "chain": "AVALANCHE",
-    "total_liquidity_usd": 4948.05,
+    "total_liquidity_usd": 4918.17,
     "is_paused": false
   },
   "0xae0443a7e934c97cd5838935f519ac8090243030": {
@@ -812,7 +820,7 @@
     "name": "50AAVE 50WETH EZKLv5",
     "address": "0xae0443a7e934c97cd5838935f519ac8090243030",
     "chain": "BASE",
-    "total_liquidity_usd": 4942.37,
+    "total_liquidity_usd": 4814.5,
     "is_paused": false
   },
   "0xe03fd3e33a88fbf26808522fffaa3b17bdf599dd": {
@@ -820,15 +828,7 @@
     "name": "50AAVE 50WETH Reference",
     "address": "0xe03fd3e33a88fbf26808522fffaa3b17bdf599dd",
     "chain": "BASE",
-    "total_liquidity_usd": 4936.87,
-    "is_paused": false
-  },
-  "0x9972c4f21b5ae6062233031314adbbdda7513ed2": {
-    "id": "0x9972c4f21b5ae6062233031314adbbdda7513ed2",
-    "name": "Balancer Surge Aave wstETH-fWETH",
-    "address": "0x9972c4f21b5ae6062233031314adbbdda7513ed2",
-    "chain": "BASE",
-    "total_liquidity_usd": 4761.19,
+    "total_liquidity_usd": 4809.11,
     "is_paused": false
   },
   "0x434c116a43da9bb2d706616239c979f37a8d94c9": {
@@ -836,7 +836,15 @@
     "name": "WETH USDC",
     "address": "0x434c116a43da9bb2d706616239c979f37a8d94c9",
     "chain": "BASE",
-    "total_liquidity_usd": 4744.38,
+    "total_liquidity_usd": 4718.28,
+    "is_paused": false
+  },
+  "0x9972c4f21b5ae6062233031314adbbdda7513ed2": {
+    "id": "0x9972c4f21b5ae6062233031314adbbdda7513ed2",
+    "name": "Balancer Surge Aave wstETH-fWETH",
+    "address": "0x9972c4f21b5ae6062233031314adbbdda7513ed2",
+    "chain": "BASE",
+    "total_liquidity_usd": 4671.13,
     "is_paused": false
   },
   "0xa2ce3ddfb4ca620d3c9a14fd30aac3851cd47ef5": {
@@ -844,7 +852,7 @@
     "name": "jaense-sCRC-WETH",
     "address": "0xa2ce3ddfb4ca620d3c9a14fd30aac3851cd47ef5",
     "chain": "GNOSIS",
-    "total_liquidity_usd": 4556.68,
+    "total_liquidity_usd": 4663.24,
     "is_paused": false
   },
   "0x4bc3b04935b41c0bb4f021def0ea099a891cd1ef": {
@@ -852,7 +860,7 @@
     "name": "80WBTC 20waEthUSDC",
     "address": "0x4bc3b04935b41c0bb4f021def0ea099a891cd1ef",
     "chain": "MAINNET",
-    "total_liquidity_usd": 4550.67,
+    "total_liquidity_usd": 4521.86,
     "is_paused": false
   },
   "0x1c39ebe0ee53b52ab24d3945e9cde9e6c09d0851": {
@@ -860,7 +868,7 @@
     "name": "Balancer Aave wAVAX/wETH.e",
     "address": "0x1c39ebe0ee53b52ab24d3945e9cde9e6c09d0851",
     "chain": "AVALANCHE",
-    "total_liquidity_usd": 4403.13,
+    "total_liquidity_usd": 4323.25,
     "is_paused": false
   },
   "0x12216142f02663d7a3f3016ac4bbbaa1d0b05db8": {
@@ -868,7 +876,7 @@
     "name": "WETH AAVE EZKL",
     "address": "0x12216142f02663d7a3f3016ac4bbbaa1d0b05db8",
     "chain": "MAINNET",
-    "total_liquidity_usd": 4249.21,
+    "total_liquidity_usd": 4121.94,
     "is_paused": false
   },
   "0x9c9859af553cf953fd016d47c51d798487dafc7d": {
@@ -876,7 +884,7 @@
     "name": "AAVE WETH Ref",
     "address": "0x9c9859af553cf953fd016d47c51d798487dafc7d",
     "chain": "MAINNET",
-    "total_liquidity_usd": 4246.59,
+    "total_liquidity_usd": 4119.91,
     "is_paused": false
   },
   "0x608382d1627c1f2f939c87d14fdb62d5bcbf561f": {
@@ -884,7 +892,7 @@
     "name": "USDC EURC",
     "address": "0x608382d1627c1f2f939c87d14fdb62d5bcbf561f",
     "chain": "BASE",
-    "total_liquidity_usd": 3598.3,
+    "total_liquidity_usd": 3574.27,
     "is_paused": false
   },
   "0x5a15b1e1ab9ec2946fbb27cd3823297719c1332a": {
@@ -892,15 +900,7 @@
     "name": "GNO/wstETH/BAL/WBTC/sDAI",
     "address": "0x5a15b1e1ab9ec2946fbb27cd3823297719c1332a",
     "chain": "GNOSIS",
-    "total_liquidity_usd": 3106.03,
-    "is_paused": false
-  },
-  "0x8115054a485d7775e13a8a420dd986ff595824fa": {
-    "id": "0x8115054a485d7775e13a8a420dd986ff595824fa",
-    "name": "Rezerve ETHFI Strat",
-    "address": "0x8115054a485d7775e13a8a420dd986ff595824fa",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 2984.01,
+    "total_liquidity_usd": 3062.35,
     "is_paused": false
   },
   "0xecb3a2622cc80629134b893f6e6ade4ebd0aeb7c": {
@@ -908,7 +908,15 @@
     "name": "Balancer Akron waWETH-waUSDC",
     "address": "0xecb3a2622cc80629134b893f6e6ade4ebd0aeb7c",
     "chain": "ARBITRUM",
-    "total_liquidity_usd": 2968.96,
+    "total_liquidity_usd": 2942.83,
+    "is_paused": false
+  },
+  "0x8115054a485d7775e13a8a420dd986ff595824fa": {
+    "id": "0x8115054a485d7775e13a8a420dd986ff595824fa",
+    "name": "Rezerve ETHFI Strat",
+    "address": "0x8115054a485d7775e13a8a420dd986ff595824fa",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 2896.03,
     "is_paused": false
   },
   "0xb1ce8ad37680c26b75c7bf6395d6c0b3c0994e37": {
@@ -916,7 +924,7 @@
     "name": "EtherFi Surge weETH / waEthWETH",
     "address": "0xb1ce8ad37680c26b75c7bf6395d6c0b3c0994e37",
     "chain": "MAINNET",
-    "total_liquidity_usd": 2842.67,
+    "total_liquidity_usd": 2798.75,
     "is_paused": false
   },
   "0x2232b91ceb6d291b7d82935cefc2f7744d8f1a09": {
@@ -924,7 +932,7 @@
     "name": "20waEthUSDC 80XAUt",
     "address": "0x2232b91ceb6d291b7d82935cefc2f7744d8f1a09",
     "chain": "MAINNET",
-    "total_liquidity_usd": 2637.33,
+    "total_liquidity_usd": 2595.28,
     "is_paused": false
   },
   "0xf491f6b94464997cb6a78d95fec0cdf9b7d4a6e1": {
@@ -932,15 +940,7 @@
     "name": "ETH USDQ",
     "address": "0xf491f6b94464997cb6a78d95fec0cdf9b7d4a6e1",
     "chain": "MAINNET",
-    "total_liquidity_usd": 2216.5,
-    "is_paused": false
-  },
-  "0x8523bcadcda4bd329435940dcc49a7c4c0a14d94": {
-    "id": "0x8523bcadcda4bd329435940dcc49a7c4c0a14d94",
-    "name": "Strategic-Index",
-    "address": "0x8523bcadcda4bd329435940dcc49a7c4c0a14d94",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 1875.12,
+    "total_liquidity_usd": 2177.95,
     "is_paused": false
   },
   "0x2a2c4cba6f46a10c1fcab96ba2ac88e4642a929f": {
@@ -948,7 +948,15 @@
     "name": "kaiAURA AURA Stable",
     "address": "0x2a2c4cba6f46a10c1fcab96ba2ac88e4642a929f",
     "chain": "MAINNET",
-    "total_liquidity_usd": 1857.25,
+    "total_liquidity_usd": 1853.39,
+    "is_paused": false
+  },
+  "0x8523bcadcda4bd329435940dcc49a7c4c0a14d94": {
+    "id": "0x8523bcadcda4bd329435940dcc49a7c4c0a14d94",
+    "name": "Strategic-Index",
+    "address": "0x8523bcadcda4bd329435940dcc49a7c4c0a14d94",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 1852.84,
     "is_paused": false
   },
   "0xd906c9ad72a8f2c82b05ad83110531f16497c5d9": {
@@ -956,7 +964,7 @@
     "name": "WETH /  WBTC",
     "address": "0xd906c9ad72a8f2c82b05ad83110531f16497c5d9",
     "chain": "MAINNET",
-    "total_liquidity_usd": 1848.98,
+    "total_liquidity_usd": 1820.24,
     "is_paused": false
   },
   "0xacba78d745faae7751c09489d5f15a26eb27f1ad": {
@@ -964,7 +972,7 @@
     "name": "Balancer Aave wstETH-wETH",
     "address": "0xacba78d745faae7751c09489d5f15a26eb27f1ad",
     "chain": "BASE",
-    "total_liquidity_usd": 1729.89,
+    "total_liquidity_usd": 1697.19,
     "is_paused": false
   },
   "0xa77854f62a617203246ea604e6d4fbd6bf8fdc0b": {
@@ -972,15 +980,15 @@
     "name": "ETH USDQ",
     "address": "0xa77854f62a617203246ea604e6d4fbd6bf8fdc0b",
     "chain": "MAINNET",
-    "total_liquidity_usd": 1696.65,
+    "total_liquidity_usd": 1680.68,
     "is_paused": false
   },
-  "0x62fb799b7b0df3e2b2dc15964a0b60ea146342f3": {
-    "id": "0x62fb799b7b0df3e2b2dc15964a0b60ea146342f3",
-    "name": "Balancer Magnificent Seven",
-    "address": "0x62fb799b7b0df3e2b2dc15964a0b60ea146342f3",
+  "0xb259a29daae86f7ea7ca31c2c7354bd48b279570": {
+    "id": "0xb259a29daae86f7ea7ca31c2c7354bd48b279570",
+    "name": "80TERM-20waEthUSDC",
+    "address": "0xb259a29daae86f7ea7ca31c2c7354bd48b279570",
     "chain": "MAINNET",
-    "total_liquidity_usd": 1401.96,
+    "total_liquidity_usd": 1398.82,
     "is_paused": false
   },
   "0x4fb43f38cbe27beb7d5750fc9e3459365ce8c0e6": {
@@ -988,7 +996,15 @@
     "name": "Balancer Surge UTY-K3 USDT",
     "address": "0x4fb43f38cbe27beb7d5750fc9e3459365ce8c0e6",
     "chain": "AVALANCHE",
-    "total_liquidity_usd": 1389.87,
+    "total_liquidity_usd": 1385.64,
+    "is_paused": false
+  },
+  "0x62fb799b7b0df3e2b2dc15964a0b60ea146342f3": {
+    "id": "0x62fb799b7b0df3e2b2dc15964a0b60ea146342f3",
+    "name": "Balancer Magnificent Seven",
+    "address": "0x62fb799b7b0df3e2b2dc15964a0b60ea146342f3",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 1370.84,
     "is_paused": false
   },
   "0x971de8d629225b766ea924b8719acd2657c631ba": {
@@ -996,23 +1012,15 @@
     "name": "GHO / WETH",
     "address": "0x971de8d629225b766ea924b8719acd2657c631ba",
     "chain": "MAINNET",
-    "total_liquidity_usd": 1378.95,
+    "total_liquidity_usd": 1362.55,
     "is_paused": true
-  },
-  "0xb259a29daae86f7ea7ca31c2c7354bd48b279570": {
-    "id": "0xb259a29daae86f7ea7ca31c2c7354bd48b279570",
-    "name": "80TERM-20waEthUSDC",
-    "address": "0xb259a29daae86f7ea7ca31c2c7354bd48b279570",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 1362.5,
-    "is_paused": false
   },
   "0x70fde68016cdb3a4e8194a2275c7ac6f715c2046": {
     "id": "0x70fde68016cdb3a4e8194a2275c7ac6f715c2046",
     "name": "WAVAX USDC",
     "address": "0x70fde68016cdb3a4e8194a2275c7ac6f715c2046",
     "chain": "AVALANCHE",
-    "total_liquidity_usd": 1323.7,
+    "total_liquidity_usd": 1320.08,
     "is_paused": false
   },
   "0x2b261c98a81cfda61bee7bfcf941a3d336be7957": {
@@ -1020,15 +1028,7 @@
     "name": "Balancer Surge slpETH-gtWETHe",
     "address": "0x2b261c98a81cfda61bee7bfcf941a3d336be7957",
     "chain": "MAINNET",
-    "total_liquidity_usd": 1317.09,
-    "is_paused": false
-  },
-  "0xf402d6a6962f07e841bc7a2818b618573d5ef2d9": {
-    "id": "0xf402d6a6962f07e841bc7a2818b618573d5ef2d9",
-    "name": "20aUSDC 20awstETH 60cbBTC",
-    "address": "0xf402d6a6962f07e841bc7a2818b618573d5ef2d9",
-    "chain": "BASE",
-    "total_liquidity_usd": 1286.7,
+    "total_liquidity_usd": 1293.85,
     "is_paused": false
   },
   "0xdd5e47ab9bdb0601e35055bd39a66d5f07aaff8e": {
@@ -1036,7 +1036,15 @@
     "name": "30waBasUSDC 70FYNI",
     "address": "0xdd5e47ab9bdb0601e35055bd39a66d5f07aaff8e",
     "chain": "BASE",
-    "total_liquidity_usd": 1284.6,
+    "total_liquidity_usd": 1276.76,
+    "is_paused": false
+  },
+  "0xf402d6a6962f07e841bc7a2818b618573d5ef2d9": {
+    "id": "0xf402d6a6962f07e841bc7a2818b618573d5ef2d9",
+    "name": "20aUSDC 20awstETH 60cbBTC",
+    "address": "0xf402d6a6962f07e841bc7a2818b618573d5ef2d9",
+    "chain": "BASE",
+    "total_liquidity_usd": 1274.84,
     "is_paused": false
   },
   "0x784f35548de2213efea17aa486824c3f5502e087": {
@@ -1044,15 +1052,7 @@
     "name": "50waBasWETH 50waBasEURC",
     "address": "0x784f35548de2213efea17aa486824c3f5502e087",
     "chain": "BASE",
-    "total_liquidity_usd": 1278.44,
-    "is_paused": false
-  },
-  "0xfd0c105de04d261cf1851b3481552178ffc9f9b8": {
-    "id": "0xfd0c105de04d261cf1851b3481552178ffc9f9b8",
-    "name": " ENS / LINK /  WETH",
-    "address": "0xfd0c105de04d261cf1851b3481552178ffc9f9b8",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 1257.23,
+    "total_liquidity_usd": 1262.14,
     "is_paused": false
   },
   "0x2a6cc7055496738c6f42bf1e1ecb597f0b26d954": {
@@ -1060,7 +1060,15 @@
     "name": "USDC-USD\u20ae0",
     "address": "0x2a6cc7055496738c6f42bf1e1ecb597f0b26d954",
     "chain": "ARBITRUM",
-    "total_liquidity_usd": 1246.32,
+    "total_liquidity_usd": 1256.51,
+    "is_paused": false
+  },
+  "0xfd0c105de04d261cf1851b3481552178ffc9f9b8": {
+    "id": "0xfd0c105de04d261cf1851b3481552178ffc9f9b8",
+    "name": " ENS / LINK /  WETH",
+    "address": "0xfd0c105de04d261cf1851b3481552178ffc9f9b8",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 1232.23,
     "is_paused": false
   },
   "0x3f6af988dafd24604336d9d304f017e462ec4e51": {
@@ -1068,7 +1076,7 @@
     "name": "WETH-A",
     "address": "0x3f6af988dafd24604336d9d304f017e462ec4e51",
     "chain": "BASE",
-    "total_liquidity_usd": 1182.56,
+    "total_liquidity_usd": 1170.56,
     "is_paused": false
   },
   "0x89bb794097234e5e930446c0cec0ea66b35d7570": {
@@ -1076,7 +1084,7 @@
     "name": "Balancer Aave USDC-USDT",
     "address": "0x89bb794097234e5e930446c0cec0ea66b35d7570",
     "chain": "MAINNET",
-    "total_liquidity_usd": 1151.75,
+    "total_liquidity_usd": 1151.9,
     "is_paused": false
   },
   "0x50ec1f7fa910264d9c09076cc37b5982642693bd": {
@@ -1084,7 +1092,7 @@
     "name": "sDAI ShezUSD",
     "address": "0x50ec1f7fa910264d9c09076cc37b5982642693bd",
     "chain": "MAINNET",
-    "total_liquidity_usd": 1139.5,
+    "total_liquidity_usd": 1139.6,
     "is_paused": false
   },
   "0x1a36195044abbad8807ceea78ec645c0c5d09593": {
@@ -1092,7 +1100,7 @@
     "name": "Boosted osETH-WETH Pool",
     "address": "0x1a36195044abbad8807ceea78ec645c0c5d09593",
     "chain": "ARBITRUM",
-    "total_liquidity_usd": 1077.0,
+    "total_liquidity_usd": 1058.21,
     "is_paused": false
   },
   "0xb573397d4aaf5e555dd6721de5874de7abcfce28": {
@@ -1100,7 +1108,7 @@
     "name": "USD-A",
     "address": "0xb573397d4aaf5e555dd6721de5874de7abcfce28",
     "chain": "ARBITRUM",
-    "total_liquidity_usd": 1025.68,
+    "total_liquidity_usd": 1025.75,
     "is_paused": false
   },
   "0x8af480f0dc316d71d755dc04b6f8b142721e09a9": {
@@ -1108,15 +1116,7 @@
     "name": "BAL/PROSPECTIVE",
     "address": "0x8af480f0dc316d71d755dc04b6f8b142721e09a9",
     "chain": "MAINNET",
-    "total_liquidity_usd": 973.93,
-    "is_paused": false
-  },
-  "0xf5eec4f91e9b846153e9b8794270f026f19dc8fc": {
-    "id": "0xf5eec4f91e9b846153e9b8794270f026f19dc8fc",
-    "name": "WETH.e USDt USDC",
-    "address": "0xf5eec4f91e9b846153e9b8794270f026f19dc8fc",
-    "chain": "AVALANCHE",
-    "total_liquidity_usd": 953.6,
+    "total_liquidity_usd": 967.42,
     "is_paused": false
   },
   "0x0f47c52951746215206550cc05da4c16f2a6b5c8": {
@@ -1124,7 +1124,15 @@
     "name": "jaensen-sCRC-WBTC",
     "address": "0x0f47c52951746215206550cc05da4c16f2a6b5c8",
     "chain": "GNOSIS",
-    "total_liquidity_usd": 926.15,
+    "total_liquidity_usd": 959.19,
+    "is_paused": false
+  },
+  "0xf5eec4f91e9b846153e9b8794270f026f19dc8fc": {
+    "id": "0xf5eec4f91e9b846153e9b8794270f026f19dc8fc",
+    "name": "WETH.e USDt USDC",
+    "address": "0xf5eec4f91e9b846153e9b8794270f026f19dc8fc",
+    "chain": "AVALANCHE",
+    "total_liquidity_usd": 951.89,
     "is_paused": false
   },
   "0x5225f4a7d119dc11c583f54430c4dfdd1cb8f7b2": {
@@ -1132,7 +1140,7 @@
     "name": "WETH-B",
     "address": "0x5225f4a7d119dc11c583f54430c4dfdd1cb8f7b2",
     "chain": "ARBITRUM",
-    "total_liquidity_usd": 899.94,
+    "total_liquidity_usd": 889.66,
     "is_paused": false
   },
   "0x37081447540b194d8e9aa2df95309dc830da8f11": {
@@ -1148,15 +1156,7 @@
     "name": "waOptUSDCn WETH",
     "address": "0xe728e8176be82a5152ba0427b10730e91ef192ee",
     "chain": "OPTIMISM",
-    "total_liquidity_usd": 822.64,
-    "is_paused": false
-  },
-  "0xae0abe5323fc57776dd9402c72a67a06f00fe925": {
-    "id": "0xae0abe5323fc57776dd9402c72a67a06f00fe925",
-    "name": "Balancer Akron VIRTUAL-waUSDC",
-    "address": "0xae0abe5323fc57776dd9402c72a67a06f00fe925",
-    "chain": "BASE",
-    "total_liquidity_usd": 792.29,
+    "total_liquidity_usd": 819.16,
     "is_paused": false
   },
   "0x22350b46440f5cd96ff2f81214d83bba3dab4d8d": {
@@ -1164,7 +1164,23 @@
     "name": "USD-A",
     "address": "0x22350b46440f5cd96ff2f81214d83bba3dab4d8d",
     "chain": "BASE",
-    "total_liquidity_usd": 778.41,
+    "total_liquidity_usd": 812.4,
+    "is_paused": false
+  },
+  "0x96c286510cf552ac1d6d707af9743e70ec40afa6": {
+    "id": "0x96c286510cf552ac1d6d707af9743e70ec40afa6",
+    "name": "ELMOERC/WETH",
+    "address": "0x96c286510cf552ac1d6d707af9743e70ec40afa6",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 798.38,
+    "is_paused": false
+  },
+  "0xae0abe5323fc57776dd9402c72a67a06f00fe925": {
+    "id": "0xae0abe5323fc57776dd9402c72a67a06f00fe925",
+    "name": "Balancer Akron VIRTUAL-waUSDC",
+    "address": "0xae0abe5323fc57776dd9402c72a67a06f00fe925",
+    "chain": "BASE",
+    "total_liquidity_usd": 789.79,
     "is_paused": false
   },
   "0xc337e87941f8522468d49344246f5efbf06c4599": {
@@ -1172,7 +1188,7 @@
     "name": "ShezETH wstETH",
     "address": "0xc337e87941f8522468d49344246f5efbf06c4599",
     "chain": "MAINNET",
-    "total_liquidity_usd": 762.13,
+    "total_liquidity_usd": 755.93,
     "is_paused": false
   },
   "0xaae5d575b730c6ce28af137490f3cfc96797d07f": {
@@ -1180,15 +1196,7 @@
     "name": "VIRTUALS ECOSYSTEM",
     "address": "0xaae5d575b730c6ce28af137490f3cfc96797d07f",
     "chain": "BASE",
-    "total_liquidity_usd": 758.89,
-    "is_paused": false
-  },
-  "0x92885a1dfa5754055786efe0ccf3cf62c416eb70": {
-    "id": "0x92885a1dfa5754055786efe0ccf3cf62c416eb70",
-    "name": "WETH-USDC-05",
-    "address": "0x92885a1dfa5754055786efe0ccf3cf62c416eb70",
-    "chain": "ARBITRUM",
-    "total_liquidity_usd": 666.82,
+    "total_liquidity_usd": 749.98,
     "is_paused": false
   },
   "0x046dccb728c39f8aa69e47dac0ebdad8d2cddfe9": {
@@ -1196,15 +1204,15 @@
     "name": "cUSDO/USDC",
     "address": "0x046dccb728c39f8aa69e47dac0ebdad8d2cddfe9",
     "chain": "MAINNET",
-    "total_liquidity_usd": 666.01,
+    "total_liquidity_usd": 665.48,
     "is_paused": false
   },
-  "0x1e9ea34eab5e4eddab4170047232f296746f8b00": {
-    "id": "0x1e9ea34eab5e4eddab4170047232f296746f8b00",
-    "name": "Balancer NeoFi 6",
-    "address": "0x1e9ea34eab5e4eddab4170047232f296746f8b00",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 663.77,
+  "0x92885a1dfa5754055786efe0ccf3cf62c416eb70": {
+    "id": "0x92885a1dfa5754055786efe0ccf3cf62c416eb70",
+    "name": "WETH-USDC-05",
+    "address": "0x92885a1dfa5754055786efe0ccf3cf62c416eb70",
+    "chain": "ARBITRUM",
+    "total_liquidity_usd": 656.32,
     "is_paused": false
   },
   "0xa395e808948d3b311a235fda65533a7e1621a5ba": {
@@ -1212,7 +1220,15 @@
     "name": "USDC / NVDAon / GOOGLon",
     "address": "0xa395e808948d3b311a235fda65533a7e1621a5ba",
     "chain": "MAINNET",
-    "total_liquidity_usd": 652.45,
+    "total_liquidity_usd": 644.89,
+    "is_paused": false
+  },
+  "0x1e9ea34eab5e4eddab4170047232f296746f8b00": {
+    "id": "0x1e9ea34eab5e4eddab4170047232f296746f8b00",
+    "name": "Balancer NeoFi 6",
+    "address": "0x1e9ea34eab5e4eddab4170047232f296746f8b00",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 637.16,
     "is_paused": false
   },
   "0xa8c95df8769f88e7b9249efd8f7c38c3b7e8b082": {
@@ -1220,7 +1236,7 @@
     "name": "AOGX/ETH",
     "address": "0xa8c95df8769f88e7b9249efd8f7c38c3b7e8b082",
     "chain": "MAINNET",
-    "total_liquidity_usd": 625.76,
+    "total_liquidity_usd": 623.56,
     "is_paused": false
   },
   "0xaa4642f59696fed4729411542cf4ffaf04a82aef": {
@@ -1228,7 +1244,7 @@
     "name": "30WETH 70FOUR",
     "address": "0xaa4642f59696fed4729411542cf4ffaf04a82aef",
     "chain": "GNOSIS",
-    "total_liquidity_usd": 586.95,
+    "total_liquidity_usd": 584.26,
     "is_paused": false
   },
   "0xd7af1601493b53cecff402985029345e568fb497": {
@@ -1236,7 +1252,7 @@
     "name": "tETH waBaswstETH",
     "address": "0xd7af1601493b53cecff402985029345e568fb497",
     "chain": "BASE",
-    "total_liquidity_usd": 538.95,
+    "total_liquidity_usd": 529.5,
     "is_paused": true
   },
   "0x81a85b9ec797110f2ee665c119e8f28a2456d6f1": {
@@ -1247,28 +1263,12 @@
     "total_liquidity_usd": 514.97,
     "is_paused": false
   },
-  "0xa36060bae6ab85202b63f9ae3beb09472a5b0ad1": {
-    "id": "0xa36060bae6ab85202b63f9ae3beb09472a5b0ad1",
-    "name": "TMAI-wETH (95 / 5)  Router",
-    "address": "0xa36060bae6ab85202b63f9ae3beb09472a5b0ad1",
-    "chain": "BASE",
-    "total_liquidity_usd": 511.32,
-    "is_paused": false
-  },
   "0x7f98f42f9550f92dee91344d6b5ab11a9fec2b4e": {
     "id": "0x7f98f42f9550f92dee91344d6b5ab11a9fec2b4e",
     "name": "Balancer tETH-Aave weETH",
     "address": "0x7f98f42f9550f92dee91344d6b5ab11a9fec2b4e",
     "chain": "ARBITRUM",
-    "total_liquidity_usd": 489.74,
-    "is_paused": false
-  },
-  "0x96c286510cf552ac1d6d707af9743e70ec40afa6": {
-    "id": "0x96c286510cf552ac1d6d707af9743e70ec40afa6",
-    "name": "ELMOERC/WETH",
-    "address": "0x96c286510cf552ac1d6d707af9743e70ec40afa6",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 460.55,
+    "total_liquidity_usd": 481.9,
     "is_paused": false
   },
   "0xac035537edf62beef0c7208181379f89def22119": {
@@ -1284,7 +1284,7 @@
     "name": "WETH aArbWETH",
     "address": "0xb7470517a7185ebee9655290927f14c02ccb5aac",
     "chain": "ARBITRUM",
-    "total_liquidity_usd": 425.07,
+    "total_liquidity_usd": 418.65,
     "is_paused": false
   },
   "0x98bcff7db14828520edb7f18ddd8de013bc82ded": {
@@ -1292,7 +1292,7 @@
     "name": "33WBTC 33waArbWETH 34PAXG",
     "address": "0x98bcff7db14828520edb7f18ddd8de013bc82ded",
     "chain": "ARBITRUM",
-    "total_liquidity_usd": 417.52,
+    "total_liquidity_usd": 410.54,
     "is_paused": false
   },
   "0x438f38c5dfc4180de43f8f29d65b2de7a0705de4": {
@@ -1303,12 +1303,20 @@
     "total_liquidity_usd": 396.01,
     "is_paused": false
   },
+  "0xa36060bae6ab85202b63f9ae3beb09472a5b0ad1": {
+    "id": "0xa36060bae6ab85202b63f9ae3beb09472a5b0ad1",
+    "name": "TMAI-wETH (95 / 5)  Router",
+    "address": "0xa36060bae6ab85202b63f9ae3beb09472a5b0ad1",
+    "chain": "BASE",
+    "total_liquidity_usd": 378.6,
+    "is_paused": false
+  },
   "0x9a4c5fd82b087bd67f059c8bbe9ab02a6b6f2399": {
     "id": "0x9a4c5fd82b087bd67f059c8bbe9ab02a6b6f2399",
     "name": "80% PAGE / 20% CLANKER",
     "address": "0x9a4c5fd82b087bd67f059c8bbe9ab02a6b6f2399",
     "chain": "BASE",
-    "total_liquidity_usd": 353.06,
+    "total_liquidity_usd": 354.73,
     "is_paused": false
   },
   "0x4d2d15c7dd4b4f9c5b6c6b275f0fad9cdd3531e3": {
@@ -1324,7 +1332,7 @@
     "name": "Balancer AI Three",
     "address": "0xfd064f832249314213c24a0cfa839d63515b4e9e",
     "chain": "BASE",
-    "total_liquidity_usd": 342.47,
+    "total_liquidity_usd": 341.59,
     "is_paused": false
   },
   "0x304e19e3029a6dbfde0d70d9e32ad9cc694a9b68": {
@@ -1332,7 +1340,7 @@
     "name": "Balancer eK3 weETH/aETH.e",
     "address": "0x304e19e3029a6dbfde0d70d9e32ad9cc694a9b68",
     "chain": "AVALANCHE",
-    "total_liquidity_usd": 338.92,
+    "total_liquidity_usd": 332.86,
     "is_paused": false
   },
   "0x2d34b79cc6d1a0ea77e3cbcebe66daf14ecddfd6": {
@@ -1351,12 +1359,20 @@
     "total_liquidity_usd": 321.48,
     "is_paused": false
   },
+  "0x562ca23b029922ae36c0ff2858bf474b699b107e": {
+    "id": "0x562ca23b029922ae36c0ff2858bf474b699b107e",
+    "name": "HAIL-MARY-BASE",
+    "address": "0x562ca23b029922ae36c0ff2858bf474b699b107e",
+    "chain": "BASE",
+    "total_liquidity_usd": 312.15,
+    "is_paused": false
+  },
   "0x5291ce4ef0ddc05842fa64390d3d56fd3c4fe3a0": {
     "id": "0x5291ce4ef0ddc05842fa64390d3d56fd3c4fe3a0",
     "name": "WAVAX USDt-A",
     "address": "0x5291ce4ef0ddc05842fa64390d3d56fd3c4fe3a0",
     "chain": "AVALANCHE",
-    "total_liquidity_usd": 314.49,
+    "total_liquidity_usd": 309.08,
     "is_paused": false
   },
   "0x849d43118c2e3c4856af26ee96f1a9d72bc2774f": {
@@ -1364,7 +1380,7 @@
     "name": "50% ZCHF / 50% svZCHF",
     "address": "0x849d43118c2e3c4856af26ee96f1a9d72bc2774f",
     "chain": "MAINNET",
-    "total_liquidity_usd": 313.19,
+    "total_liquidity_usd": 308.33,
     "is_paused": false
   },
   "0x4e0364a85f084b65a61a0e7d2d217fcbe958f9a1": {
@@ -1375,20 +1391,12 @@
     "total_liquidity_usd": 289.22,
     "is_paused": false
   },
-  "0x562ca23b029922ae36c0ff2858bf474b699b107e": {
-    "id": "0x562ca23b029922ae36c0ff2858bf474b699b107e",
-    "name": "HAIL-MARY-BASE",
-    "address": "0x562ca23b029922ae36c0ff2858bf474b699b107e",
-    "chain": "BASE",
-    "total_liquidity_usd": 283.65,
-    "is_paused": false
-  },
   "0x7311f2cf3cf6033b6e23274b9b2cbe2a82551069": {
     "id": "0x7311f2cf3cf6033b6e23274b9b2cbe2a82551069",
     "name": "45WETH 45WBTC 10USDC",
     "address": "0x7311f2cf3cf6033b6e23274b9b2cbe2a82551069",
     "chain": "MAINNET",
-    "total_liquidity_usd": 283.37,
+    "total_liquidity_usd": 280.29,
     "is_paused": false
   },
   "0x049190fcbbcabec932b399fd7d626b23d3b9b9a9": {
@@ -1396,7 +1404,7 @@
     "name": "5WETH 95Nanana",
     "address": "0x049190fcbbcabec932b399fd7d626b23d3b9b9a9",
     "chain": "MAINNET",
-    "total_liquidity_usd": 272.25,
+    "total_liquidity_usd": 273.29,
     "is_paused": false
   },
   "0x6687b8d041a178ef7b865b60dfce39ebb0700e1b": {
@@ -1404,7 +1412,7 @@
     "name": "DEFI BLUE CHIPS",
     "address": "0x6687b8d041a178ef7b865b60dfce39ebb0700e1b",
     "chain": "MAINNET",
-    "total_liquidity_usd": 261.35,
+    "total_liquidity_usd": 252.37,
     "is_paused": false
   },
   "0x51d286a07e037e553ea655cd9dc8c89f84dea088": {
@@ -1413,14 +1421,6 @@
     "address": "0x51d286a07e037e553ea655cd9dc8c89f84dea088",
     "chain": "AVALANCHE",
     "total_liquidity_usd": 249.27,
-    "is_paused": false
-  },
-  "0xd31e75960c5cdfac1f148c86146b070586a63a71": {
-    "id": "0xd31e75960c5cdfac1f148c86146b070586a63a71",
-    "name": "CMTDE_V3/WETH 50/50",
-    "address": "0xd31e75960c5cdfac1f148c86146b070586a63a71",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 239.19,
     "is_paused": false
   },
   "0x54145b1ed300d44057140417e4eb770014d88883": {
@@ -1444,7 +1444,23 @@
     "name": "CLANKER-POOL-THREE",
     "address": "0x79c67764138af2b0389f88375791a2b8cb3d9a72",
     "chain": "BASE",
-    "total_liquidity_usd": 237.1,
+    "total_liquidity_usd": 238.19,
+    "is_paused": false
+  },
+  "0xd31e75960c5cdfac1f148c86146b070586a63a71": {
+    "id": "0xd31e75960c5cdfac1f148c86146b070586a63a71",
+    "name": "CMTDE_V3/WETH 50/50",
+    "address": "0xd31e75960c5cdfac1f148c86146b070586a63a71",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 236.9,
+    "is_paused": false
+  },
+  "0x938c51d68e475b33aa955d0a366842cce06dea79": {
+    "id": "0x938c51d68e475b33aa955d0a366842cce06dea79",
+    "name": "80% CLANKER / 20% ARBME",
+    "address": "0x938c51d68e475b33aa955d0a366842cce06dea79",
+    "chain": "BASE",
+    "total_liquidity_usd": 231.54,
     "is_paused": false
   },
   "0x4403a2721a9a9956584dc19f553720cef0df35b0": {
@@ -1460,15 +1476,7 @@
     "name": "30AIIA-70WETH",
     "address": "0x2f0d039ed5c9ff3bed4fcff266392211236d6cfa",
     "chain": "BASE",
-    "total_liquidity_usd": 230.78,
-    "is_paused": false
-  },
-  "0x938c51d68e475b33aa955d0a366842cce06dea79": {
-    "id": "0x938c51d68e475b33aa955d0a366842cce06dea79",
-    "name": "80% CLANKER / 20% ARBME",
-    "address": "0x938c51d68e475b33aa955d0a366842cce06dea79",
-    "chain": "BASE",
-    "total_liquidity_usd": 228.66,
+    "total_liquidity_usd": 229.0,
     "is_paused": false
   },
   "0x6fb656febeadbad8b3b8ff63b1c5c7f1a22ae0f7": {
@@ -1476,23 +1484,7 @@
     "name": "25bCSPX 25WXDAI 25WBTC 25PAXG",
     "address": "0x6fb656febeadbad8b3b8ff63b1c5c7f1a22ae0f7",
     "chain": "GNOSIS",
-    "total_liquidity_usd": 225.9,
-    "is_paused": false
-  },
-  "0xaf272ec80cd010ae38a933384746875f16c37ac8": {
-    "id": "0xaf272ec80cd010ae38a933384746875f16c37ac8",
-    "name": "50% TrumpBucks / 50% WETH",
-    "address": "0xaf272ec80cd010ae38a933384746875f16c37ac8",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 213.93,
-    "is_paused": false
-  },
-  "0x76bd5a079f57379e9c64a794063ebdb1edfa38b1": {
-    "id": "0x76bd5a079f57379e9c64a794063ebdb1edfa38b1",
-    "name": "Elvensilver - Wrapped Ether",
-    "address": "0x76bd5a079f57379e9c64a794063ebdb1edfa38b1",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 212.53,
+    "total_liquidity_usd": 225.68,
     "is_paused": false
   },
   "0xef7e81d7594724c63ac7ba935a2588429817797c": {
@@ -1500,7 +1492,23 @@
     "name": "USDC / WETH / waBasWETH",
     "address": "0xef7e81d7594724c63ac7ba935a2588429817797c",
     "chain": "BASE",
-    "total_liquidity_usd": 211.78,
+    "total_liquidity_usd": 210.47,
+    "is_paused": false
+  },
+  "0x76bd5a079f57379e9c64a794063ebdb1edfa38b1": {
+    "id": "0x76bd5a079f57379e9c64a794063ebdb1edfa38b1",
+    "name": "Elvensilver - Wrapped Ether",
+    "address": "0x76bd5a079f57379e9c64a794063ebdb1edfa38b1",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 208.67,
+    "is_paused": false
+  },
+  "0xaf272ec80cd010ae38a933384746875f16c37ac8": {
+    "id": "0xaf272ec80cd010ae38a933384746875f16c37ac8",
+    "name": "50% TrumpBucks / 50% WETH",
+    "address": "0xaf272ec80cd010ae38a933384746875f16c37ac8",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 207.73,
     "is_paused": false
   },
   "0xad1af9d905b962856ba5fd575ee4dbd0b8f8901e": {
@@ -1516,15 +1524,7 @@
     "name": "50WBTC 50PAXG",
     "address": "0x80e07547d1b23f4b063374a8605c7170a15c294b",
     "chain": "GNOSIS",
-    "total_liquidity_usd": 197.03,
-    "is_paused": false
-  },
-  "0xd0bfa4784285acd49e06e12f302c2441c5923bfd": {
-    "id": "0xd0bfa4784285acd49e06e12f302c2441c5923bfd",
-    "name": "50WETH 50USDC MEV TAX'd",
-    "address": "0xd0bfa4784285acd49e06e12f302c2441c5923bfd",
-    "chain": "BASE",
-    "total_liquidity_usd": 190.84,
+    "total_liquidity_usd": 195.45,
     "is_paused": false
   },
   "0x64b84023cfe8397df83c67eaccc2c03ecda4aee5": {
@@ -1533,6 +1533,14 @@
     "address": "0x64b84023cfe8397df83c67eaccc2c03ecda4aee5",
     "chain": "MAINNET",
     "total_liquidity_usd": 190.27,
+    "is_paused": false
+  },
+  "0xd0bfa4784285acd49e06e12f302c2441c5923bfd": {
+    "id": "0xd0bfa4784285acd49e06e12f302c2441c5923bfd",
+    "name": "50WETH 50USDC MEV TAX'd",
+    "address": "0xd0bfa4784285acd49e06e12f302c2441c5923bfd",
+    "chain": "BASE",
+    "total_liquidity_usd": 188.71,
     "is_paused": false
   },
   "0xb4d4c0d906b0dc9ae9ac59b4785e04e98cc501ed": {
@@ -1548,7 +1556,7 @@
     "name": "KeyMigSP",
     "address": "0x70df707d38f7c2a3e78d88f32761da62f4880aca",
     "chain": "BASE",
-    "total_liquidity_usd": 184.89,
+    "total_liquidity_usd": 183.43,
     "is_paused": false
   },
   "0x9672543ddfb9267372b7f7a9b7818c67e2ee0013": {
@@ -1556,7 +1564,7 @@
     "name": "Biobasket",
     "address": "0x9672543ddfb9267372b7f7a9b7818c67e2ee0013",
     "chain": "BASE",
-    "total_liquidity_usd": 182.32,
+    "total_liquidity_usd": 180.4,
     "is_paused": false
   },
   "0xe36b198c43ddbec2d25c4f0a0bc5b80330551009": {
@@ -1588,7 +1596,7 @@
     "name": "WETH USDC",
     "address": "0xf78556b9ccce5a6eb9476a4d086ea15f3790660a",
     "chain": "ARBITRUM",
-    "total_liquidity_usd": 169.77,
+    "total_liquidity_usd": 167.07,
     "is_paused": false
   },
   "0x9670b5c229c633dc6f4d40f1100e91f1cdcc7dfd": {
@@ -1628,7 +1636,7 @@
     "name": "WETH cbBTC",
     "address": "0x15ebbf604b5fa847bdac208af1719d4dc78d2994",
     "chain": "BASE",
-    "total_liquidity_usd": 145.02,
+    "total_liquidity_usd": 143.31,
     "is_paused": false
   },
   "0x5f28a71aedc4c8a1ee3762f2945ff268a3591f79": {
@@ -1636,7 +1644,7 @@
     "name": "WETH-USDp",
     "address": "0x5f28a71aedc4c8a1ee3762f2945ff268a3591f79",
     "chain": "BASE",
-    "total_liquidity_usd": 139.23,
+    "total_liquidity_usd": 138.3,
     "is_paused": false
   },
   "0xcb80b1a9e7b319a4c5ec6b0666967ca1e309e40f": {
@@ -1644,15 +1652,15 @@
     "name": "Balancer Surge USDC WETH",
     "address": "0xcb80b1a9e7b319a4c5ec6b0666967ca1e309e40f",
     "chain": "BASE",
-    "total_liquidity_usd": 131.8,
+    "total_liquidity_usd": 130.78,
     "is_paused": false
   },
-  "0x6378c977cc421f71dfff5aa72b1567d1082ad00d": {
-    "id": "0x6378c977cc421f71dfff5aa72b1567d1082ad00d",
-    "name": "DEFI MEMES",
-    "address": "0x6378c977cc421f71dfff5aa72b1567d1082ad00d",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 130.58,
+  "0x5c78c3ed185de595f3181d2506419506c7313e20": {
+    "id": "0x5c78c3ed185de595f3181d2506419506c7313e20",
+    "name": "50SkiBonk-50BONKE",
+    "address": "0x5c78c3ed185de595f3181d2506419506c7313e20",
+    "chain": "BASE",
+    "total_liquidity_usd": 127.98,
     "is_paused": false
   },
   "0xfb4e6f150a0682a0bcb43a6f7d660a977bd194de": {
@@ -1663,20 +1671,20 @@
     "total_liquidity_usd": 126.51,
     "is_paused": false
   },
+  "0x6378c977cc421f71dfff5aa72b1567d1082ad00d": {
+    "id": "0x6378c977cc421f71dfff5aa72b1567d1082ad00d",
+    "name": "DEFI MEMES",
+    "address": "0x6378c977cc421f71dfff5aa72b1567d1082ad00d",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 126.04,
+    "is_paused": false
+  },
   "0xb97459fe72708603d822f4edf24bff8ecc07d8f6": {
     "id": "0xb97459fe72708603d822f4edf24bff8ecc07d8f6",
     "name": "30Base/ETHPrinter-20USDC/WETH",
     "address": "0xb97459fe72708603d822f4edf24bff8ecc07d8f6",
     "chain": "BASE",
-    "total_liquidity_usd": 123.36,
-    "is_paused": false
-  },
-  "0x5c78c3ed185de595f3181d2506419506c7313e20": {
-    "id": "0x5c78c3ed185de595f3181d2506419506c7313e20",
-    "name": "50SkiBonk-50BONKE",
-    "address": "0x5c78c3ed185de595f3181d2506419506c7313e20",
-    "chain": "BASE",
-    "total_liquidity_usd": 106.85,
+    "total_liquidity_usd": 122.96,
     "is_paused": false
   },
   "0x3f2bfffa5b65a292034d09680de2fea56bb85962": {
@@ -1684,7 +1692,7 @@
     "name": "truskawki-weth-curve",
     "address": "0x3f2bfffa5b65a292034d09680de2fea56bb85962",
     "chain": "MAINNET",
-    "total_liquidity_usd": 106.26,
+    "total_liquidity_usd": 104.42,
     "is_paused": false
   },
   "0x3b09a0110e53fed611fcc448eb60ec9646251b5a": {
@@ -1692,7 +1700,7 @@
     "name": "WETH USDp",
     "address": "0x3b09a0110e53fed611fcc448eb60ec9646251b5a",
     "chain": "BASE",
-    "total_liquidity_usd": 104.79,
+    "total_liquidity_usd": 103.07,
     "is_paused": false
   },
   "0xf2d8ad2984aa8050dd1ca1e74b862b165f7a622a": {
@@ -1700,7 +1708,7 @@
     "name": "Rezerve Lido Blackhole",
     "address": "0xf2d8ad2984aa8050dd1ca1e74b862b165f7a622a",
     "chain": "MAINNET",
-    "total_liquidity_usd": 103.85,
+    "total_liquidity_usd": 102.56,
     "is_paused": false
   },
   "0xca13f615035965ca6e9103a620b4ce0157324f71": {
@@ -1708,23 +1716,7 @@
     "name": "40WBTC 10WETH 50USDT",
     "address": "0xca13f615035965ca6e9103a620b4ce0157324f71",
     "chain": "GNOSIS",
-    "total_liquidity_usd": 102.04,
-    "is_paused": false
-  },
-  "0xd10d96730cbe56b7dc22cd69b1b8f325f929c8fe": {
-    "id": "0xd10d96730cbe56b7dc22cd69b1b8f325f929c8fe",
-    "name": "Sagix Miliarium Aureum ixFORUM",
-    "address": "0xd10d96730cbe56b7dc22cd69b1b8f325f929c8fe",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 101.99,
-    "is_paused": false
-  },
-  "0xe408b69ff6e7036c095449ab458e61219b5d8ae4": {
-    "id": "0xe408b69ff6e7036c095449ab458e61219b5d8ae4",
-    "name": "Sagix Miliarium Aureum ixSTRATA ",
-    "address": "0xe408b69ff6e7036c095449ab458e61219b5d8ae4",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 101.43,
+    "total_liquidity_usd": 101.62,
     "is_paused": false
   },
   "0x1e1b5d2395b2565aa2b6d7821edb0ef2ad558deb": {
@@ -1735,12 +1727,36 @@
     "total_liquidity_usd": 100.36,
     "is_paused": false
   },
-  "0xfc4427351b57028aed94b8e6d5ddf3b63ff9b289": {
-    "id": "0xfc4427351b57028aed94b8e6d5ddf3b63ff9b289",
-    "name": "50% ZRO / 50% WBTC",
-    "address": "0xfc4427351b57028aed94b8e6d5ddf3b63ff9b289",
+  "0xd10d96730cbe56b7dc22cd69b1b8f325f929c8fe": {
+    "id": "0xd10d96730cbe56b7dc22cd69b1b8f325f929c8fe",
+    "name": "Sagix Miliarium Aureum ixFORUM",
+    "address": "0xd10d96730cbe56b7dc22cd69b1b8f325f929c8fe",
     "chain": "MAINNET",
-    "total_liquidity_usd": 99.24,
+    "total_liquidity_usd": 99.94,
+    "is_paused": false
+  },
+  "0xe408b69ff6e7036c095449ab458e61219b5d8ae4": {
+    "id": "0xe408b69ff6e7036c095449ab458e61219b5d8ae4",
+    "name": "Sagix Miliarium Aureum ixSTRATA ",
+    "address": "0xe408b69ff6e7036c095449ab458e61219b5d8ae4",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 99.86,
+    "is_paused": false
+  },
+  "0xeb065d81155ac1905ed1cefa34dc065fb4da4de6": {
+    "id": "0xeb065d81155ac1905ed1cefa34dc065fb4da4de6",
+    "name": "ZORA VOLUME",
+    "address": "0xeb065d81155ac1905ed1cefa34dc065fb4da4de6",
+    "chain": "BASE",
+    "total_liquidity_usd": 98.44,
+    "is_paused": false
+  },
+  "0xc2bd3f3b973ee8528697108407503c01d0270bf9": {
+    "id": "0xc2bd3f3b973ee8528697108407503c01d0270bf9",
+    "name": "Zora Volume 2",
+    "address": "0xc2bd3f3b973ee8528697108407503c01d0270bf9",
+    "chain": "BASE",
+    "total_liquidity_usd": 98.29,
     "is_paused": false
   },
   "0xdfa3b3247f7cd2133a53d027c33aa1c24099ccd0": {
@@ -1751,12 +1767,20 @@
     "total_liquidity_usd": 97.37,
     "is_paused": false
   },
+  "0xfc4427351b57028aed94b8e6d5ddf3b63ff9b289": {
+    "id": "0xfc4427351b57028aed94b8e6d5ddf3b63ff9b289",
+    "name": "50% ZRO / 50% WBTC",
+    "address": "0xfc4427351b57028aed94b8e6d5ddf3b63ff9b289",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 96.85,
+    "is_paused": false
+  },
   "0xa58615da337e75268f3e9a568cc6e4239093abe1": {
     "id": "0xa58615da337e75268f3e9a568cc6e4239093abe1",
     "name": "50% ARBME / 50% ABC",
     "address": "0xa58615da337e75268f3e9a568cc6e4239093abe1",
     "chain": "BASE",
-    "total_liquidity_usd": 95.43,
+    "total_liquidity_usd": 96.15,
     "is_paused": false
   },
   "0x6de357ebddb4e2717069e1e5c1c544a766f945df": {
@@ -1783,44 +1807,12 @@
     "total_liquidity_usd": 93.76,
     "is_paused": false
   },
-  "0xc2bd3f3b973ee8528697108407503c01d0270bf9": {
-    "id": "0xc2bd3f3b973ee8528697108407503c01d0270bf9",
-    "name": "Zora Volume 2",
-    "address": "0xc2bd3f3b973ee8528697108407503c01d0270bf9",
-    "chain": "BASE",
-    "total_liquidity_usd": 91.9,
-    "is_paused": false
-  },
-  "0xeb065d81155ac1905ed1cefa34dc065fb4da4de6": {
-    "id": "0xeb065d81155ac1905ed1cefa34dc065fb4da4de6",
-    "name": "ZORA VOLUME",
-    "address": "0xeb065d81155ac1905ed1cefa34dc065fb4da4de6",
-    "chain": "BASE",
-    "total_liquidity_usd": 91.33,
-    "is_paused": false
-  },
   "0x333c2ffb30aead8cccbec348e520741081625d45": {
     "id": "0x333c2ffb30aead8cccbec348e520741081625d45",
     "name": "moreZORAposts",
     "address": "0x333c2ffb30aead8cccbec348e520741081625d45",
     "chain": "BASE",
-    "total_liquidity_usd": 91.01,
-    "is_paused": false
-  },
-  "0xc558d91d183c465db1203045877a20cee8a87cb4": {
-    "id": "0xc558d91d183c465db1203045877a20cee8a87cb4",
-    "name": "50waOptUSDCn 50WETH",
-    "address": "0xc558d91d183c465db1203045877a20cee8a87cb4",
-    "chain": "OPTIMISM",
-    "total_liquidity_usd": 87.78,
-    "is_paused": false
-  },
-  "0x9f52ef16f2cd76b727460c86eb81a235165161c1": {
-    "id": "0x9f52ef16f2cd76b727460c86eb81a235165161c1",
-    "name": "50USDC 50WETH",
-    "address": "0x9f52ef16f2cd76b727460c86eb81a235165161c1",
-    "chain": "ARBITRUM",
-    "total_liquidity_usd": 85.06,
+    "total_liquidity_usd": 91.13,
     "is_paused": false
   },
   "0xb129a4f356b6f3019265436cbe12e84f94a4fa5b": {
@@ -1828,7 +1820,23 @@
     "name": "CLANKER POOL TWO",
     "address": "0xb129a4f356b6f3019265436cbe12e84f94a4fa5b",
     "chain": "BASE",
-    "total_liquidity_usd": 84.16,
+    "total_liquidity_usd": 90.31,
+    "is_paused": false
+  },
+  "0xc558d91d183c465db1203045877a20cee8a87cb4": {
+    "id": "0xc558d91d183c465db1203045877a20cee8a87cb4",
+    "name": "50waOptUSDCn 50WETH",
+    "address": "0xc558d91d183c465db1203045877a20cee8a87cb4",
+    "chain": "OPTIMISM",
+    "total_liquidity_usd": 86.77,
+    "is_paused": false
+  },
+  "0x9f52ef16f2cd76b727460c86eb81a235165161c1": {
+    "id": "0x9f52ef16f2cd76b727460c86eb81a235165161c1",
+    "name": "50USDC 50WETH",
+    "address": "0x9f52ef16f2cd76b727460c86eb81a235165161c1",
+    "chain": "ARBITRUM",
+    "total_liquidity_usd": 83.42,
     "is_paused": false
   },
   "0x936a661b685d496a4ef94ad3f45a582a3d91d555": {
@@ -1836,7 +1844,23 @@
     "name": "50SkiBonk-25JERPLET-ABILLY",
     "address": "0x936a661b685d496a4ef94ad3f45a582a3d91d555",
     "chain": "BASE",
-    "total_liquidity_usd": 77.56,
+    "total_liquidity_usd": 82.17,
+    "is_paused": false
+  },
+  "0x9708fdbbc4a887890fd8d1f9ea2ebd943a076342": {
+    "id": "0x9708fdbbc4a887890fd8d1f9ea2ebd943a076342",
+    "name": "45SkiBonk+ 25WETH 15MUTE 15MIN",
+    "address": "0x9708fdbbc4a887890fd8d1f9ea2ebd943a076342",
+    "chain": "BASE",
+    "total_liquidity_usd": 79.19,
+    "is_paused": false
+  },
+  "0x617caba88cb64521301e59f9fca111274fb0b905": {
+    "id": "0x617caba88cb64521301e59f9fca111274fb0b905",
+    "name": "50SkiBonk-50MOODENG",
+    "address": "0x617caba88cb64521301e59f9fca111274fb0b905",
+    "chain": "BASE",
+    "total_liquidity_usd": 78.82,
     "is_paused": false
   },
   "0x5a5ab87e60e0bb2a8fcc296a53a79f982b371f56": {
@@ -1852,7 +1876,7 @@
     "name": "wabascb",
     "address": "0xae688e9caa15de22ebf1ddc5db97945dbf16eee7",
     "chain": "BASE",
-    "total_liquidity_usd": 77.25,
+    "total_liquidity_usd": 76.09,
     "is_paused": false
   },
   "0xa4557f5bad7ffd261260cc965d95fc8eacb7c9a3": {
@@ -1860,7 +1884,7 @@
     "name": "50WETH 50EIGEN",
     "address": "0xa4557f5bad7ffd261260cc965d95fc8eacb7c9a3",
     "chain": "MAINNET",
-    "total_liquidity_usd": 74.19,
+    "total_liquidity_usd": 72.85,
     "is_paused": false
   },
   "0xdb373fd670c1767db9ac9f2512ccf3ef15fd9d3d": {
@@ -1868,47 +1892,7 @@
     "name": "BAL / AURA / waBasUSDC",
     "address": "0xdb373fd670c1767db9ac9f2512ccf3ef15fd9d3d",
     "chain": "BASE",
-    "total_liquidity_usd": 72.94,
-    "is_paused": false
-  },
-  "0xadc65e7b867fee7fb186e72b62854562d9d21f12": {
-    "id": "0xadc65e7b867fee7fb186e72b62854562d9d21f12",
-    "name": "50WETH 50EIGEN",
-    "address": "0xadc65e7b867fee7fb186e72b62854562d9d21f12",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 71.85,
-    "is_paused": false
-  },
-  "0x4f073d894d8d3f43810ff1662d1792d9e32fe2ec": {
-    "id": "0x4f073d894d8d3f43810ff1662d1792d9e32fe2ec",
-    "name": "Balancer Surge USDC-WETH",
-    "address": "0x4f073d894d8d3f43810ff1662d1792d9e32fe2ec",
-    "chain": "ARBITRUM",
-    "total_liquidity_usd": 69.72,
-    "is_paused": false
-  },
-  "0x87eb2a0e81b17eb0231e4bc4e594e4837294db98": {
-    "id": "0x87eb2a0e81b17eb0231e4bc4e594e4837294db98",
-    "name": "50% msY-msUSD / 50% bcrvUSD",
-    "address": "0x87eb2a0e81b17eb0231e4bc4e594e4837294db98",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 68.53,
-    "is_paused": false
-  },
-  "0x9708fdbbc4a887890fd8d1f9ea2ebd943a076342": {
-    "id": "0x9708fdbbc4a887890fd8d1f9ea2ebd943a076342",
-    "name": "45SkiBonk+ 25WETH 15MUTE 15MIN",
-    "address": "0x9708fdbbc4a887890fd8d1f9ea2ebd943a076342",
-    "chain": "BASE",
-    "total_liquidity_usd": 68.16,
-    "is_paused": false
-  },
-  "0xaaf48e5366e9263eb5c31d7f6ba00319439f0ffe": {
-    "id": "0xaaf48e5366e9263eb5c31d7f6ba00319439f0ffe",
-    "name": "BONKE-doginme-KEYCAT",
-    "address": "0xaaf48e5366e9263eb5c31d7f6ba00319439f0ffe",
-    "chain": "BASE",
-    "total_liquidity_usd": 67.84,
+    "total_liquidity_usd": 72.05,
     "is_paused": false
   },
   "0x36948f3d3a7ad03630f68a2268b824312818966f": {
@@ -1916,7 +1900,23 @@
     "name": "JESSE-EVERY-MEME",
     "address": "0x36948f3d3a7ad03630f68a2268b824312818966f",
     "chain": "BASE",
-    "total_liquidity_usd": 66.72,
+    "total_liquidity_usd": 71.79,
+    "is_paused": false
+  },
+  "0xadc65e7b867fee7fb186e72b62854562d9d21f12": {
+    "id": "0xadc65e7b867fee7fb186e72b62854562d9d21f12",
+    "name": "50WETH 50EIGEN",
+    "address": "0xadc65e7b867fee7fb186e72b62854562d9d21f12",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 71.17,
+    "is_paused": false
+  },
+  "0x4f073d894d8d3f43810ff1662d1792d9e32fe2ec": {
+    "id": "0x4f073d894d8d3f43810ff1662d1792d9e32fe2ec",
+    "name": "Balancer Surge USDC-WETH",
+    "address": "0x4f073d894d8d3f43810ff1662d1792d9e32fe2ec",
+    "chain": "ARBITRUM",
+    "total_liquidity_usd": 69.96,
     "is_paused": false
   },
   "0x046f0cc3c311eb5a3b3bcbdd2220471a12d98de7": {
@@ -1924,7 +1924,31 @@
     "name": "CLANKER POOL ONE",
     "address": "0x046f0cc3c311eb5a3b3bcbdd2220471a12d98de7",
     "chain": "BASE",
-    "total_liquidity_usd": 65.06,
+    "total_liquidity_usd": 68.84,
+    "is_paused": false
+  },
+  "0xaaf48e5366e9263eb5c31d7f6ba00319439f0ffe": {
+    "id": "0xaaf48e5366e9263eb5c31d7f6ba00319439f0ffe",
+    "name": "BONKE-doginme-KEYCAT",
+    "address": "0xaaf48e5366e9263eb5c31d7f6ba00319439f0ffe",
+    "chain": "BASE",
+    "total_liquidity_usd": 67.48,
+    "is_paused": false
+  },
+  "0xcc6467bfdceca6425ec10028ce73833f597c8f8c": {
+    "id": "0xcc6467bfdceca6425ec10028ce73833f597c8f8c",
+    "name": "UNCX GEMS",
+    "address": "0xcc6467bfdceca6425ec10028ce73833f597c8f8c",
+    "chain": "BASE",
+    "total_liquidity_usd": 66.71,
+    "is_paused": false
+  },
+  "0xc658564b7cfa31b1545e1e329c44eee0173bd1ec": {
+    "id": "0xc658564b7cfa31b1545e1e329c44eee0173bd1ec",
+    "name": "50SkiBonk-50RUSSELL",
+    "address": "0xc658564b7cfa31b1545e1e329c44eee0173bd1ec",
+    "chain": "BASE",
+    "total_liquidity_usd": 65.32,
     "is_paused": false
   },
   "0x9481d2483d198913281986d36f51dcfb8c051086": {
@@ -1943,12 +1967,12 @@
     "total_liquidity_usd": 63.06,
     "is_paused": false
   },
-  "0xcc6467bfdceca6425ec10028ce73833f597c8f8c": {
-    "id": "0xcc6467bfdceca6425ec10028ce73833f597c8f8c",
-    "name": "UNCX GEMS",
-    "address": "0xcc6467bfdceca6425ec10028ce73833f597c8f8c",
+  "0xf15f4e025c55493516b73571f0a1da09f5cd7d1b": {
+    "id": "0xf15f4e025c55493516b73571f0a1da09f5cd7d1b",
+    "name": "45SkiBonk+ 25WETH 15BURN15TAOCAT",
+    "address": "0xf15f4e025c55493516b73571f0a1da09f5cd7d1b",
     "chain": "BASE",
-    "total_liquidity_usd": 60.65,
+    "total_liquidity_usd": 61.83,
     "is_paused": false
   },
   "0xb2771c669ffe1f4fc64d1dfc98fd9492a745ede4": {
@@ -1975,20 +1999,36 @@
     "total_liquidity_usd": 58.14,
     "is_paused": false
   },
-  "0x617caba88cb64521301e59f9fca111274fb0b905": {
-    "id": "0x617caba88cb64521301e59f9fca111274fb0b905",
-    "name": "50SkiBonk-50MOODENG",
-    "address": "0x617caba88cb64521301e59f9fca111274fb0b905",
+  "0xaf3938b8c2d16d764d0e5a15b871d71be6d4c000": {
+    "id": "0xaf3938b8c2d16d764d0e5a15b871d71be6d4c000",
+    "name": "SKI BAG",
+    "address": "0xaf3938b8c2d16d764d0e5a15b871d71be6d4c000",
     "chain": "BASE",
-    "total_liquidity_usd": 55.51,
+    "total_liquidity_usd": 57.05,
     "is_paused": false
   },
-  "0xe0d89e3ed7de7b7c579329cb3500fb75ca8fb1b4": {
-    "id": "0xe0d89e3ed7de7b7c579329cb3500fb75ca8fb1b4",
-    "name": "DEFIGOLD",
-    "address": "0xe0d89e3ed7de7b7c579329cb3500fb75ca8fb1b4",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 54.91,
+  "0x7585ef4316cb83c065ecf1bb6b9fbe55f8a4ac38": {
+    "id": "0x7585ef4316cb83c065ecf1bb6b9fbe55f8a4ac38",
+    "name": "MORE UNCX GEMS",
+    "address": "0x7585ef4316cb83c065ecf1bb6b9fbe55f8a4ac38",
+    "chain": "BASE",
+    "total_liquidity_usd": 56.33,
+    "is_paused": false
+  },
+  "0x920752193370de02bcdea5360254246f05d8788a": {
+    "id": "0x920752193370de02bcdea5360254246f05d8788a",
+    "name": "BASE GEMS",
+    "address": "0x920752193370de02bcdea5360254246f05d8788a",
+    "chain": "BASE",
+    "total_liquidity_usd": 55.47,
+    "is_paused": false
+  },
+  "0x73b695c95895c519f309ff00a2aeaaa8dd7151f4": {
+    "id": "0x73b695c95895c519f309ff00a2aeaaa8dd7151f4",
+    "name": "45SkiBonk+ 25WETH 15ZAIA 15WINT",
+    "address": "0x73b695c95895c519f309ff00a2aeaaa8dd7151f4",
+    "chain": "BASE",
+    "total_liquidity_usd": 55.36,
     "is_paused": false
   },
   "0x11845515b41b9eff39ef6f56f9d6ef3b2d75774e": {
@@ -1999,36 +2039,12 @@
     "total_liquidity_usd": 54.88,
     "is_paused": false
   },
-  "0x920752193370de02bcdea5360254246f05d8788a": {
-    "id": "0x920752193370de02bcdea5360254246f05d8788a",
-    "name": "BASE GEMS",
-    "address": "0x920752193370de02bcdea5360254246f05d8788a",
-    "chain": "BASE",
-    "total_liquidity_usd": 54.82,
-    "is_paused": false
-  },
-  "0xc658564b7cfa31b1545e1e329c44eee0173bd1ec": {
-    "id": "0xc658564b7cfa31b1545e1e329c44eee0173bd1ec",
-    "name": "50SkiBonk-50RUSSELL",
-    "address": "0xc658564b7cfa31b1545e1e329c44eee0173bd1ec",
-    "chain": "BASE",
-    "total_liquidity_usd": 54.03,
-    "is_paused": false
-  },
-  "0xaf3938b8c2d16d764d0e5a15b871d71be6d4c000": {
-    "id": "0xaf3938b8c2d16d764d0e5a15b871d71be6d4c000",
-    "name": "SKI BAG",
-    "address": "0xaf3938b8c2d16d764d0e5a15b871d71be6d4c000",
-    "chain": "BASE",
-    "total_liquidity_usd": 53.36,
-    "is_paused": false
-  },
   "0x6f5d3c1b38fb0db4c5c9a51568638cf91c636072": {
     "id": "0x6f5d3c1b38fb0db4c5c9a51568638cf91c636072",
     "name": "50USDC 50EIGEN",
     "address": "0x6f5d3c1b38fb0db4c5c9a51568638cf91c636072",
     "chain": "MAINNET",
-    "total_liquidity_usd": 52.39,
+    "total_liquidity_usd": 53.41,
     "is_paused": false
   },
   "0x6b6f42e8496f39ff2385e9a5b2cd7397b524cdc7": {
@@ -2036,7 +2052,7 @@
     "name": "50USDC 50EIGEN",
     "address": "0x6b6f42e8496f39ff2385e9a5b2cd7397b524cdc7",
     "chain": "MAINNET",
-    "total_liquidity_usd": 52.27,
+    "total_liquidity_usd": 53.3,
     "is_paused": false
   },
   "0x760dd510ff482b01498fece351dcee276385e9f9": {
@@ -2044,7 +2060,31 @@
     "name": "50USDC 50EIGEN",
     "address": "0x760dd510ff482b01498fece351dcee276385e9f9",
     "chain": "MAINNET",
-    "total_liquidity_usd": 52.23,
+    "total_liquidity_usd": 53.26,
+    "is_paused": false
+  },
+  "0xe0d89e3ed7de7b7c579329cb3500fb75ca8fb1b4": {
+    "id": "0xe0d89e3ed7de7b7c579329cb3500fb75ca8fb1b4",
+    "name": "DEFIGOLD",
+    "address": "0xe0d89e3ed7de7b7c579329cb3500fb75ca8fb1b4",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 53.24,
+    "is_paused": false
+  },
+  "0x604887dd8d2c9c1e3625ed6cc09b794e21aef572": {
+    "id": "0x604887dd8d2c9c1e3625ed6cc09b794e21aef572",
+    "name": "45SkiBonk+ 25WETH 15WIRE15SHEKEL",
+    "address": "0x604887dd8d2c9c1e3625ed6cc09b794e21aef572",
+    "chain": "BASE",
+    "total_liquidity_usd": 52.18,
+    "is_paused": false
+  },
+  "0xf1feec34d5bc99765f00a08a26b2f992072268b1": {
+    "id": "0xf1feec34d5bc99765f00a08a26b2f992072268b1",
+    "name": "RunnerSkiBonkZoraPosts",
+    "address": "0xf1feec34d5bc99765f00a08a26b2f992072268b1",
+    "chain": "BASE",
+    "total_liquidity_usd": 51.99,
     "is_paused": false
   },
   "0xda35b40ab9e82604cd2e6942525db65393014678": {
@@ -2055,20 +2095,20 @@
     "total_liquidity_usd": 51.61,
     "is_paused": false
   },
-  "0x7585ef4316cb83c065ecf1bb6b9fbe55f8a4ac38": {
-    "id": "0x7585ef4316cb83c065ecf1bb6b9fbe55f8a4ac38",
-    "name": "MORE UNCX GEMS",
-    "address": "0x7585ef4316cb83c065ecf1bb6b9fbe55f8a4ac38",
+  "0x93611fd07f66054ed9c3774baaa43279feaba07c": {
+    "id": "0x93611fd07f66054ed9c3774baaa43279feaba07c",
+    "name": "FEELS-BASEDSYDNEY",
+    "address": "0x93611fd07f66054ed9c3774baaa43279feaba07c",
     "chain": "BASE",
-    "total_liquidity_usd": 51.39,
+    "total_liquidity_usd": 51.29,
     "is_paused": false
   },
-  "0x02345da85777b7e5ed740e0df3bbca93ef03fe9f": {
-    "id": "0x02345da85777b7e5ed740e0df3bbca93ef03fe9f",
-    "name": "80VERSE 20tBTC",
-    "address": "0x02345da85777b7e5ed740e0df3bbca93ef03fe9f",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 51.34,
+  "0xc34c3ee1f05db7f0c58f683c8554489f58596958": {
+    "id": "0xc34c3ee1f05db7f0c58f683c8554489f58596958",
+    "name": "50SkiBonk-25Boshi-25TIMI",
+    "address": "0xc34c3ee1f05db7f0c58f683c8554489f58596958",
+    "chain": "BASE",
+    "total_liquidity_usd": 51.11,
     "is_paused": false
   },
   "0xc7f8e86eccf42c6d57cc847c249445722a34d292": {
@@ -2076,15 +2116,23 @@
     "name": "ZORA AND VIRTUAL",
     "address": "0xc7f8e86eccf42c6d57cc847c249445722a34d292",
     "chain": "BASE",
-    "total_liquidity_usd": 50.94,
+    "total_liquidity_usd": 50.9,
     "is_paused": false
   },
-  "0xf15f4e025c55493516b73571f0a1da09f5cd7d1b": {
-    "id": "0xf15f4e025c55493516b73571f0a1da09f5cd7d1b",
-    "name": "45SkiBonk+ 25WETH 15BURN15TAOCAT",
-    "address": "0xf15f4e025c55493516b73571f0a1da09f5cd7d1b",
+  "0x02345da85777b7e5ed740e0df3bbca93ef03fe9f": {
+    "id": "0x02345da85777b7e5ed740e0df3bbca93ef03fe9f",
+    "name": "80VERSE 20tBTC",
+    "address": "0x02345da85777b7e5ed740e0df3bbca93ef03fe9f",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 50.41,
+    "is_paused": false
+  },
+  "0xf9a9ba6818995464d283ee7f92481f530497f3df": {
+    "id": "0xf9a9ba6818995464d283ee7f92481f530497f3df",
+    "name": "SkiBonk+ / DIEM / VVV / LMNK",
+    "address": "0xf9a9ba6818995464d283ee7f92481f530497f3df",
     "chain": "BASE",
-    "total_liquidity_usd": 50.73,
+    "total_liquidity_usd": 47.79,
     "is_paused": false
   },
   "0xc965bd2a2fbfe98918d1d20690c7f749bc82a68f": {
@@ -2092,55 +2140,7 @@
     "name": "cbBTC-USDp",
     "address": "0xc965bd2a2fbfe98918d1d20690c7f749bc82a68f",
     "chain": "BASE",
-    "total_liquidity_usd": 47.52,
-    "is_paused": false
-  },
-  "0x93611fd07f66054ed9c3774baaa43279feaba07c": {
-    "id": "0x93611fd07f66054ed9c3774baaa43279feaba07c",
-    "name": "FEELS-BASEDSYDNEY",
-    "address": "0x93611fd07f66054ed9c3774baaa43279feaba07c",
-    "chain": "BASE",
-    "total_liquidity_usd": 47.52,
-    "is_paused": false
-  },
-  "0xf1feec34d5bc99765f00a08a26b2f992072268b1": {
-    "id": "0xf1feec34d5bc99765f00a08a26b2f992072268b1",
-    "name": "RunnerSkiBonkZoraPosts",
-    "address": "0xf1feec34d5bc99765f00a08a26b2f992072268b1",
-    "chain": "BASE",
-    "total_liquidity_usd": 46.92,
-    "is_paused": false
-  },
-  "0x5c9e4980b3de5bd1c99556e2f9f91407333ecb26": {
-    "id": "0x5c9e4980b3de5bd1c99556e2f9f91407333ecb26",
-    "name": "50RUNNER-50LMNK",
-    "address": "0x5c9e4980b3de5bd1c99556e2f9f91407333ecb26",
-    "chain": "BASE",
-    "total_liquidity_usd": 46.71,
-    "is_paused": false
-  },
-  "0x73b695c95895c519f309ff00a2aeaaa8dd7151f4": {
-    "id": "0x73b695c95895c519f309ff00a2aeaaa8dd7151f4",
-    "name": "45SkiBonk+ 25WETH 15ZAIA 15WINT",
-    "address": "0x73b695c95895c519f309ff00a2aeaaa8dd7151f4",
-    "chain": "BASE",
-    "total_liquidity_usd": 46.31,
-    "is_paused": false
-  },
-  "0x604887dd8d2c9c1e3625ed6cc09b794e21aef572": {
-    "id": "0x604887dd8d2c9c1e3625ed6cc09b794e21aef572",
-    "name": "45SkiBonk+ 25WETH 15WIRE15SHEKEL",
-    "address": "0x604887dd8d2c9c1e3625ed6cc09b794e21aef572",
-    "chain": "BASE",
-    "total_liquidity_usd": 45.71,
-    "is_paused": false
-  },
-  "0x7851d6559859e88cf2d1cbfcfe920b978aaeee41": {
-    "id": "0x7851d6559859e88cf2d1cbfcfe920b978aaeee41",
-    "name": "Five Base Cats",
-    "address": "0x7851d6559859e88cf2d1cbfcfe920b978aaeee41",
-    "chain": "BASE",
-    "total_liquidity_usd": 45.44,
+    "total_liquidity_usd": 46.38,
     "is_paused": false
   },
   "0x88c32a6226af9b74491fc1434b9fdfa416a9e8ca": {
@@ -2156,7 +2156,7 @@
     "name": "50doginme-50BONKE",
     "address": "0xfe5475e27927b7d0bb03d16beb196b63a000fc1b",
     "chain": "BASE",
-    "total_liquidity_usd": 44.97,
+    "total_liquidity_usd": 45.12,
     "is_paused": false
   },
   "0xb407e25f958873bff5ba82ae2fe148733f1abce3": {
@@ -2164,31 +2164,15 @@
     "name": "25GMX 25waArbWETH 50waArbUSDCn",
     "address": "0xb407e25f958873bff5ba82ae2fe148733f1abce3",
     "chain": "ARBITRUM",
-    "total_liquidity_usd": 44.58,
+    "total_liquidity_usd": 44.99,
     "is_paused": false
   },
-  "0xf14663de3f82228a504d81c0e0b475e4037b4d1c": {
-    "id": "0xf14663de3f82228a504d81c0e0b475e4037b4d1c",
-    "name": "waArbUSDT waArbWETH",
-    "address": "0xf14663de3f82228a504d81c0e0b475e4037b4d1c",
-    "chain": "ARBITRUM",
-    "total_liquidity_usd": 44.57,
-    "is_paused": false
-  },
-  "0xf9a9ba6818995464d283ee7f92481f530497f3df": {
-    "id": "0xf9a9ba6818995464d283ee7f92481f530497f3df",
-    "name": "SkiBonk+ / DIEM / VVV / LMNK",
-    "address": "0xf9a9ba6818995464d283ee7f92481f530497f3df",
+  "0x7851d6559859e88cf2d1cbfcfe920b978aaeee41": {
+    "id": "0x7851d6559859e88cf2d1cbfcfe920b978aaeee41",
+    "name": "Five Base Cats",
+    "address": "0x7851d6559859e88cf2d1cbfcfe920b978aaeee41",
     "chain": "BASE",
-    "total_liquidity_usd": 43.02,
-    "is_paused": false
-  },
-  "0xa0e5102e86ca56f018df5b65c427e2434ac74c6b": {
-    "id": "0xa0e5102e86ca56f018df5b65c427e2434ac74c6b",
-    "name": "SIX FUNDAMENTAL VIRTUALS",
-    "address": "0xa0e5102e86ca56f018df5b65c427e2434ac74c6b",
-    "chain": "BASE",
-    "total_liquidity_usd": 42.63,
+    "total_liquidity_usd": 44.82,
     "is_paused": false
   },
   "0x4dfbcdf5c45b47668d1190c6379389ac40296973": {
@@ -2196,23 +2180,7 @@
     "name": "KITCHEN-SINK-TWO",
     "address": "0x4dfbcdf5c45b47668d1190c6379389ac40296973",
     "chain": "BASE",
-    "total_liquidity_usd": 42.19,
-    "is_paused": false
-  },
-  "0x121edb0badc036f5fc610d015ee14093c142313b": {
-    "id": "0x121edb0badc036f5fc610d015ee14093c142313b",
-    "name": "Balancer rstETH-Lido wstETH",
-    "address": "0x121edb0badc036f5fc610d015ee14093c142313b",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 41.83,
-    "is_paused": false
-  },
-  "0xc34c3ee1f05db7f0c58f683c8554489f58596958": {
-    "id": "0xc34c3ee1f05db7f0c58f683c8554489f58596958",
-    "name": "50SkiBonk-25Boshi-25TIMI",
-    "address": "0xc34c3ee1f05db7f0c58f683c8554489f58596958",
-    "chain": "BASE",
-    "total_liquidity_usd": 41.36,
+    "total_liquidity_usd": 44.25,
     "is_paused": false
   },
   "0xcfa23f98d1c33c57009bb8c2514e26946ab6f085": {
@@ -2220,23 +2188,23 @@
     "name": "BASED BETS",
     "address": "0xcfa23f98d1c33c57009bb8c2514e26946ab6f085",
     "chain": "BASE",
-    "total_liquidity_usd": 40.2,
+    "total_liquidity_usd": 43.93,
     "is_paused": false
   },
-  "0xb65f6cba1efbcdd79b45d8927aa789b15a74c270": {
-    "id": "0xb65f6cba1efbcdd79b45d8927aa789b15a74c270",
-    "name": "BONKE-DOMINOS-DRB-RUNNER",
-    "address": "0xb65f6cba1efbcdd79b45d8927aa789b15a74c270",
-    "chain": "BASE",
-    "total_liquidity_usd": 40.02,
+  "0xf14663de3f82228a504d81c0e0b475e4037b4d1c": {
+    "id": "0xf14663de3f82228a504d81c0e0b475e4037b4d1c",
+    "name": "waArbUSDT waArbWETH",
+    "address": "0xf14663de3f82228a504d81c0e0b475e4037b4d1c",
+    "chain": "ARBITRUM",
+    "total_liquidity_usd": 43.63,
     "is_paused": false
   },
-  "0xc071e9de9053ca3225531a0e8f7c7a1ef09bdf53": {
-    "id": "0xc071e9de9053ca3225531a0e8f7c7a1ef09bdf53",
-    "name": "50RUNNER-50wbCOIN",
-    "address": "0xc071e9de9053ca3225531a0e8f7c7a1ef09bdf53",
+  "0x5c9e4980b3de5bd1c99556e2f9f91407333ecb26": {
+    "id": "0x5c9e4980b3de5bd1c99556e2f9f91407333ecb26",
+    "name": "50RUNNER-50LMNK",
+    "address": "0x5c9e4980b3de5bd1c99556e2f9f91407333ecb26",
     "chain": "BASE",
-    "total_liquidity_usd": 38.99,
+    "total_liquidity_usd": 43.33,
     "is_paused": false
   },
   "0xbe1c92215d01849c38d8999227faf6dcebe150a0": {
@@ -2244,15 +2212,63 @@
     "name": "BASE GAMEFI TWO",
     "address": "0xbe1c92215d01849c38d8999227faf6dcebe150a0",
     "chain": "BASE",
-    "total_liquidity_usd": 38.62,
+    "total_liquidity_usd": 42.64,
     "is_paused": false
   },
-  "0x89a0729c11526f4d8ecb14ddd2283cba93a4ee3d": {
-    "id": "0x89a0729c11526f4d8ecb14ddd2283cba93a4ee3d",
-    "name": "SHEKEL",
-    "address": "0x89a0729c11526f4d8ecb14ddd2283cba93a4ee3d",
+  "0xa0e5102e86ca56f018df5b65c427e2434ac74c6b": {
+    "id": "0xa0e5102e86ca56f018df5b65c427e2434ac74c6b",
+    "name": "SIX FUNDAMENTAL VIRTUALS",
+    "address": "0xa0e5102e86ca56f018df5b65c427e2434ac74c6b",
     "chain": "BASE",
-    "total_liquidity_usd": 37.0,
+    "total_liquidity_usd": 42.08,
+    "is_paused": false
+  },
+  "0x327e67bd4344eb48050b19a5d0ecc30a73bddb84": {
+    "id": "0x327e67bd4344eb48050b19a5d0ecc30a73bddb84",
+    "name": "50% WETH.e / 50% USDt",
+    "address": "0x327e67bd4344eb48050b19a5d0ecc30a73bddb84",
+    "chain": "AVALANCHE",
+    "total_liquidity_usd": 41.93,
+    "is_paused": false
+  },
+  "0x3233c394ab0518959e761e330eb56a4c5e77dc02": {
+    "id": "0x3233c394ab0518959e761e330eb56a4c5e77dc02",
+    "name": "BELIEVE-VALUE-CREATE-BUILD-WIN",
+    "address": "0x3233c394ab0518959e761e330eb56a4c5e77dc02",
+    "chain": "BASE",
+    "total_liquidity_usd": 40.66,
+    "is_paused": false
+  },
+  "0x121edb0badc036f5fc610d015ee14093c142313b": {
+    "id": "0x121edb0badc036f5fc610d015ee14093c142313b",
+    "name": "Balancer rstETH-Lido wstETH",
+    "address": "0x121edb0badc036f5fc610d015ee14093c142313b",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 40.61,
+    "is_paused": false
+  },
+  "0xb65f6cba1efbcdd79b45d8927aa789b15a74c270": {
+    "id": "0xb65f6cba1efbcdd79b45d8927aa789b15a74c270",
+    "name": "BONKE-DOMINOS-DRB-RUNNER",
+    "address": "0xb65f6cba1efbcdd79b45d8927aa789b15a74c270",
+    "chain": "BASE",
+    "total_liquidity_usd": 40.03,
+    "is_paused": false
+  },
+  "0xc071e9de9053ca3225531a0e8f7c7a1ef09bdf53": {
+    "id": "0xc071e9de9053ca3225531a0e8f7c7a1ef09bdf53",
+    "name": "50RUNNER-50wbCOIN",
+    "address": "0xc071e9de9053ca3225531a0e8f7c7a1ef09bdf53",
+    "chain": "BASE",
+    "total_liquidity_usd": 38.98,
+    "is_paused": false
+  },
+  "0x4558883839b3f4fed46f8f0addbf8a304dae9f28": {
+    "id": "0x4558883839b3f4fed46f8f0addbf8a304dae9f28",
+    "name": "50SkiBonk-50Neiro",
+    "address": "0x4558883839b3f4fed46f8f0addbf8a304dae9f28",
+    "chain": "BASE",
+    "total_liquidity_usd": 38.77,
     "is_paused": false
   },
   "0x53e90509d4b71b5a023d9403c9642851f61e35ff": {
@@ -2260,31 +2276,7 @@
     "name": "3zorawiz",
     "address": "0x53e90509d4b71b5a023d9403c9642851f61e35ff",
     "chain": "BASE",
-    "total_liquidity_usd": 36.93,
-    "is_paused": false
-  },
-  "0x13ae48c4ef6e7a2f3fb0b9631598d83c01a4024f": {
-    "id": "0x13ae48c4ef6e7a2f3fb0b9631598d83c01a4024f",
-    "name": "AOGX/USDT",
-    "address": "0x13ae48c4ef6e7a2f3fb0b9631598d83c01a4024f",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 36.51,
-    "is_paused": false
-  },
-  "0x1282030e352538aef4fee63747e880863af82a13": {
-    "id": "0x1282030e352538aef4fee63747e880863af82a13",
-    "name": "VIRTUALS GEMS",
-    "address": "0x1282030e352538aef4fee63747e880863af82a13",
-    "chain": "BASE",
-    "total_liquidity_usd": 35.78,
-    "is_paused": false
-  },
-  "0x3a75023e3daf80c735682c3cc5e7264cd0994dc3": {
-    "id": "0x3a75023e3daf80c735682c3cc5e7264cd0994dc3",
-    "name": "50BRETT-50BONKE",
-    "address": "0x3a75023e3daf80c735682c3cc5e7264cd0994dc3",
-    "chain": "BASE",
-    "total_liquidity_usd": 35.64,
+    "total_liquidity_usd": 37.25,
     "is_paused": false
   },
   "0x4b32549241169be943ce3de510fa0c956fd04806": {
@@ -2292,7 +2284,23 @@
     "name": "KITCHEN-SINK-ONE",
     "address": "0x4b32549241169be943ce3de510fa0c956fd04806",
     "chain": "BASE",
-    "total_liquidity_usd": 34.89,
+    "total_liquidity_usd": 37.05,
+    "is_paused": false
+  },
+  "0x13ae48c4ef6e7a2f3fb0b9631598d83c01a4024f": {
+    "id": "0x13ae48c4ef6e7a2f3fb0b9631598d83c01a4024f",
+    "name": "AOGX/USDT",
+    "address": "0x13ae48c4ef6e7a2f3fb0b9631598d83c01a4024f",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 36.45,
+    "is_paused": false
+  },
+  "0x1282030e352538aef4fee63747e880863af82a13": {
+    "id": "0x1282030e352538aef4fee63747e880863af82a13",
+    "name": "VIRTUALS GEMS",
+    "address": "0x1282030e352538aef4fee63747e880863af82a13",
+    "chain": "BASE",
+    "total_liquidity_usd": 35.97,
     "is_paused": false
   },
   "0x378a5c2376e583af90278cc3577a3f45e5f680fc": {
@@ -2303,28 +2311,12 @@
     "total_liquidity_usd": 34.83,
     "is_paused": true
   },
-  "0xfc94926e08cdf756adcf77347e3271730b0fa421": {
-    "id": "0xfc94926e08cdf756adcf77347e3271730b0fa421",
-    "name": "XAUt PAXG",
-    "address": "0xfc94926e08cdf756adcf77347e3271730b0fa421",
-    "chain": "ARBITRUM",
-    "total_liquidity_usd": 34.41,
-    "is_paused": false
-  },
-  "0x08743c426bc3139e785b46b5aa2785dd6f524eb1": {
-    "id": "0x08743c426bc3139e785b46b5aa2785dd6f524eb1",
-    "name": "50BONKE-50RUNNER",
-    "address": "0x08743c426bc3139e785b46b5aa2785dd6f524eb1",
+  "0x3a75023e3daf80c735682c3cc5e7264cd0994dc3": {
+    "id": "0x3a75023e3daf80c735682c3cc5e7264cd0994dc3",
+    "name": "50BRETT-50BONKE",
+    "address": "0x3a75023e3daf80c735682c3cc5e7264cd0994dc3",
     "chain": "BASE",
-    "total_liquidity_usd": 33.1,
-    "is_paused": false
-  },
-  "0x5e8a65395e61be51f27da254aa0f09b77f2e4eb4": {
-    "id": "0x5e8a65395e61be51f27da254aa0f09b77f2e4eb4",
-    "name": "25sDAI25waGnowstETH25WBTC25PAXG",
-    "address": "0x5e8a65395e61be51f27da254aa0f09b77f2e4eb4",
-    "chain": "GNOSIS",
-    "total_liquidity_usd": 32.86,
+    "total_liquidity_usd": 34.57,
     "is_paused": false
   },
   "0x8cf65b0e4fa22a295c0272d48912d242aca1f719": {
@@ -2332,15 +2324,47 @@
     "name": "BASE GAMEFI ONE",
     "address": "0x8cf65b0e4fa22a295c0272d48912d242aca1f719",
     "chain": "BASE",
-    "total_liquidity_usd": 32.12,
+    "total_liquidity_usd": 34.55,
     "is_paused": false
   },
-  "0x4558883839b3f4fed46f8f0addbf8a304dae9f28": {
-    "id": "0x4558883839b3f4fed46f8f0addbf8a304dae9f28",
-    "name": "50SkiBonk-50Neiro",
-    "address": "0x4558883839b3f4fed46f8f0addbf8a304dae9f28",
+  "0xfc94926e08cdf756adcf77347e3271730b0fa421": {
+    "id": "0xfc94926e08cdf756adcf77347e3271730b0fa421",
+    "name": "XAUt PAXG",
+    "address": "0xfc94926e08cdf756adcf77347e3271730b0fa421",
+    "chain": "ARBITRUM",
+    "total_liquidity_usd": 33.4,
+    "is_paused": false
+  },
+  "0x5e8a65395e61be51f27da254aa0f09b77f2e4eb4": {
+    "id": "0x5e8a65395e61be51f27da254aa0f09b77f2e4eb4",
+    "name": "25sDAI25waGnowstETH25WBTC25PAXG",
+    "address": "0x5e8a65395e61be51f27da254aa0f09b77f2e4eb4",
+    "chain": "GNOSIS",
+    "total_liquidity_usd": 32.62,
+    "is_paused": false
+  },
+  "0x08743c426bc3139e785b46b5aa2785dd6f524eb1": {
+    "id": "0x08743c426bc3139e785b46b5aa2785dd6f524eb1",
+    "name": "50BONKE-50RUNNER",
+    "address": "0x08743c426bc3139e785b46b5aa2785dd6f524eb1",
     "chain": "BASE",
-    "total_liquidity_usd": 31.91,
+    "total_liquidity_usd": 32.21,
+    "is_paused": false
+  },
+  "0x89a0729c11526f4d8ecb14ddd2283cba93a4ee3d": {
+    "id": "0x89a0729c11526f4d8ecb14ddd2283cba93a4ee3d",
+    "name": "SHEKEL",
+    "address": "0x89a0729c11526f4d8ecb14ddd2283cba93a4ee3d",
+    "chain": "BASE",
+    "total_liquidity_usd": 30.71,
+    "is_paused": false
+  },
+  "0xc48ef051a2eedfd41f4a38e2eca8ef355b1cd5fe": {
+    "id": "0xc48ef051a2eedfd41f4a38e2eca8ef355b1cd5fe",
+    "name": "50SkiBonk-50CLANKER",
+    "address": "0xc48ef051a2eedfd41f4a38e2eca8ef355b1cd5fe",
+    "chain": "BASE",
+    "total_liquidity_usd": 30.59,
     "is_paused": false
   },
   "0x9bd4f031c6a995c314d073d7951429cac503f9ae": {
@@ -2351,20 +2375,12 @@
     "total_liquidity_usd": 29.74,
     "is_paused": false
   },
-  "0x3233c394ab0518959e761e330eb56a4c5e77dc02": {
-    "id": "0x3233c394ab0518959e761e330eb56a4c5e77dc02",
-    "name": "BELIEVE-VALUE-CREATE-BUILD-WIN",
-    "address": "0x3233c394ab0518959e761e330eb56a4c5e77dc02",
+  "0x1f14f54985ccd31b439455e48ee8becd537e1ca3": {
+    "id": "0x1f14f54985ccd31b439455e48ee8becd537e1ca3",
+    "name": "50ANON-50SkiBonk",
+    "address": "0x1f14f54985ccd31b439455e48ee8becd537e1ca3",
     "chain": "BASE",
-    "total_liquidity_usd": 28.76,
-    "is_paused": false
-  },
-  "0x94bf449ab92be226109f2ed3ce2b297db94bd995": {
-    "id": "0x94bf449ab92be226109f2ed3ce2b297db94bd995",
-    "name": "20USDC 80SYMM",
-    "address": "0x94bf449ab92be226109f2ed3ce2b297db94bd995",
-    "chain": "BASE",
-    "total_liquidity_usd": 28.11,
+    "total_liquidity_usd": 28.85,
     "is_paused": false
   },
   "0xff6ad5974858f637139cd6556bf3b901fc9da1c1": {
@@ -2375,20 +2391,44 @@
     "total_liquidity_usd": 27.38,
     "is_paused": false
   },
-  "0xa4e1b0ddffc0e3aa63dbca462cf370e4f1dc9b8b": {
-    "id": "0xa4e1b0ddffc0e3aa63dbca462cf370e4f1dc9b8b",
-    "name": "Balancer Gyro Aave WAVAX-USDC",
-    "address": "0xa4e1b0ddffc0e3aa63dbca462cf370e4f1dc9b8b",
-    "chain": "AVALANCHE",
-    "total_liquidity_usd": 27.01,
-    "is_paused": false
-  },
   "0xa0e5e7728e026bde02810d255a6b94a9aa47b5f9": {
     "id": "0xa0e5e7728e026bde02810d255a6b94a9aa47b5f9",
     "name": "Balancer Gyro eBTC-Aave USDCn",
     "address": "0xa0e5e7728e026bde02810d255a6b94a9aa47b5f9",
     "chain": "ARBITRUM",
-    "total_liquidity_usd": 26.15,
+    "total_liquidity_usd": 27.27,
+    "is_paused": false
+  },
+  "0xf4f5d76311ff205ef2d38b9a2b2e39549125cf79": {
+    "id": "0xf4f5d76311ff205ef2d38b9a2b2e39549125cf79",
+    "name": "50SkiBonk-50BID",
+    "address": "0xf4f5d76311ff205ef2d38b9a2b2e39549125cf79",
+    "chain": "BASE",
+    "total_liquidity_usd": 27.26,
+    "is_paused": false
+  },
+  "0x419c436ed0a1bf84fb13f645ca6a2bf37dd518e8": {
+    "id": "0x419c436ed0a1bf84fb13f645ca6a2bf37dd518e8",
+    "name": "balancer-Marriage",
+    "address": "0x419c436ed0a1bf84fb13f645ca6a2bf37dd518e8",
+    "chain": "BASE",
+    "total_liquidity_usd": 27.2,
+    "is_paused": false
+  },
+  "0x94bf449ab92be226109f2ed3ce2b297db94bd995": {
+    "id": "0x94bf449ab92be226109f2ed3ce2b297db94bd995",
+    "name": "20USDC 80SYMM",
+    "address": "0x94bf449ab92be226109f2ed3ce2b297db94bd995",
+    "chain": "BASE",
+    "total_liquidity_usd": 26.86,
+    "is_paused": false
+  },
+  "0xa4e1b0ddffc0e3aa63dbca462cf370e4f1dc9b8b": {
+    "id": "0xa4e1b0ddffc0e3aa63dbca462cf370e4f1dc9b8b",
+    "name": "Balancer Gyro Aave WAVAX-USDC",
+    "address": "0xa4e1b0ddffc0e3aa63dbca462cf370e4f1dc9b8b",
+    "chain": "AVALANCHE",
+    "total_liquidity_usd": 26.66,
     "is_paused": false
   },
   "0xe1204e7ca5b5ca0bfa07247b9ab3c46fa1d4001b": {
@@ -2399,28 +2439,28 @@
     "total_liquidity_usd": 25.77,
     "is_paused": false
   },
-  "0x419c436ed0a1bf84fb13f645ca6a2bf37dd518e8": {
-    "id": "0x419c436ed0a1bf84fb13f645ca6a2bf37dd518e8",
-    "name": "balancer-Marriage",
-    "address": "0x419c436ed0a1bf84fb13f645ca6a2bf37dd518e8",
-    "chain": "BASE",
-    "total_liquidity_usd": 25.75,
-    "is_paused": false
-  },
-  "0xc3b10d061c1e172883135532f1dca99348544959": {
-    "id": "0xc3b10d061c1e172883135532f1dca99348544959",
-    "name": "Golden Memes",
-    "address": "0xc3b10d061c1e172883135532f1dca99348544959",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 25.55,
-    "is_paused": false
-  },
   "0x08f6797b635192a9771ed052a13f10bf650149aa": {
     "id": "0x08f6797b635192a9771ed052a13f10bf650149aa",
     "name": "waBasUSDC waBasWETH",
     "address": "0x08f6797b635192a9771ed052a13f10bf650149aa",
     "chain": "BASE",
     "total_liquidity_usd": 25.42,
+    "is_paused": false
+  },
+  "0x3e475522e2a9c8c1afc079bdcb806939c58e1d2c": {
+    "id": "0x3e475522e2a9c8c1afc079bdcb806939c58e1d2c",
+    "name": "RZR USD69 Hub",
+    "address": "0x3e475522e2a9c8c1afc079bdcb806939c58e1d2c",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 25.34,
+    "is_paused": false
+  },
+  "0xec75e82c040232dd9516809c6d3911945d67f49e": {
+    "id": "0xec75e82c040232dd9516809c6d3911945d67f49e",
+    "name": "BILLIONS-HERE",
+    "address": "0xec75e82c040232dd9516809c6d3911945d67f49e",
+    "chain": "BASE",
+    "total_liquidity_usd": 25.15,
     "is_paused": false
   },
   "0x4b272fdeb55e4e192d0324cb88bef34ee73743ad": {
@@ -2431,36 +2471,20 @@
     "total_liquidity_usd": 25.09,
     "is_paused": false
   },
-  "0x3e475522e2a9c8c1afc079bdcb806939c58e1d2c": {
-    "id": "0x3e475522e2a9c8c1afc079bdcb806939c58e1d2c",
-    "name": "RZR USD69 Hub",
-    "address": "0x3e475522e2a9c8c1afc079bdcb806939c58e1d2c",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 24.8,
-    "is_paused": false
-  },
-  "0xc48ef051a2eedfd41f4a38e2eca8ef355b1cd5fe": {
-    "id": "0xc48ef051a2eedfd41f4a38e2eca8ef355b1cd5fe",
-    "name": "50SkiBonk-50CLANKER",
-    "address": "0xc48ef051a2eedfd41f4a38e2eca8ef355b1cd5fe",
-    "chain": "BASE",
-    "total_liquidity_usd": 24.73,
-    "is_paused": false
-  },
-  "0xf4f5d76311ff205ef2d38b9a2b2e39549125cf79": {
-    "id": "0xf4f5d76311ff205ef2d38b9a2b2e39549125cf79",
-    "name": "50SkiBonk-50BID",
-    "address": "0xf4f5d76311ff205ef2d38b9a2b2e39549125cf79",
-    "chain": "BASE",
-    "total_liquidity_usd": 24.09,
-    "is_paused": false
-  },
   "0x087108a5f62f94cee07f090aeffa2d24c616802f": {
     "id": "0x087108a5f62f94cee07f090aeffa2d24c616802f",
     "name": "FIVE ZORA ON COINGECKO",
     "address": "0x087108a5f62f94cee07f090aeffa2d24c616802f",
     "chain": "BASE",
-    "total_liquidity_usd": 23.82,
+    "total_liquidity_usd": 24.83,
+    "is_paused": false
+  },
+  "0xc3b10d061c1e172883135532f1dca99348544959": {
+    "id": "0xc3b10d061c1e172883135532f1dca99348544959",
+    "name": "Golden Memes",
+    "address": "0xc3b10d061c1e172883135532f1dca99348544959",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 24.17,
     "is_paused": false
   },
   "0xb3287cbf11b8b392650a56f339ef8544cf060f81": {
@@ -2471,12 +2495,12 @@
     "total_liquidity_usd": 23.06,
     "is_paused": false
   },
-  "0x1f14f54985ccd31b439455e48ee8becd537e1ca3": {
-    "id": "0x1f14f54985ccd31b439455e48ee8becd537e1ca3",
-    "name": "50ANON-50SkiBonk",
-    "address": "0x1f14f54985ccd31b439455e48ee8becd537e1ca3",
+  "0xf0e4339b6496236d528e28569bd7dee23326af6c": {
+    "id": "0xf0e4339b6496236d528e28569bd7dee23326af6c",
+    "name": "RUNNERwin",
+    "address": "0xf0e4339b6496236d528e28569bd7dee23326af6c",
     "chain": "BASE",
-    "total_liquidity_usd": 23.05,
+    "total_liquidity_usd": 22.47,
     "is_paused": false
   },
   "0xa5250555bd7191cc563bea7cb66fb32a6f586e37": {
@@ -2484,7 +2508,23 @@
     "name": "BIG FIVE ZORA ON COINGECKO",
     "address": "0xa5250555bd7191cc563bea7cb66fb32a6f586e37",
     "chain": "BASE",
-    "total_liquidity_usd": 21.85,
+    "total_liquidity_usd": 21.98,
+    "is_paused": false
+  },
+  "0xac2a2c6af553c27c06d4bb869a126425c9e9c9a6": {
+    "id": "0xac2a2c6af553c27c06d4bb869a126425c9e9c9a6",
+    "name": "JESSE-EVERY-MEME",
+    "address": "0xac2a2c6af553c27c06d4bb869a126425c9e9c9a6",
+    "chain": "BASE",
+    "total_liquidity_usd": 21.75,
+    "is_paused": false
+  },
+  "0xb66760ac228d2edf5befa3bb4f04af990c884860": {
+    "id": "0xb66760ac228d2edf5befa3bb4f04af990c884860",
+    "name": "Boshi-AKUMA-MIGGLES-RUNNER",
+    "address": "0xb66760ac228d2edf5befa3bb4f04af990c884860",
+    "chain": "BASE",
+    "total_liquidity_usd": 21.71,
     "is_paused": false
   },
   "0x457ae89d174eb45e78651fe7cf3be647a4252bae": {
@@ -2493,14 +2533,6 @@
     "address": "0x457ae89d174eb45e78651fe7cf3be647a4252bae",
     "chain": "MAINNET",
     "total_liquidity_usd": 21.67,
-    "is_paused": false
-  },
-  "0xb66760ac228d2edf5befa3bb4f04af990c884860": {
-    "id": "0xb66760ac228d2edf5befa3bb4f04af990c884860",
-    "name": "Boshi-AKUMA-MIGGLES-RUNNER",
-    "address": "0xb66760ac228d2edf5befa3bb4f04af990c884860",
-    "chain": "BASE",
-    "total_liquidity_usd": 21.65,
     "is_paused": false
   },
   "0xe5a902e844e6f77534697e76657a0cedc1613b08": {
@@ -2532,7 +2564,15 @@
     "name": "sETH/WETH",
     "address": "0xb2a62984faf35b8f3b9457577eecd645985d12d4",
     "chain": "MAINNET",
-    "total_liquidity_usd": 20.66,
+    "total_liquidity_usd": 20.83,
+    "is_paused": false
+  },
+  "0x2d8759d6c4f899b7d920330e830357af1a2c24c5": {
+    "id": "0x2d8759d6c4f899b7d920330e830357af1a2c24c5",
+    "name": "50SkiBonk-50PARADOX",
+    "address": "0x2d8759d6c4f899b7d920330e830357af1a2c24c5",
+    "chain": "BASE",
+    "total_liquidity_usd": 20.73,
     "is_paused": false
   },
   "0xc1d48bb722a22cc6abf19facbe27470f08b3db8c": {
@@ -2541,6 +2581,14 @@
     "address": "0xc1d48bb722a22cc6abf19facbe27470f08b3db8c",
     "chain": "MAINNET",
     "total_liquidity_usd": 20.61,
+    "is_paused": false
+  },
+  "0x5d00ca76958c4379d70c5d8b94b12969c70f0f0c": {
+    "id": "0x5d00ca76958c4379d70c5d8b94b12969c70f0f0c",
+    "name": "ZORBYAI",
+    "address": "0x5d00ca76958c4379d70c5d8b94b12969c70f0f0c",
+    "chain": "BASE",
+    "total_liquidity_usd": 20.52,
     "is_paused": false
   },
   "0x8f64aab2dee930f6acd8e6b0ca643a462e95156b": {
@@ -2559,12 +2607,12 @@
     "total_liquidity_usd": 19.99,
     "is_paused": false
   },
-  "0xf0e4339b6496236d528e28569bd7dee23326af6c": {
-    "id": "0xf0e4339b6496236d528e28569bd7dee23326af6c",
-    "name": "RUNNERwin",
-    "address": "0xf0e4339b6496236d528e28569bd7dee23326af6c",
-    "chain": "BASE",
-    "total_liquidity_usd": 19.85,
+  "0xb22bd670c6e57c5fb486914dc478ae668507ddc8": {
+    "id": "0xb22bd670c6e57c5fb486914dc478ae668507ddc8",
+    "name": "baoBTC tBTC",
+    "address": "0xb22bd670c6e57c5fb486914dc478ae668507ddc8",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 19.98,
     "is_paused": false
   },
   "0xd7f560df49695f91e30437856eae7f4de5dfff06": {
@@ -2573,14 +2621,6 @@
     "address": "0xd7f560df49695f91e30437856eae7f4de5dfff06",
     "chain": "GNOSIS",
     "total_liquidity_usd": 19.55,
-    "is_paused": false
-  },
-  "0x5d00ca76958c4379d70c5d8b94b12969c70f0f0c": {
-    "id": "0x5d00ca76958c4379d70c5d8b94b12969c70f0f0c",
-    "name": "ZORBYAI",
-    "address": "0x5d00ca76958c4379d70c5d8b94b12969c70f0f0c",
-    "chain": "BASE",
-    "total_liquidity_usd": 19.51,
     "is_paused": false
   },
   "0x10a04efba5b880e169920fd4348527c64fb29d4d": {
@@ -2599,36 +2639,12 @@
     "total_liquidity_usd": 19.46,
     "is_paused": false
   },
-  "0xb22bd670c6e57c5fb486914dc478ae668507ddc8": {
-    "id": "0xb22bd670c6e57c5fb486914dc478ae668507ddc8",
-    "name": "baoBTC tBTC",
-    "address": "0xb22bd670c6e57c5fb486914dc478ae668507ddc8",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 18.97,
-    "is_paused": false
-  },
   "0xf028ac624074d6793c36dc8a06ecec0f5a39a718": {
     "id": "0xf028ac624074d6793c36dc8a06ecec0f5a39a718",
     "name": "Balancer Steak USDR-USDQ-USDT",
     "address": "0xf028ac624074d6793c36dc8a06ecec0f5a39a718",
     "chain": "MAINNET",
     "total_liquidity_usd": 18.86,
-    "is_paused": false
-  },
-  "0xec75e82c040232dd9516809c6d3911945d67f49e": {
-    "id": "0xec75e82c040232dd9516809c6d3911945d67f49e",
-    "name": "BILLIONS-HERE",
-    "address": "0xec75e82c040232dd9516809c6d3911945d67f49e",
-    "chain": "BASE",
-    "total_liquidity_usd": 18.72,
-    "is_paused": false
-  },
-  "0x5d733d1a2143996279e8ffc7346b97f7b5e6ca27": {
-    "id": "0x5d733d1a2143996279e8ffc7346b97f7b5e6ca27",
-    "name": "memes",
-    "address": "0x5d733d1a2143996279e8ffc7346b97f7b5e6ca27",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 18.69,
     "is_paused": false
   },
   "0xe2be33d380b3fe12279553fcdb61c60871de55ce": {
@@ -2644,7 +2660,7 @@
     "name": "Tight Harmony: Aave & Frax",
     "address": "0x08a8bba83af849e3755771a4070aec87c9d6b86e",
     "chain": "OPTIMISM",
-    "total_liquidity_usd": 18.61,
+    "total_liquidity_usd": 18.63,
     "is_paused": false
   },
   "0x9e9ef2f3a67241f1f6e59d323e483d20680756ad": {
@@ -2653,14 +2669,6 @@
     "address": "0x9e9ef2f3a67241f1f6e59d323e483d20680756ad",
     "chain": "MAINNET",
     "total_liquidity_usd": 18.51,
-    "is_paused": false
-  },
-  "0xac2a2c6af553c27c06d4bb869a126425c9e9c9a6": {
-    "id": "0xac2a2c6af553c27c06d4bb869a126425c9e9c9a6",
-    "name": "JESSE-EVERY-MEME",
-    "address": "0xac2a2c6af553c27c06d4bb869a126425c9e9c9a6",
-    "chain": "BASE",
-    "total_liquidity_usd": 18.41,
     "is_paused": false
   },
   "0xf40a27c779c74596e063906b2741fa37a36c0957": {
@@ -2679,12 +2687,36 @@
     "total_liquidity_usd": 17.88,
     "is_paused": false
   },
+  "0x5d733d1a2143996279e8ffc7346b97f7b5e6ca27": {
+    "id": "0x5d733d1a2143996279e8ffc7346b97f7b5e6ca27",
+    "name": "memes",
+    "address": "0x5d733d1a2143996279e8ffc7346b97f7b5e6ca27",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 17.6,
+    "is_paused": false
+  },
+  "0x0854c8fa68cff2ac363b541f08f35181ca51b870": {
+    "id": "0x0854c8fa68cff2ac363b541f08f35181ca51b870",
+    "name": "Crossfade Connector",
+    "address": "0x0854c8fa68cff2ac363b541f08f35181ca51b870",
+    "chain": "OPTIMISM",
+    "total_liquidity_usd": 17.41,
+    "is_paused": false
+  },
+  "0x958c1e14ad8995bf697effb2d18fbca3e7e81036": {
+    "id": "0x958c1e14ad8995bf697effb2d18fbca3e7e81036",
+    "name": "balancer-Waiting",
+    "address": "0x958c1e14ad8995bf697effb2d18fbca3e7e81036",
+    "chain": "BASE",
+    "total_liquidity_usd": 16.77,
+    "is_paused": false
+  },
   "0x3bfa7833cecf22dfa3c7effc2eaa2a182c3010a1": {
     "id": "0x3bfa7833cecf22dfa3c7effc2eaa2a182c3010a1",
     "name": "BRETT waBasWETH",
     "address": "0x3bfa7833cecf22dfa3c7effc2eaa2a182c3010a1",
     "chain": "BASE",
-    "total_liquidity_usd": 16.6,
+    "total_liquidity_usd": 16.64,
     "is_paused": false
   },
   "0xff870d3cf3113522c51bccbfe551d687ce4fd0bc": {
@@ -2695,20 +2727,12 @@
     "total_liquidity_usd": 16.59,
     "is_paused": false
   },
-  "0x0854c8fa68cff2ac363b541f08f35181ca51b870": {
-    "id": "0x0854c8fa68cff2ac363b541f08f35181ca51b870",
-    "name": "Crossfade Connector",
-    "address": "0x0854c8fa68cff2ac363b541f08f35181ca51b870",
-    "chain": "OPTIMISM",
-    "total_liquidity_usd": 16.38,
-    "is_paused": false
-  },
-  "0x2d8759d6c4f899b7d920330e830357af1a2c24c5": {
-    "id": "0x2d8759d6c4f899b7d920330e830357af1a2c24c5",
-    "name": "50SkiBonk-50PARADOX",
-    "address": "0x2d8759d6c4f899b7d920330e830357af1a2c24c5",
+  "0x4f9d11ebd110a9132f73233a04b21bd74c154bcc": {
+    "id": "0x4f9d11ebd110a9132f73233a04b21bd74c154bcc",
+    "name": "LightUpBase",
+    "address": "0x4f9d11ebd110a9132f73233a04b21bd74c154bcc",
     "chain": "BASE",
-    "total_liquidity_usd": 16.2,
+    "total_liquidity_usd": 16.24,
     "is_paused": false
   },
   "0x0caa100179da0087a45615588804fd5e17bfb0dd": {
@@ -2719,20 +2743,20 @@
     "total_liquidity_usd": 16.11,
     "is_paused": false
   },
-  "0x958c1e14ad8995bf697effb2d18fbca3e7e81036": {
-    "id": "0x958c1e14ad8995bf697effb2d18fbca3e7e81036",
-    "name": "balancer-Waiting",
-    "address": "0x958c1e14ad8995bf697effb2d18fbca3e7e81036",
-    "chain": "BASE",
-    "total_liquidity_usd": 15.76,
-    "is_paused": false
-  },
   "0x33da4cd8a40373e3a68be8090ff5ba43abe63d73": {
     "id": "0x33da4cd8a40373e3a68be8090ff5ba43abe63d73",
     "name": "balancer-Below",
     "address": "0x33da4cd8a40373e3a68be8090ff5ba43abe63d73",
     "chain": "BASE",
-    "total_liquidity_usd": 15.38,
+    "total_liquidity_usd": 15.8,
+    "is_paused": false
+  },
+  "0x575c61db915885ccabfe624a57d15f9683dd7452": {
+    "id": "0x575c61db915885ccabfe624a57d15f9683dd7452",
+    "name": "50SkiBonk-50WACH",
+    "address": "0x575c61db915885ccabfe624a57d15f9683dd7452",
+    "chain": "BASE",
+    "total_liquidity_usd": 15.5,
     "is_paused": false
   },
   "0x11e2f1c479f833329361c599a71f3bcf56138cc5": {
@@ -2743,12 +2767,12 @@
     "total_liquidity_usd": 15.33,
     "is_paused": false
   },
-  "0x4f9d11ebd110a9132f73233a04b21bd74c154bcc": {
-    "id": "0x4f9d11ebd110a9132f73233a04b21bd74c154bcc",
-    "name": "LightUpBase",
-    "address": "0x4f9d11ebd110a9132f73233a04b21bd74c154bcc",
+  "0xb047c643830710f1a7f2563d2e4c7d5770b2a5d5": {
+    "id": "0xb047c643830710f1a7f2563d2e4c7d5770b2a5d5",
+    "name": "50SkiBonk-50TN100x",
+    "address": "0xb047c643830710f1a7f2563d2e4c7d5770b2a5d5",
     "chain": "BASE",
-    "total_liquidity_usd": 14.94,
+    "total_liquidity_usd": 15.31,
     "is_paused": false
   },
   "0x12f6df4e947327d637b59acad7836a274dfcb8ac": {
@@ -2757,6 +2781,14 @@
     "address": "0x12f6df4e947327d637b59acad7836a274dfcb8ac",
     "chain": "BASE",
     "total_liquidity_usd": 14.78,
+    "is_paused": false
+  },
+  "0x5bab1512f5c5c99a699bd4c549cf3c0e01054393": {
+    "id": "0x5bab1512f5c5c99a699bd4c549cf3c0e01054393",
+    "name": "zorawiz",
+    "address": "0x5bab1512f5c5c99a699bd4c549cf3c0e01054393",
+    "chain": "BASE",
+    "total_liquidity_usd": 14.71,
     "is_paused": false
   },
   "0xa4dd31a2725f74163b5826bbd1dfe7684215b104": {
@@ -2780,7 +2812,7 @@
     "name": "70Gazelle and Lion 30cbXRP",
     "address": "0x3b2ceec025a8518baae806a5b393efe553968458",
     "chain": "BASE",
-    "total_liquidity_usd": 14.0,
+    "total_liquidity_usd": 13.97,
     "is_paused": false
   },
   "0x50d27dec513106a68ee47949b180aac86ebf5792": {
@@ -2796,7 +2828,7 @@
     "name": "33waGnowstETH 33PAXG 34sDAI",
     "address": "0xd7f492f3c43e3d0a617c9e7dacfeddb03bfa2c15",
     "chain": "GNOSIS",
-    "total_liquidity_usd": 13.73,
+    "total_liquidity_usd": 13.72,
     "is_paused": false
   },
   "0x450e6abcb886aac113a017fd560d10e9fb7ac96f": {
@@ -2805,6 +2837,14 @@
     "address": "0x450e6abcb886aac113a017fd560d10e9fb7ac96f",
     "chain": "BASE",
     "total_liquidity_usd": 13.64,
+    "is_paused": false
+  },
+  "0x8c21f178dfe766ea695bae3f80296a5d52e1706f": {
+    "id": "0x8c21f178dfe766ea695bae3f80296a5d52e1706f",
+    "name": "VIRTUALS-x402scan",
+    "address": "0x8c21f178dfe766ea695bae3f80296a5d52e1706f",
+    "chain": "BASE",
+    "total_liquidity_usd": 13.63,
     "is_paused": false
   },
   "0x792680b15c58f8fb6c104f0234beee518ce2f89a": {
@@ -2823,12 +2863,20 @@
     "total_liquidity_usd": 13.46,
     "is_paused": false
   },
+  "0xa711e2ca7807182ed0f20e695223403990dd989b": {
+    "id": "0xa711e2ca7807182ed0f20e695223403990dd989b",
+    "name": "50SkiBonk-50cc0company",
+    "address": "0xa711e2ca7807182ed0f20e695223403990dd989b",
+    "chain": "BASE",
+    "total_liquidity_usd": 13.45,
+    "is_paused": false
+  },
   "0x1d36e7a8bafcb179518be69a137455b06fc10050": {
     "id": "0x1d36e7a8bafcb179518be69a137455b06fc10050",
     "name": "16Gazelle and Lion 6wsteth feed",
     "address": "0x1d36e7a8bafcb179518be69a137455b06fc10050",
     "chain": "BASE",
-    "total_liquidity_usd": 13.07,
+    "total_liquidity_usd": 13.35,
     "is_paused": false
   },
   "0x2d24d014ea471a2cac4dd6e33a652f75282511c4": {
@@ -2844,8 +2892,16 @@
     "name": "20Gazll Lion 75cbXRP 5waBasWETH",
     "address": "0x8363352bea587e5284bde38638b23f90ec8c437b",
     "chain": "BASE",
-    "total_liquidity_usd": 12.7,
+    "total_liquidity_usd": 12.78,
     "is_paused": false
+  },
+  "0xec48d9a2e33df6d003b5d1c4726a1196610a461a": {
+    "id": "0xec48d9a2e33df6d003b5d1c4726a1196610a461a",
+    "name": "WBTC WETH test",
+    "address": "0xec48d9a2e33df6d003b5d1c4726a1196610a461a",
+    "chain": "OPTIMISM",
+    "total_liquidity_usd": 12.65,
+    "is_paused": true
   },
   "0x34e70333831e7388ec58e95b8242d4f698cc5243": {
     "id": "0x34e70333831e7388ec58e95b8242d4f698cc5243",
@@ -2861,14 +2917,6 @@
     "address": "0x2bd57acd9f52a8d323a088a072a805108bf015a2",
     "chain": "MAINNET",
     "total_liquidity_usd": 12.42,
-    "is_paused": false
-  },
-  "0x8c21f178dfe766ea695bae3f80296a5d52e1706f": {
-    "id": "0x8c21f178dfe766ea695bae3f80296a5d52e1706f",
-    "name": "VIRTUALS-x402scan",
-    "address": "0x8c21f178dfe766ea695bae3f80296a5d52e1706f",
-    "chain": "BASE",
-    "total_liquidity_usd": 12.37,
     "is_paused": false
   },
   "0x346c0fe188dd16a28494ea53a7d1e548a484fa21": {
@@ -2895,28 +2943,28 @@
     "total_liquidity_usd": 12.11,
     "is_paused": false
   },
+  "0xbe6d326ed648a144435cee4c55aac1a15b41b757": {
+    "id": "0xbe6d326ed648a144435cee4c55aac1a15b41b757",
+    "name": "50WIRE-50SkiBonk-4",
+    "address": "0xbe6d326ed648a144435cee4c55aac1a15b41b757",
+    "chain": "BASE",
+    "total_liquidity_usd": 11.9,
+    "is_paused": false
+  },
+  "0x6bc597d850548bc5d081d1fd3cf91abaca9da92c": {
+    "id": "0x6bc597d850548bc5d081d1fd3cf91abaca9da92c",
+    "name": "Bobryeildweth",
+    "address": "0x6bc597d850548bc5d081d1fd3cf91abaca9da92c",
+    "chain": "BASE",
+    "total_liquidity_usd": 11.87,
+    "is_paused": false
+  },
   "0xd4ed17bbf48af09b87fd7d8c60970f5da79d4852": {
     "id": "0xd4ed17bbf48af09b87fd7d8c60970f5da79d4852",
     "name": "Safe Haven - BTC:PAXG:USDC",
     "address": "0xd4ed17bbf48af09b87fd7d8c60970f5da79d4852",
     "chain": "MAINNET",
-    "total_liquidity_usd": 12.04,
-    "is_paused": false
-  },
-  "0xb047c643830710f1a7f2563d2e4c7d5770b2a5d5": {
-    "id": "0xb047c643830710f1a7f2563d2e4c7d5770b2a5d5",
-    "name": "50SkiBonk-50TN100x",
-    "address": "0xb047c643830710f1a7f2563d2e4c7d5770b2a5d5",
-    "chain": "BASE",
-    "total_liquidity_usd": 11.89,
-    "is_paused": false
-  },
-  "0x575c61db915885ccabfe624a57d15f9683dd7452": {
-    "id": "0x575c61db915885ccabfe624a57d15f9683dd7452",
-    "name": "50SkiBonk-50WACH",
-    "address": "0x575c61db915885ccabfe624a57d15f9683dd7452",
-    "chain": "BASE",
-    "total_liquidity_usd": 11.71,
+    "total_liquidity_usd": 11.7,
     "is_paused": false
   },
   "0xe8769d62a5ab42f1cbdfa7002e64e4f5896fc6af": {
@@ -2926,14 +2974,6 @@
     "chain": "MAINNET",
     "total_liquidity_usd": 11.69,
     "is_paused": false
-  },
-  "0xec48d9a2e33df6d003b5d1c4726a1196610a461a": {
-    "id": "0xec48d9a2e33df6d003b5d1c4726a1196610a461a",
-    "name": "WBTC WETH test",
-    "address": "0xec48d9a2e33df6d003b5d1c4726a1196610a461a",
-    "chain": "OPTIMISM",
-    "total_liquidity_usd": 11.6,
-    "is_paused": true
   },
   "0x7e13f93446695252e3a7185ea4d7b1e272666297": {
     "id": "0x7e13f93446695252e3a7185ea4d7b1e272666297",
@@ -2959,14 +2999,6 @@
     "total_liquidity_usd": 11.47,
     "is_paused": true
   },
-  "0x5bab1512f5c5c99a699bd4c549cf3c0e01054393": {
-    "id": "0x5bab1512f5c5c99a699bd4c549cf3c0e01054393",
-    "name": "zorawiz",
-    "address": "0x5bab1512f5c5c99a699bd4c549cf3c0e01054393",
-    "chain": "BASE",
-    "total_liquidity_usd": 11.36,
-    "is_paused": false
-  },
   "0x88c044fb203b58b12252be7242926b1eeb113b4a": {
     "id": "0x88c044fb203b58b12252be7242926b1eeb113b4a",
     "name": "WETH USDC",
@@ -2975,12 +3007,20 @@
     "total_liquidity_usd": 11.35,
     "is_paused": false
   },
-  "0x6bc597d850548bc5d081d1fd3cf91abaca9da92c": {
-    "id": "0x6bc597d850548bc5d081d1fd3cf91abaca9da92c",
-    "name": "Bobryeildweth",
-    "address": "0x6bc597d850548bc5d081d1fd3cf91abaca9da92c",
+  "0x2d3ac49c6e3289debd156d664162875f2a6da7e3": {
+    "id": "0x2d3ac49c6e3289debd156d664162875f2a6da7e3",
+    "name": "Rezerve RPL Strat",
+    "address": "0x2d3ac49c6e3289debd156d664162875f2a6da7e3",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 11.01,
+    "is_paused": false
+  },
+  "0xc5f2f9d33f4c78dc21250144ce8bc60ffddca54b": {
+    "id": "0xc5f2f9d33f4c78dc21250144ce8bc60ffddca54b",
+    "name": "50AXR-50SkiBonk",
+    "address": "0xc5f2f9d33f4c78dc21250144ce8bc60ffddca54b",
     "chain": "BASE",
-    "total_liquidity_usd": 10.85,
+    "total_liquidity_usd": 11.01,
     "is_paused": false
   },
   "0xdb4f26e5fd14a32551f417751c6b1701979ba63b": {
@@ -2999,11 +3039,27 @@
     "total_liquidity_usd": 10.7,
     "is_paused": false
   },
+  "0xb2f9233a6a81c6c62b62d9bbafb13792aee499bc": {
+    "id": "0xb2f9233a6a81c6c62b62d9bbafb13792aee499bc",
+    "name": "balancer-GoodCyborg",
+    "address": "0xb2f9233a6a81c6c62b62d9bbafb13792aee499bc",
+    "chain": "BASE",
+    "total_liquidity_usd": 10.65,
+    "is_paused": false
+  },
   "0x2ece6781bace5e37386adef7a3d45d0bb05f8fce": {
     "id": "0x2ece6781bace5e37386adef7a3d45d0bb05f8fce",
     "name": "Balancer Surge orbETH-Aave wETH",
     "address": "0x2ece6781bace5e37386adef7a3d45d0bb05f8fce",
     "chain": "ARBITRUM",
+    "total_liquidity_usd": 10.57,
+    "is_paused": false
+  },
+  "0x7013d8a495033d2339d52088ccb3af6d07dfd2d3": {
+    "id": "0x7013d8a495033d2339d52088ccb3af6d07dfd2d3",
+    "name": "3070WETH",
+    "address": "0x7013d8a495033d2339d52088ccb3af6d07dfd2d3",
+    "chain": "BASE",
     "total_liquidity_usd": 10.57,
     "is_paused": false
   },
@@ -3015,28 +3071,12 @@
     "total_liquidity_usd": 10.55,
     "is_paused": false
   },
-  "0x7013d8a495033d2339d52088ccb3af6d07dfd2d3": {
-    "id": "0x7013d8a495033d2339d52088ccb3af6d07dfd2d3",
-    "name": "3070WETH",
-    "address": "0x7013d8a495033d2339d52088ccb3af6d07dfd2d3",
+  "0xa9c23ddfc77fae13855f1794bb5c29c7c666e0e7": {
+    "id": "0xa9c23ddfc77fae13855f1794bb5c29c7c666e0e7",
+    "name": "50% WETH / 50% USDC",
+    "address": "0xa9c23ddfc77fae13855f1794bb5c29c7c666e0e7",
     "chain": "BASE",
-    "total_liquidity_usd": 10.37,
-    "is_paused": false
-  },
-  "0x2d3ac49c6e3289debd156d664162875f2a6da7e3": {
-    "id": "0x2d3ac49c6e3289debd156d664162875f2a6da7e3",
-    "name": "Rezerve RPL Strat",
-    "address": "0x2d3ac49c6e3289debd156d664162875f2a6da7e3",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 10.3,
-    "is_paused": false
-  },
-  "0xa711e2ca7807182ed0f20e695223403990dd989b": {
-    "id": "0xa711e2ca7807182ed0f20e695223403990dd989b",
-    "name": "50SkiBonk-50cc0company",
-    "address": "0xa711e2ca7807182ed0f20e695223403990dd989b",
-    "chain": "BASE",
-    "total_liquidity_usd": 10.25,
+    "total_liquidity_usd": 10.08,
     "is_paused": false
   },
   "0x917d0464dd2e335bf14000c63d65def3c8bb1025": {
@@ -3045,14 +3085,6 @@
     "address": "0x917d0464dd2e335bf14000c63d65def3c8bb1025",
     "chain": "MAINNET",
     "total_liquidity_usd": 10.05,
-    "is_paused": false
-  },
-  "0xa9c23ddfc77fae13855f1794bb5c29c7c666e0e7": {
-    "id": "0xa9c23ddfc77fae13855f1794bb5c29c7c666e0e7",
-    "name": "50% WETH / 50% USDC",
-    "address": "0xa9c23ddfc77fae13855f1794bb5c29c7c666e0e7",
-    "chain": "BASE",
-    "total_liquidity_usd": 10.02,
     "is_paused": false
   },
   "0x9d8e5f6f61b72a59216703601b8820dbc4e34da0": {
@@ -3079,19 +3111,19 @@
     "total_liquidity_usd": 9.94,
     "is_paused": false
   },
-  "0xb20fa48d028b5ba6de33e09c72643c1fe92f8fcd": {
-    "id": "0xb20fa48d028b5ba6de33e09c72643c1fe92f8fcd",
-    "name": "JUSD / sJUSD / USDC",
-    "address": "0xb20fa48d028b5ba6de33e09c72643c1fe92f8fcd",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 9.71,
-    "is_paused": false
-  },
   "0x6c9906dae44bffe45f2c2fcb5b6541224d695ca5": {
     "id": "0x6c9906dae44bffe45f2c2fcb5b6541224d695ca5",
     "name": "40waBasWETH 60Gazelle and Lion",
     "address": "0x6c9906dae44bffe45f2c2fcb5b6541224d695ca5",
     "chain": "BASE",
+    "total_liquidity_usd": 9.84,
+    "is_paused": false
+  },
+  "0xb20fa48d028b5ba6de33e09c72643c1fe92f8fcd": {
+    "id": "0xb20fa48d028b5ba6de33e09c72643c1fe92f8fcd",
+    "name": "JUSD / sJUSD / USDC",
+    "address": "0xb20fa48d028b5ba6de33e09c72643c1fe92f8fcd",
+    "chain": "MAINNET",
     "total_liquidity_usd": 9.71,
     "is_paused": false
   },
@@ -3101,22 +3133,6 @@
     "address": "0x71343cf6a95345d577525295ae164c34a7345685",
     "chain": "BASE",
     "total_liquidity_usd": 9.6,
-    "is_paused": false
-  },
-  "0xbe6d326ed648a144435cee4c55aac1a15b41b757": {
-    "id": "0xbe6d326ed648a144435cee4c55aac1a15b41b757",
-    "name": "50WIRE-50SkiBonk-4",
-    "address": "0xbe6d326ed648a144435cee4c55aac1a15b41b757",
-    "chain": "BASE",
-    "total_liquidity_usd": 9.52,
-    "is_paused": false
-  },
-  "0xecd03277a21e41bd61c9226eba24930a6a54b30c": {
-    "id": "0xecd03277a21e41bd61c9226eba24930a6a54b30c",
-    "name": "Liquid RZR Blackhole",
-    "address": "0xecd03277a21e41bd61c9226eba24930a6a54b30c",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 9.47,
     "is_paused": false
   },
   "0xb2ec475459429a3ccacfb7dceed23131e2109ed4": {
@@ -3135,6 +3151,22 @@
     "total_liquidity_usd": 9.24,
     "is_paused": false
   },
+  "0xecd03277a21e41bd61c9226eba24930a6a54b30c": {
+    "id": "0xecd03277a21e41bd61c9226eba24930a6a54b30c",
+    "name": "Liquid RZR Blackhole",
+    "address": "0xecd03277a21e41bd61c9226eba24930a6a54b30c",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 9.17,
+    "is_paused": false
+  },
+  "0x72192f098b4835f434693d6786e248905d3adceb": {
+    "id": "0x72192f098b4835f434693d6786e248905d3adceb",
+    "name": "reCLAMM RPL rETH",
+    "address": "0x72192f098b4835f434693d6786e248905d3adceb",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 9.16,
+    "is_paused": true
+  },
   "0x4147d8aeecb75bc9f5c973c3b73d2dfc4dcce131": {
     "id": "0x4147d8aeecb75bc9f5c973c3b73d2dfc4dcce131",
     "name": "Balancer smUSDC-sUSDS",
@@ -3143,20 +3175,12 @@
     "total_liquidity_usd": 9.1,
     "is_paused": false
   },
-  "0xb2f9233a6a81c6c62b62d9bbafb13792aee499bc": {
-    "id": "0xb2f9233a6a81c6c62b62d9bbafb13792aee499bc",
-    "name": "balancer-GoodCyborg",
-    "address": "0xb2f9233a6a81c6c62b62d9bbafb13792aee499bc",
-    "chain": "BASE",
-    "total_liquidity_usd": 9.07,
-    "is_paused": false
-  },
   "0x96c0adc9d5a843b19326ba61f8617d9f1a05bd19": {
     "id": "0x96c0adc9d5a843b19326ba61f8617d9f1a05bd19",
     "name": "USDC EUROC",
     "address": "0x96c0adc9d5a843b19326ba61f8617d9f1a05bd19",
     "chain": "AVALANCHE",
-    "total_liquidity_usd": 9.04,
+    "total_liquidity_usd": 9.01,
     "is_paused": false
   },
   "0x10c4a1ab4c3024f4bce8cccc27d52b1b2e484795": {
@@ -3173,14 +3197,6 @@
     "address": "0xba1acf7a39a59bafa393c730984f3b5561325cb0",
     "chain": "BASE",
     "total_liquidity_usd": 8.78,
-    "is_paused": false
-  },
-  "0xc5f2f9d33f4c78dc21250144ce8bc60ffddca54b": {
-    "id": "0xc5f2f9d33f4c78dc21250144ce8bc60ffddca54b",
-    "name": "50AXR-50SkiBonk",
-    "address": "0xc5f2f9d33f4c78dc21250144ce8bc60ffddca54b",
-    "chain": "BASE",
-    "total_liquidity_usd": 8.64,
     "is_paused": false
   },
   "0x8b50ce16ab979290a3c6839fb0ff2a7eb297dddb": {
@@ -3204,6 +3220,14 @@
     "name": "80USDC 20WETH",
     "address": "0x366c6a5120389bfa38e13a2eb3641a7b14806095",
     "chain": "BASE",
+    "total_liquidity_usd": 8.4,
+    "is_paused": false
+  },
+  "0x29b2ffc37229b90b5d7f2297c310f41d2b88ac89": {
+    "id": "0x29b2ffc37229b90b5d7f2297c310f41d2b88ac89",
+    "name": "SB-RUNNER-DEPTHS-FUN-AKUMA",
+    "address": "0x29b2ffc37229b90b5d7f2297c310f41d2b88ac89",
+    "chain": "BASE",
     "total_liquidity_usd": 8.35,
     "is_paused": false
   },
@@ -3223,26 +3247,18 @@
     "total_liquidity_usd": 8.3,
     "is_paused": false
   },
-  "0x72192f098b4835f434693d6786e248905d3adceb": {
-    "id": "0x72192f098b4835f434693d6786e248905d3adceb",
-    "name": "reCLAMM RPL rETH",
-    "address": "0x72192f098b4835f434693d6786e248905d3adceb",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 8.13,
-    "is_paused": true
+  "0xee52d4dbea9f02da420825a2ac161eb3cc4d3790": {
+    "id": "0xee52d4dbea9f02da420825a2ac161eb3cc4d3790",
+    "name": "WETH USDC",
+    "address": "0xee52d4dbea9f02da420825a2ac161eb3cc4d3790",
+    "chain": "BASE",
+    "total_liquidity_usd": 8.07,
+    "is_paused": false
   },
   "0x436e1ecdd4fe93b780a716b1559bf8499850ab72": {
     "id": "0x436e1ecdd4fe93b780a716b1559bf8499850ab72",
     "name": "ZBU GYFI",
     "address": "0x436e1ecdd4fe93b780a716b1559bf8499850ab72",
-    "chain": "BASE",
-    "total_liquidity_usd": 8.03,
-    "is_paused": false
-  },
-  "0xee52d4dbea9f02da420825a2ac161eb3cc4d3790": {
-    "id": "0xee52d4dbea9f02da420825a2ac161eb3cc4d3790",
-    "name": "WETH USDC",
-    "address": "0xee52d4dbea9f02da420825a2ac161eb3cc4d3790",
     "chain": "BASE",
     "total_liquidity_usd": 8.03,
     "is_paused": false
@@ -3255,20 +3271,12 @@
     "total_liquidity_usd": 8.02,
     "is_paused": false
   },
-  "0x83470106402ed0bc83f91bb13266d35bdb23f1b9": {
-    "id": "0x83470106402ed0bc83f91bb13266d35bdb23f1b9",
-    "name": "jujukiki",
-    "address": "0x83470106402ed0bc83f91bb13266d35bdb23f1b9",
-    "chain": "BASE",
-    "total_liquidity_usd": 8.0,
-    "is_paused": false
-  },
   "0xede2a43a83b8323c449f402eca7d08301a1b45d7": {
     "id": "0xede2a43a83b8323c449f402eca7d08301a1b45d7",
     "name": "USDC WETH",
     "address": "0xede2a43a83b8323c449f402eca7d08301a1b45d7",
     "chain": "BASE",
-    "total_liquidity_usd": 7.9,
+    "total_liquidity_usd": 7.96,
     "is_paused": false
   },
   "0xa6a20c2786bb7f79f3f4fd0a958ea1ab5658ddde": {
@@ -3284,7 +3292,7 @@
     "name": "WETH USDC",
     "address": "0xec5d21a165a65303a5bb99e4fbe12472a7b6012e",
     "chain": "BASE",
-    "total_liquidity_usd": 7.65,
+    "total_liquidity_usd": 7.69,
     "is_paused": false
   },
   "0xed487afc303358d528fe76781ebd03a7470a9712": {
@@ -3316,7 +3324,7 @@
     "name": "WETH USDC",
     "address": "0x2345c6ed062b3f838fc038b743f17756143b9b4b",
     "chain": "BASE",
-    "total_liquidity_usd": 7.17,
+    "total_liquidity_usd": 7.34,
     "is_paused": false
   },
   "0x9fbb9fb301b39503500b22bda400ffbbe69c7906": {
@@ -3327,12 +3335,12 @@
     "total_liquidity_usd": 7.17,
     "is_paused": false
   },
-  "0xd29886c8a2bb7d09e2e93f3f218ee5c79f46500f": {
-    "id": "0xd29886c8a2bb7d09e2e93f3f218ee5c79f46500f",
-    "name": "sUSDX USDX waBasUSDC",
-    "address": "0xd29886c8a2bb7d09e2e93f3f218ee5c79f46500f",
+  "0x30a1db8320cf4163334b181e47cf39f4933c91ad": {
+    "id": "0x30a1db8320cf4163334b181e47cf39f4933c91ad",
+    "name": "LeafBarkBeachBadCatAKUMA",
+    "address": "0x30a1db8320cf4163334b181e47cf39f4933c91ad",
     "chain": "BASE",
-    "total_liquidity_usd": 7.15,
+    "total_liquidity_usd": 7.08,
     "is_paused": false
   },
   "0xeb95d6bd67f613e7918a031d9f4a9a92766659ac": {
@@ -3367,12 +3375,12 @@
     "total_liquidity_usd": 7.02,
     "is_paused": false
   },
-  "0x29b2ffc37229b90b5d7f2297c310f41d2b88ac89": {
-    "id": "0x29b2ffc37229b90b5d7f2297c310f41d2b88ac89",
-    "name": "SB-RUNNER-DEPTHS-FUN-AKUMA",
-    "address": "0x29b2ffc37229b90b5d7f2297c310f41d2b88ac89",
+  "0x5136792e23e61eec394d6ce4ee007493e53d7dc9": {
+    "id": "0x5136792e23e61eec394d6ce4ee007493e53d7dc9",
+    "name": "TRADE-HOPE-BELIEVE",
+    "address": "0x5136792e23e61eec394d6ce4ee007493e53d7dc9",
     "chain": "BASE",
-    "total_liquidity_usd": 6.92,
+    "total_liquidity_usd": 6.95,
     "is_paused": false
   },
   "0x61aa08aebaa140044c93b2e5324146bf98b4d76c": {
@@ -3447,28 +3455,12 @@
     "total_liquidity_usd": 5.92,
     "is_paused": false
   },
-  "0x30a1db8320cf4163334b181e47cf39f4933c91ad": {
-    "id": "0x30a1db8320cf4163334b181e47cf39f4933c91ad",
-    "name": "LeafBarkBeachBadCatAKUMA",
-    "address": "0x30a1db8320cf4163334b181e47cf39f4933c91ad",
-    "chain": "BASE",
-    "total_liquidity_usd": 5.77,
-    "is_paused": false
-  },
   "0x2136d5bc227a28000fd76d92c20f5d8808045da6": {
     "id": "0x2136d5bc227a28000fd76d92c20f5d8808045da6",
     "name": "80EURC 20Gazelle and Lion",
     "address": "0x2136d5bc227a28000fd76d92c20f5d8808045da6",
     "chain": "BASE",
     "total_liquidity_usd": 5.51,
-    "is_paused": false
-  },
-  "0x0f6ea6bc8bcfa54869854b2581541703c7b25e4e": {
-    "id": "0x0f6ea6bc8bcfa54869854b2581541703c7b25e4e",
-    "name": "ensurance pool 1.3",
-    "address": "0x0f6ea6bc8bcfa54869854b2581541703c7b25e4e",
-    "chain": "BASE",
-    "total_liquidity_usd": 5.45,
     "is_paused": false
   },
   "0x98d22bd80a0333072fe5c621445925a159049a62": {
@@ -3501,14 +3493,6 @@
     "address": "0xf09e25b0f5974ec9caf26df4c2f57f4152e46069",
     "chain": "BASE",
     "total_liquidity_usd": 5.09,
-    "is_paused": false
-  },
-  "0x3c2d67e73150dcc80f8fd17227c50989ac9fb570": {
-    "id": "0x3c2d67e73150dcc80f8fd17227c50989ac9fb570",
-    "name": "Rezerve Rocket Pool Blackhole",
-    "address": "0x3c2d67e73150dcc80f8fd17227c50989ac9fb570",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 5.07,
     "is_paused": false
   },
   "0x74b0a75c74e23a00f4a0d052322d7a835631d39e": {
@@ -3551,6 +3535,14 @@
     "total_liquidity_usd": 4.87,
     "is_paused": false
   },
+  "0x0f6ea6bc8bcfa54869854b2581541703c7b25e4e": {
+    "id": "0x0f6ea6bc8bcfa54869854b2581541703c7b25e4e",
+    "name": "ensurance pool 1.3",
+    "address": "0x0f6ea6bc8bcfa54869854b2581541703c7b25e4e",
+    "chain": "BASE",
+    "total_liquidity_usd": 4.65,
+    "is_paused": false
+  },
   "0x699dcec9a23e11ade140cfd6a8548d7829857347": {
     "id": "0x699dcec9a23e11ade140cfd6a8548d7829857347",
     "name": "Balancer 50axlOP 50USDC",
@@ -3559,12 +3551,20 @@
     "total_liquidity_usd": 4.64,
     "is_paused": false
   },
-  "0x5136792e23e61eec394d6ce4ee007493e53d7dc9": {
-    "id": "0x5136792e23e61eec394d6ce4ee007493e53d7dc9",
-    "name": "TRADE-HOPE-BELIEVE",
-    "address": "0x5136792e23e61eec394d6ce4ee007493e53d7dc9",
-    "chain": "BASE",
-    "total_liquidity_usd": 4.58,
+  "0x3c2d67e73150dcc80f8fd17227c50989ac9fb570": {
+    "id": "0x3c2d67e73150dcc80f8fd17227c50989ac9fb570",
+    "name": "Rezerve Rocket Pool Blackhole",
+    "address": "0x3c2d67e73150dcc80f8fd17227c50989ac9fb570",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 4.64,
+    "is_paused": false
+  },
+  "0x0e7c3f32f7f155150d7a2e79501d24ccd3db8daa": {
+    "id": "0x0e7c3f32f7f155150d7a2e79501d24ccd3db8daa",
+    "name": "20WAVAX 80USDC",
+    "address": "0x0e7c3f32f7f155150d7a2e79501d24ccd3db8daa",
+    "chain": "AVALANCHE",
+    "total_liquidity_usd": 4.44,
     "is_paused": false
   },
   "0xc3d3efc13478f7eaeac6081443c086d9dcc4e345": {
@@ -3591,14 +3591,6 @@
     "total_liquidity_usd": 4.26,
     "is_paused": false
   },
-  "0x0e7c3f32f7f155150d7a2e79501d24ccd3db8daa": {
-    "id": "0x0e7c3f32f7f155150d7a2e79501d24ccd3db8daa",
-    "name": "20WAVAX 80USDC",
-    "address": "0x0e7c3f32f7f155150d7a2e79501d24ccd3db8daa",
-    "chain": "AVALANCHE",
-    "total_liquidity_usd": 4.25,
-    "is_paused": false
-  },
   "0x4f75b8c435ef4b20e5305e6f695ad8fe264ee92a": {
     "id": "0x4f75b8c435ef4b20e5305e6f695ad8fe264ee92a",
     "name": "WETH USDC Priority Auction Hook",
@@ -3613,6 +3605,14 @@
     "address": "0xcf9c3480927cee119015841cd5d85d970ee83e56",
     "chain": "OPTIMISM",
     "total_liquidity_usd": 4.2,
+    "is_paused": false
+  },
+  "0x8446e1408b44d0fa760d83d70bd6d4bae2567cf4": {
+    "id": "0x8446e1408b44d0fa760d83d70bd6d4bae2567cf4",
+    "name": "50% C / 50% rETH",
+    "address": "0x8446e1408b44d0fa760d83d70bd6d4bae2567cf4",
+    "chain": "BASE",
+    "total_liquidity_usd": 4.11,
     "is_paused": false
   },
   "0x25f6c558afc4cd9d79ba9154074ff27d8ffd6f49": {
@@ -3636,7 +3636,7 @@
     "name": "20WETH/80VLR",
     "address": "0x01b3f3aabff34e266a98e771438320df98d447dd",
     "chain": "MAINNET",
-    "total_liquidity_usd": 4.01,
+    "total_liquidity_usd": 4.0,
     "is_paused": false
   },
   "0xa04e63d67052e5bc71a9dfeedf009fb500e83243": {
@@ -3679,20 +3679,20 @@
     "total_liquidity_usd": 3.97,
     "is_paused": false
   },
+  "0xa662be71ed7d7eb6caa7d5aaf16eba18d911798c": {
+    "id": "0xa662be71ed7d7eb6caa7d5aaf16eba18d911798c",
+    "name": "USDC WETH",
+    "address": "0xa662be71ed7d7eb6caa7d5aaf16eba18d911798c",
+    "chain": "BASE",
+    "total_liquidity_usd": 3.93,
+    "is_paused": false
+  },
   "0x547eddf01860e8b7184797a6a6cc21cf89653300": {
     "id": "0x547eddf01860e8b7184797a6a6cc21cf89653300",
     "name": "WETH USDC Priority Auction Hook",
     "address": "0x547eddf01860e8b7184797a6a6cc21cf89653300",
     "chain": "BASE",
     "total_liquidity_usd": 3.86,
-    "is_paused": false
-  },
-  "0xa662be71ed7d7eb6caa7d5aaf16eba18d911798c": {
-    "id": "0xa662be71ed7d7eb6caa7d5aaf16eba18d911798c",
-    "name": "USDC WETH",
-    "address": "0xa662be71ed7d7eb6caa7d5aaf16eba18d911798c",
-    "chain": "BASE",
-    "total_liquidity_usd": 3.79,
     "is_paused": false
   },
   "0xe401270e0890ec6613747a20742edad897682561": {
@@ -3735,14 +3735,6 @@
     "total_liquidity_usd": 3.43,
     "is_paused": false
   },
-  "0x8446e1408b44d0fa760d83d70bd6d4bae2567cf4": {
-    "id": "0x8446e1408b44d0fa760d83d70bd6d4bae2567cf4",
-    "name": "50% C / 50% rETH",
-    "address": "0x8446e1408b44d0fa760d83d70bd6d4bae2567cf4",
-    "chain": "BASE",
-    "total_liquidity_usd": 3.41,
-    "is_paused": false
-  },
   "0x175ad160e3b714fa0c9cc4aa0b845a3d19e04f3e": {
     "id": "0x175ad160e3b714fa0c9cc4aa0b845a3d19e04f3e",
     "name": "WETH / USDC / USD extra",
@@ -3775,10 +3767,26 @@
     "total_liquidity_usd": 3.27,
     "is_paused": false
   },
+  "0xc04a3646a5065ef15fb7591c5ccd7e8e95a52708": {
+    "id": "0xc04a3646a5065ef15fb7591c5ccd7e8e95a52708",
+    "name": "80oTANGO 20USDC",
+    "address": "0xc04a3646a5065ef15fb7591c5ccd7e8e95a52708",
+    "chain": "ARBITRUM",
+    "total_liquidity_usd": 3.21,
+    "is_paused": false
+  },
   "0xb9b681069d7d6837a7540ced874a6f8f8c1c4298": {
     "id": "0xb9b681069d7d6837a7540ced874a6f8f8c1c4298",
     "name": "20WETH/80XYZ",
     "address": "0xb9b681069d7d6837a7540ced874a6f8f8c1c4298",
+    "chain": "BASE",
+    "total_liquidity_usd": 3.2,
+    "is_paused": false
+  },
+  "0xd29886c8a2bb7d09e2e93f3f218ee5c79f46500f": {
+    "id": "0xd29886c8a2bb7d09e2e93f3f218ee5c79f46500f",
+    "name": "sUSDX USDX waBasUSDC",
+    "address": "0xd29886c8a2bb7d09e2e93f3f218ee5c79f46500f",
     "chain": "BASE",
     "total_liquidity_usd": 3.2,
     "is_paused": false
@@ -3805,14 +3813,6 @@
     "address": "0x2774a7eef9970fcfb0c0910ed4cb414071cd9623",
     "chain": "ARBITRUM",
     "total_liquidity_usd": 2.99,
-    "is_paused": false
-  },
-  "0xc04a3646a5065ef15fb7591c5ccd7e8e95a52708": {
-    "id": "0xc04a3646a5065ef15fb7591c5ccd7e8e95a52708",
-    "name": "80oTANGO 20USDC",
-    "address": "0xc04a3646a5065ef15fb7591c5ccd7e8e95a52708",
-    "chain": "ARBITRUM",
-    "total_liquidity_usd": 2.97,
     "is_paused": false
   },
   "0x953ee186979f7f0a5c708e63a2755d7163894e4e": {
@@ -3847,12 +3847,28 @@
     "total_liquidity_usd": 2.89,
     "is_paused": false
   },
+  "0x836410d98a3750d0c7eff1cfb3623d992acdc00f": {
+    "id": "0x836410d98a3750d0c7eff1cfb3623d992acdc00f",
+    "name": "hththuhu",
+    "address": "0x836410d98a3750d0c7eff1cfb3623d992acdc00f",
+    "chain": "BASE",
+    "total_liquidity_usd": 2.85,
+    "is_paused": false
+  },
   "0x242cbbbb756c19d25d9e8127dce36caf6d8c49bc": {
     "id": "0x242cbbbb756c19d25d9e8127dce36caf6d8c49bc",
     "name": "80sAbcPHAR 10USDC 10WAVAX",
     "address": "0x242cbbbb756c19d25d9e8127dce36caf6d8c49bc",
     "chain": "AVALANCHE",
     "total_liquidity_usd": 2.71,
+    "is_paused": false
+  },
+  "0x7c60989d5e663836cf688f2bacf12a1208ae11b7": {
+    "id": "0x7c60989d5e663836cf688f2bacf12a1208ae11b7",
+    "name": "Stream Surge xUSD-USDC",
+    "address": "0x7c60989d5e663836cf688f2bacf12a1208ae11b7",
+    "chain": "ARBITRUM",
+    "total_liquidity_usd": 2.7,
     "is_paused": false
   },
   "0xc19bf3f40d6bec7984d6f283e6193186e5d29a01": {
@@ -3876,7 +3892,7 @@
     "name": "67PHAR 33USDC",
     "address": "0xf602b6fba3332f9a19c122ae2ecbfe8f0d3b3eff",
     "chain": "AVALANCHE",
-    "total_liquidity_usd": 2.62,
+    "total_liquidity_usd": 2.61,
     "is_paused": false
   },
   "0xa8b7683936dff9e2f35404e61a875a76676a07b6": {
@@ -4079,14 +4095,6 @@
     "total_liquidity_usd": 2.02,
     "is_paused": false
   },
-  "0x1766b191557bc89267513adedaf25fb5e12eb81a": {
-    "id": "0x1766b191557bc89267513adedaf25fb5e12eb81a",
-    "name": "BRZ / USDC",
-    "address": "0x1766b191557bc89267513adedaf25fb5e12eb81a",
-    "chain": "BASE",
-    "total_liquidity_usd": 2.01,
-    "is_paused": false
-  },
   "0xd99324d16b9a9eca5a20fecee5d1989558b9d8ed": {
     "id": "0xd99324d16b9a9eca5a20fecee5d1989558b9d8ed",
     "name": "Balancer Aave USDC-Aave RLUSD",
@@ -4108,6 +4116,14 @@
     "name": "BOLD USDC",
     "address": "0xf6ae565c17cedc8647e4a7ccd9758d1dde7b07e2",
     "chain": "MAINNET",
+    "total_liquidity_usd": 2.0,
+    "is_paused": false
+  },
+  "0x1766b191557bc89267513adedaf25fb5e12eb81a": {
+    "id": "0x1766b191557bc89267513adedaf25fb5e12eb81a",
+    "name": "BRZ / USDC",
+    "address": "0x1766b191557bc89267513adedaf25fb5e12eb81a",
+    "chain": "BASE",
     "total_liquidity_usd": 2.0,
     "is_paused": false
   },
@@ -4172,7 +4188,7 @@
     "name": "WXDAI NO",
     "address": "0xd1a5de495ac92ae577587bac76f4f654f833882b",
     "chain": "GNOSIS",
-    "total_liquidity_usd": 1.89,
+    "total_liquidity_usd": 1.9,
     "is_paused": false
   },
   "0xc09a98b0138d8cfceff0e4ef672e8bd30ec6eda9": {
@@ -4214,14 +4230,6 @@
     "chain": "BASE",
     "total_liquidity_usd": 1.79,
     "is_paused": true
-  },
-  "0x836410d98a3750d0c7eff1cfb3623d992acdc00f": {
-    "id": "0x836410d98a3750d0c7eff1cfb3623d992acdc00f",
-    "name": "hththuhu",
-    "address": "0x836410d98a3750d0c7eff1cfb3623d992acdc00f",
-    "chain": "BASE",
-    "total_liquidity_usd": 1.78,
-    "is_paused": false
   },
   "0x9c706eda45538d23a2fe44474bf6ae1ca4fa55d0": {
     "id": "0x9c706eda45538d23a2fe44474bf6ae1ca4fa55d0",
@@ -4343,6 +4351,14 @@
     "total_liquidity_usd": 1.29,
     "is_paused": false
   },
+  "0x0e186dcfdf816535dff3fd0de7e200c6e17f341e": {
+    "id": "0x0e186dcfdf816535dff3fd0de7e200c6e17f341e",
+    "name": "3usd",
+    "address": "0x0e186dcfdf816535dff3fd0de7e200c6e17f341e",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 1.27,
+    "is_paused": false
+  },
   "0x82159488dc37e408128580aef25040866a910563": {
     "id": "0x82159488dc37e408128580aef25040866a910563",
     "name": "USDt USDC",
@@ -4356,7 +4372,7 @@
     "name": "Balancer BRLA sDAI",
     "address": "0x889ac9f5c87e6ca075777d5e417b3634d3f84135",
     "chain": "GNOSIS",
-    "total_liquidity_usd": 1.23,
+    "total_liquidity_usd": 1.22,
     "is_paused": false
   },
   "0x3b90720ddc48ea87e675d53a7a8ff4d1d3c9c4de": {
@@ -4471,14 +4487,6 @@
     "total_liquidity_usd": 0.97,
     "is_paused": false
   },
-  "0x7c60989d5e663836cf688f2bacf12a1208ae11b7": {
-    "id": "0x7c60989d5e663836cf688f2bacf12a1208ae11b7",
-    "name": "Stream Surge xUSD-USDC",
-    "address": "0x7c60989d5e663836cf688f2bacf12a1208ae11b7",
-    "chain": "ARBITRUM",
-    "total_liquidity_usd": 0.96,
-    "is_paused": false
-  },
   "0x0fba6f8a2cdc9317509f4e0d1f6214b5465499e8": {
     "id": "0x0fba6f8a2cdc9317509f4e0d1f6214b5465499e8",
     "name": "USDC EUROC",
@@ -4503,14 +4511,6 @@
     "total_liquidity_usd": 0.9,
     "is_paused": false
   },
-  "0x8b82690fe78d48309aeecced0ed44393dd33219b": {
-    "id": "0x8b82690fe78d48309aeecced0ed44393dd33219b",
-    "name": "reCLAMM EDEN-USDT",
-    "address": "0x8b82690fe78d48309aeecced0ed44393dd33219b",
-    "chain": "MAINNET",
-    "total_liquidity_usd": 0.85,
-    "is_paused": true
-  },
   "0xb96008d1d926a6129bd91a12c924bd49b79d7bf5": {
     "id": "0xb96008d1d926a6129bd91a12c924bd49b79d7bf5",
     "name": "40USDT 30PEPE 30USDC",
@@ -4518,6 +4518,14 @@
     "chain": "MAINNET",
     "total_liquidity_usd": 0.85,
     "is_paused": false
+  },
+  "0x8b82690fe78d48309aeecced0ed44393dd33219b": {
+    "id": "0x8b82690fe78d48309aeecced0ed44393dd33219b",
+    "name": "reCLAMM EDEN-USDT",
+    "address": "0x8b82690fe78d48309aeecced0ed44393dd33219b",
+    "chain": "MAINNET",
+    "total_liquidity_usd": 0.85,
+    "is_paused": true
   },
   "0x683a29936cbee7d02f870a210c53261c73571c04": {
     "id": "0x683a29936cbee7d02f870a210c53261c73571c04",
@@ -7055,14 +7063,6 @@
     "total_liquidity_usd": 0.41,
     "is_paused": false
   },
-  "0x5f7d916d90453915120efa46106a886f351e6c14": {
-    "id": "0x5f7d916d90453915120efa46106a886f351e6c14",
-    "name": "YBTC.B BTC.b",
-    "address": "0x5f7d916d90453915120efa46106a886f351e6c14",
-    "chain": "AVALANCHE",
-    "total_liquidity_usd": 0.4,
-    "is_paused": false
-  },
   "0x92eb39f1974c24fa76efb9f671c5fb744238524c": {
     "id": "0x92eb39f1974c24fa76efb9f671c5fb744238524c",
     "name": "WETH EIGEN 0.1%/MjAwfDEwMDAwfDg4fDMyMnwxfDE=",
@@ -7116,6 +7116,14 @@
     "name": "WETH EIGEN 0.1%/MjAwfDEwMDAwfDg4fDMyOHwxfDE=",
     "address": "0x2d95a65b71105202c18e9cfd22f2d1d9623e3641",
     "chain": "MAINNET",
+    "total_liquidity_usd": 0.37,
+    "is_paused": false
+  },
+  "0x5f7d916d90453915120efa46106a886f351e6c14": {
+    "id": "0x5f7d916d90453915120efa46106a886f351e6c14",
+    "name": "YBTC.B BTC.b",
+    "address": "0x5f7d916d90453915120efa46106a886f351e6c14",
+    "chain": "AVALANCHE",
     "total_liquidity_usd": 0.37,
     "is_paused": false
   },
@@ -7620,14 +7628,6 @@
     "name": "WETH EIGEN 0.1%/MjAwfDEwMDAwfDg4fDMyM3wxfDE=",
     "address": "0xc150de3a8d48fc9ee66306e623dbe6cc40a6fb73",
     "chain": "MAINNET",
-    "total_liquidity_usd": 0.29,
-    "is_paused": false
-  },
-  "0x08216aba69763f0f09edc802446bede473e7968a": {
-    "id": "0x08216aba69763f0f09edc802446bede473e7968a",
-    "name": "AaveGotchiDAO Balancer Liquidity",
-    "address": "0x08216aba69763f0f09edc802446bede473e7968a",
-    "chain": "BASE",
     "total_liquidity_usd": 0.29,
     "is_paused": false
   },
