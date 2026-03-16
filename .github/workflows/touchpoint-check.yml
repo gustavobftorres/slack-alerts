@@ -1,0 +1,33 @@
+name: Touchpoint Daily Check
+
+on:
+  schedule:
+    - cron: "0 10 * * 1-5"   # Mon-Fri at 10:00 UTC
+  workflow_dispatch:
+
+jobs:
+  touchpoint-check:
+    name: Check touchpoints and send Slack alerts
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run touchpoint check
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_TOUCHPOINT_DB_ID: ${{ secrets.NOTION_TOUCHPOINT_DB_ID }}
+        run: python src/touchpoint_check.py
