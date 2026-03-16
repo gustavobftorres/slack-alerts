@@ -7,7 +7,7 @@ from alerts import Alert, AlertType
 
 logger = logging.getLogger(__name__)
 
-BALANCER_POOL_URL = "https://balancer.fi/pools/{chain}/{address}"
+BALANCER_POOL_URL = "https://balancer.fi/pools/{chain}/v3/{address}"
 
 ALERT_EMOJI = {
     AlertType.TVL_DROP: ":red_circle:",
