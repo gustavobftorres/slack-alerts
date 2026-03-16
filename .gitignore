@@ -6,3 +6,6 @@ venv/
 *.egg-info/
 dist/
 .DS_Store
+
+# Data snapshot (will be deprecated on dev env)
+*.json
