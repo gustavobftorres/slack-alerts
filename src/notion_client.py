@@ -46,6 +46,17 @@ def _parse_relation_ids(prop: dict) -> list[str]:
     return [r["id"] for r in prop.get("relation", [])]
 
 
+def _parse_people(prop: dict) -> list[str]:
+    """Extract display names from a Notion people property."""
+    if prop.get("type") != "people":
+        return []
+    return [
+        p.get("name", "—")
+        for p in prop.get("people", [])
+        if p.get("name")
+    ]
+
+
 def _fetch_page_title(api_key: str, page_id: str) -> str:
     """Fetch a Notion page and return its title."""
     url = f"{NOTION_API_BASE}/pages/{page_id}"
@@ -87,6 +98,7 @@ def _parse_touchpoint(api_key: str, page: dict) -> Optional[dict]:
     name = ""
     partner = "—"
     follow_up_by = None
+    attendees: list[str] = []
 
     for prop_name, prop_val in props.items():
         if not isinstance(prop_val, dict):
@@ -98,6 +110,8 @@ def _parse_touchpoint(api_key: str, page: dict) -> Optional[dict]:
             partner = _parse_partner(api_key, prop_val)
         elif ptype == "date" and prop_name == "Follow up by":
             follow_up_by = _parse_date(prop_val)
+        elif ptype == "people" and prop_name == "Attendees":
+            attendees = _parse_people(prop_val)
 
     if not name:
         name = "(Untitled)"
@@ -106,6 +120,7 @@ def _parse_touchpoint(api_key: str, page: dict) -> Optional[dict]:
         "name": name,
         "partner": partner,
         "follow_up_by": follow_up_by,
+        "attendees": attendees,
     }
 
 

@@ -40,7 +40,11 @@ def main() -> None:
         sys.exit(1)
 
     run_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    is_monday = datetime.now(timezone.utc).weekday() == 0
+    force_monday = "--monday" in sys.argv
+    is_monday = datetime.now(timezone.utc).weekday() == 0 or force_monday
+
+    if force_monday:
+        logger.info("Running in Monday mode (--monday flag).")
 
     overdue: list[dict] = []
     if is_monday:

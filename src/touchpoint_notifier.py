@@ -1,15 +1,20 @@
 """
 Slack notifier for touchpoint alerts.
 Builds and sends Block Kit messages for overdue and today's touchpoints.
+Groups touchpoints by Attendees so each BD sees their tasks.
 """
 
 import logging
+from collections import defaultdict
 from typing import Optional
+
 from datetime import date, datetime
 
 import requests
 
 logger = logging.getLogger(__name__)
+
+UNASSIGNED = "Unassigned"
 
 
 def _parse_follow_up_date(follow_up_by: Optional[str]) -> Optional[date]:
@@ -47,6 +52,41 @@ def _build_touchpoint_line(tp: dict, overdue: bool = False, today: Optional[date
     return " | ".join(parts)
 
 
+def _group_by_attendee(touchpoints: list[dict]) -> dict[str, list[dict]]:
+    """Group touchpoints by attendee. If multiple attendees, include under each."""
+    grouped: dict[str, list[dict]] = defaultdict(list)
+    for tp in touchpoints:
+        attendees = tp.get("attendees") or []
+        if not attendees:
+            grouped[UNASSIGNED].append(tp)
+        else:
+            for attendee in attendees:
+                grouped[attendee].append(tp)
+    return dict(grouped)
+
+
+def _build_section_by_attendee(
+    touchpoints: list[dict],
+    section_title: str,
+    emoji: str,
+    overdue: bool = False,
+    today: Optional[date] = None,
+) -> list[dict]:
+    """Build Slack blocks for a section, grouped by attendee."""
+    grouped = _group_by_attendee(touchpoints)
+    parts: list[str] = [f"{emoji} *{section_title}"]
+
+    for attendee in sorted(grouped.keys(), key=lambda x: (x == UNASSIGNED, x)):
+        items = grouped[attendee]
+        parts.append(f" - {attendee}")
+        for tp in items:
+            parts.append(_build_touchpoint_line(tp, overdue=overdue, today=today))
+        parts.append("")  # blank line between attendees
+
+    text = "\n".join(parts).rstrip()
+    return [{"type": "section", "text": {"type": "mrkdwn", "text": text}}]
+
+
 def send_touchpoint_alerts(
     webhook_url: str,
     overdue: list[dict],
@@ -55,6 +95,7 @@ def send_touchpoint_alerts(
 ) -> None:
     """
     Send a single Slack message with overdue and today's touchpoints.
+    Groups by Attendees so each BD sees their tasks.
     Does nothing if both lists are empty.
     """
     if not overdue and not today_list:
@@ -75,36 +116,24 @@ def send_touchpoint_alerts(
     ]
 
     if overdue:
-        overdue_lines = [
-            {
-                "type": "section",
-                "text": {
-                    "type": "mrkdwn",
-                    "text": ":rotating_light: *Overdue Touchpoints*\n"
-                    + "\n".join(
-                        _build_touchpoint_line(tp, overdue=True, today=today_dt)
-                        for tp in overdue
-                    ),
-                },
-            },
-            {"type": "divider"},
-        ]
-        blocks.extend(overdue_lines)
+        overdue_blocks = _build_section_by_attendee(
+            overdue,
+            section_title="Overdue Touchpoints",
+            emoji=":rotating_light:",
+            overdue=True,
+            today=today_dt,
+        )
+        blocks.extend(overdue_blocks)
+        blocks.append({"type": "divider"})
 
     if today_list:
-        today_lines = [
-            {
-                "type": "section",
-                "text": {
-                    "type": "mrkdwn",
-                    "text": ":calendar: *Today's Touchpoints*\n"
-                    + "\n".join(
-                        _build_touchpoint_line(tp, overdue=False) for tp in today_list
-                    ),
-                },
-            },
-        ]
-        blocks.extend(today_lines)
+        today_blocks = _build_section_by_attendee(
+            today_list,
+            section_title="Today's Touchpoints",
+            emoji=":calendar:",
+            overdue=False,
+        )
+        blocks.extend(today_blocks)
 
     payload = {"blocks": blocks}
 
