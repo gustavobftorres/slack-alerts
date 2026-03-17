@@ -1,4 +1,4 @@
-name: Balancer V3 Daily Pool Check
+name: Balancer Daily Pool Check
 
 on:
   schedule:
@@ -31,6 +31,9 @@ jobs:
       - name: Run daily pool check
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_POOLS_DB_ID: ${{ secrets.NOTION_POOLS_DB_ID }}
+          BALANCER_V2_SUBGRAPH: ${{ secrets.BALANCER_V2_SUBGRAPH }}
         run: python src/main.py
 
       - name: Commit updated snapshot

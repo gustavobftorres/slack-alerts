@@ -7,7 +7,18 @@ from alerts import Alert, AlertType
 
 logger = logging.getLogger(__name__)
 
-BALANCER_POOL_URL = "https://balancer.fi/pools/{chain}/v3/{address}"
+BALANCER_POOL_URL = "https://balancer.fi/pools/{chain_slug}/v{version}/{address}"
+
+# Map API chain enum to Balancer URL slug (MAINNET -> ethereum, etc.)
+CHAIN_TO_SLUG: dict[str, str] = {
+    "MAINNET": "ethereum",
+    "ARBITRUM": "arbitrum",
+    "BASE": "base",
+    "POLYGON": "polygon",
+    "GNOSIS": "gnosis",
+    "AVALANCHE": "avalanche",
+    "OPTIMISM": "optimism",
+}
 
 ALERT_EMOJI = {
     AlertType.TVL_DROP: ":red_circle:",
@@ -34,11 +45,13 @@ def _build_alert_block(alert: Alert) -> list[dict]:
     emoji = ALERT_EMOJI[alert.alert_type]
     title = ALERT_TITLE[alert.alert_type]
     chain = alert.chain.capitalize()
+    version = getattr(alert, "version", 3)
+    chain_slug = CHAIN_TO_SLUG.get(alert.chain, alert.chain.lower())
     pool_url = BALANCER_POOL_URL.format(
-        chain=alert.chain.lower(), address=alert.pool_address
+        chain_slug=chain_slug, version=version, address=alert.pool_address
     )
 
-    header = f"{emoji} *{title}* — Balancer V3"
+    header = f"{emoji} *{title}* — Balancer V{version}"
     pool_line = f"Pool: *<{pool_url}|{alert.pool_name}>* ({chain})"
 
     lines = [header, pool_line]
@@ -69,7 +82,7 @@ def _build_summary_header(alert_count: int, run_date: str) -> list[dict]:
             "type": "header",
             "text": {
                 "type": "plain_text",
-                "text": f"Balancer V3 Daily Report — {run_date}",
+                "text": f"Balancer Daily Report — {run_date}",
                 "emoji": True,
             },
         },

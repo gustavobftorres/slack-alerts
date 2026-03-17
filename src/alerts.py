@@ -21,6 +21,7 @@ class Alert:
     chain: str
     current_tvl_usd: float
     previous_tvl_usd: float | None = None
+    version: int = 3
 
     @property
     def tvl_change_pct(self) -> float | None:
@@ -77,6 +78,7 @@ def check_alerts(
                             chain=pool["chain"],
                             current_tvl_usd=current_tvl,
                             previous_tvl_usd=previous_tvl,
+                            version=pool.get("version", 3),
                         )
                     )
                     logger.info(
@@ -95,6 +97,7 @@ def check_alerts(
                             chain=pool["chain"],
                             current_tvl_usd=current_tvl,
                             previous_tvl_usd=previous_tvl,
+                            version=pool.get("version", 3),
                         )
                     )
                     logger.info(
@@ -114,6 +117,7 @@ def check_alerts(
                     chain=pool["chain"],
                     current_tvl_usd=current_tvl,
                     previous_tvl_usd=None,
+                    version=pool.get("version", 3),
                 )
             )
             logger.info("POOL_PAUSED triggered for pool %s", pool_id)
