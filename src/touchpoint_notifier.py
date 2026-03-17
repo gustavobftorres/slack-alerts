@@ -44,7 +44,7 @@ def _build_touchpoint_line(tp: dict, overdue: bool = False, today: Optional[date
     if isinstance(follow_up_by, str) and "T" in follow_up_by:
         follow_up_by = follow_up_by.split("T")[0]
 
-    parts = [f"• *{name}*", f"Partner: {partner}", f"Follow up by: {follow_up_by}"]
+    parts = [f"• {name}", f"Partner: {partner}", f"Follow up by: {follow_up_by}"]
     if overdue and today:
         days = _days_late(tp.get("follow_up_by"), today)
         if days is not None:
@@ -74,11 +74,11 @@ def _build_section_by_attendee(
 ) -> list[dict]:
     """Build Slack blocks for a section, grouped by attendee."""
     grouped = _group_by_attendee(touchpoints)
-    parts: list[str] = [f"{emoji} *{section_title}"]
+    parts: list[str] = [f"{emoji} *{section_title}*"]
 
     for attendee in sorted(grouped.keys(), key=lambda x: (x == UNASSIGNED, x)):
         items = grouped[attendee]
-        parts.append(f" - {attendee}")
+        parts.append(f" - *{attendee}*")
         for tp in items:
             parts.append(_build_touchpoint_line(tp, overdue=overdue, today=today))
         parts.append("")  # blank line between attendees
