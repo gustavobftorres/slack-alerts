@@ -1,10 +1,10 @@
-# Alert thresholds for Balancer V3 pool monitoring
+# Alert thresholds for Balancer v2/v3 pool monitoring
 alerts:
   tvl_drop_threshold: 0.10 # 10% — alert when TVL drops more than this
   tvl_spike_threshold: 0.50 # 50% — alert when TVL grows more than this
   min_tvl_usd: 10000 # ignore pools with TVL below this value (USD)
 
-# Balancer V3 chains to monitor
+# Balancer chains to monitor (used for API queries)
 chains:
   - MAINNET
   - ARBITRUM
@@ -14,7 +14,7 @@ chains:
   - AVALANCHE
   - POLYGON
 
-# Balancer V3 API endpoint
+# Balancer API endpoint (serves v2 and v3 pool data)
 api_url: "https://api-v3.balancer.fi/"
 
 # Path to the daily snapshot file
